@@ -23,7 +23,7 @@
                 <th>Origin</th>
                 <th>Color</th>
                 <th>Brand</th>
-                <th>Model</th>
+                <th>Condition</th>
             </tr>
         </thead>
         <tbody id="CarListBody"></tbody>
@@ -45,7 +45,7 @@
               <th>Origin</th>
               <th>Color</th>
               <th>Brand</th>
-              <th>Model</th>
+              <th>Condition</th>
           </tr>
       </thead>
       <tbody></tbody>
@@ -66,7 +66,7 @@
         tableBody.innerHTML = '';
         console.log(data)
         data.forEach(function(car) {
-          
+          console.log("randoom")
           var row = document.createElement('tr');
           row.innerHTML = `
             <td>${car[Object.keys(car)[0]].name}</td>
@@ -91,7 +91,7 @@
 
                   const response = await fetch(`/search?query=${encodeURIComponent(query)}`);
                   const carList = await response.json();
-                  console.log(carList)
+                  
 
                   const table = document.getElementById('carList')     
                   tableBody = document.getElementById('CarListBody')
@@ -154,7 +154,7 @@
             .get("/recommend?items=" + recentSearches)
             .then(function (response) {
                 var recommendList = response.data
-                console.log(recommendList)
+                
                 updateTable(recommendList, '#recommendation');
 
                 localStorage.setItem(
