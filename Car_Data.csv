@@ -1,0 +1,3001 @@
+brand,model,fuel,size,year,color
+BMW,X3 xDrive28i,Premium,Small Sport Utility Vehicle 4WD,2017,Green
+BMW,M4 GTS,Premium,Two Seaters,2016,White
+MINI,John Cooper Works Convertible,Premium,Minicompact Cars,2017,White
+GMC,R15 Pickup 2WD,Regular,Standard Pickup Trucks,1987,Blue
+Lincoln,MKC AWD,Regular,Small Sport Utility Vehicle 4WD,2017,White
+Lincoln,MKC AWD,Regular,Small Sport Utility Vehicle 4WD,2017,Red
+Porsche,Cayenne S,Premium,Standard Sport Utility Vehicle 4WD,2017,Black
+Hyundai,Sonata,Regular,Large Cars,2017,Green
+GMC,R25 Pickup 2WD,Regular,Standard Pickup Trucks,1987,White
+GMC,Terrain FWD,Regular,Small Sport Utility Vehicle 2WD,2017,White
+Lincoln,Navigator 4WD,Regular,Standard Sport Utility Vehicle 4WD,2017,Black
+Jeep,Comanche 2WD,Regular,Standard Pickup Trucks,1987,Gray
+Ford,Mustang Convertible,Regular,Subcompact Cars,2017,White
+Chevrolet,Camaro,Premium,Subcompact Cars,2017,White
+Maserati,Quattroporte S,Premium,Large Cars,2017,Gray
+GMC,Sierra K15 4WD,Regular,Standard Pickup Trucks 4WD,2017,Black
+GMC,Yukon C1500 2WD,Regular,Standard Sport Utility Vehicle 2WD,2017,Blue
+Chevrolet,V10 (K10) Pickup 4WD,Regular,Standard Pickup Trucks,1987,Gray
+GMC,Yukon K1500 XL 4WD,Regular,Standard Sport Utility Vehicle 4WD,2017,White
+Mercedes-Benz,S550 Convertible,Premium,Subcompact Cars,2017,Green
+Volkswagen,Passat,Regular,Midsize Cars,2017,Blue
+MINI,Cooper Hardtop 4 door,Premium,Subcompact Cars,2017,Black
+Cadillac,ATS,Regular,Compact Cars,2017,Blue
+MINI,Cooper S Hardtop 4 door,Premium,Subcompact Cars,2017,Green
+Ford,Transit T150 Wagon FFV,Gasoline or E85,"Vans, Passenger Type",2017,Green
+Ford,Transit Connect Wagon LWB FWD,Regular,Special Purpose Vehicle 2WD,2017,Green
+Jeep,Cherokee Trailhawk 4WD,Regular,Small Sport Utility Vehicle 4WD,2017,Black
+Dodge,Power Ram50 4WD,Regular,Standard Pickup Trucks,1987,Blue
+Dodge,W100/W150 Pickup 4WD,Regular,Standard Pickup Trucks,1987,Gray
+Ferrari,488 Spider,Premium,Two Seaters,2017,Black
+BMW,440i Gran Coupe,Premium,Compact Cars,2017,Gray
+BMW,M240i xDrive Coupe,Premium,Subcompact Cars,2017,Red
+Mercedes-Benz,CLS550 4matic,Premium,Compact Cars,2017,Blue
+Mazda,6,Regular,Midsize Cars,2017,Gray
+Lincoln,Continental  AWD,Regular,Large Cars,2017,Gray
+Kia,Forte 5,Regular,Large Cars,2017,Red
+Mercedes-Benz,S550,Premium,Large Cars,2017,Gray
+Lexus,RX 350,Regular,Small Sport Utility Vehicle 2WD,2017,Green
+Lexus,RX 350 AWD,Regular,Small Sport Utility Vehicle 4WD,2017,White
+GMC,T15 (S15) Pickup 4WD,Regular,Standard Pickup Trucks,1987,Gray
+Honda,HR-V AWD,Regular,Small Station Wagons,2017,Blue
+Mazda,MX-5,Premium,Two Seaters,2017,Black
+Lexus,RC 300 AWD,Premium,Subcompact Cars,2017,Green
+Lexus,LS 460,Premium,Midsize Cars,2017,Green
+Jeep,Renegade 4WD,Regular,Small Sport Utility Vehicle 4WD,2017,Gray
+BMW,328d xDrive Sports Wagon,Diesel,Small Station Wagons,2017,Green
+Kia,Soul,Regular,Small Station Wagons,2017,Black
+GMC,Canyon 2WD,Regular,Small Pickup Trucks 2WD,2017,Green
+Lincoln,MKX FWD,Regular,Small Sport Utility Vehicle 2WD,2017,Black
+Mazda,CX-9 4WD,Regular,Small Sport Utility Vehicle 4WD,2017,Green
+Toyota,Truck 4WD,Regular,Standard Pickup Trucks,1987,White
+Toyota,4Runner 4WD,Regular,Standard Sport Utility Vehicle 4WD,2017,Red
+Chevrolet,G10/20 Van 2WD,Regular,Vans,1987,Blue
+Subaru,WRX,Premium,Compact Cars,2018,Gray
+Jaguar,F-Type S Convertible,Premium,Two Seaters,2018,Blue
+Ferrari,488 GTB,Premium,Two Seaters,2018,Blue
+Alfa Romeo,Stelvio AWD,Premium,Small Sport Utility Vehicle 4WD,2018,Red
+Acura,TLX FWD A-SPEC,Premium,Compact Cars,2018,Blue
+Dodge,B150/B250 Van 2WD,Regular,Vans,1987,Red
+Chevrolet,Camaro,Premium,Subcompact Cars,2018,Blue
+Ford,Flex AWD,Regular,Standard Sport Utility Vehicle 4WD,2018,Red
+Hyundai,Elantra GT,Regular,Large Cars,2018,Blue
+Chevrolet,Silverado C15 2WD,Gasoline or E85,Standard Pickup Trucks 2WD,2018,Gray
+Jaguar,F-Type R AWD Convertible,Premium,Two Seaters,2018,White
+Mercedes-Benz,AMG GLC43 4matic Coupe,Premium,Small Sport Utility Vehicle 4WD,2018,Blue
+GMC,Yukon C1500 XL 2WD,Premium,Standard Sport Utility Vehicle 2WD,2018,White
+GMC,Canyon 4WD,Regular,Small Pickup Trucks 4WD,2018,Blue
+Chevrolet,Tahoe C1500 2WD,Premium,Standard Sport Utility Vehicle 2WD,2018,Gray
+BMW,340i xDrive,Premium,Compact Cars,2018,White
+MINI,Cooper Clubman,Premium,Midsize Cars,2018,Green
+MINI,Cooper S Clubman,Premium,Midsize Cars,2018,White
+Mercedes-Benz,E300,Premium,Midsize Cars,2018,White
+Chevrolet,G10/20 Sport Van 2WD,Diesel,Vans,1987,Black
+Porsche,911 Carrera 4 Cabriolet,Premium,Minicompact Cars,2018,Gray
+Porsche,911 Carrera 4S Cabriolet,Premium,Minicompact Cars,2018,Gray
+Dodge,Durango RWD,Midgrade,Standard Sport Utility Vehicle 2WD,2018,Gray
+Land Rover,Range Rover Velar,Diesel,Small Sport Utility Vehicle 4WD,2018,Green
+Volvo,XC60 AWD PHEV,Premium and Electricity,Small Sport Utility Vehicle 4WD,2018,Gray
+Lincoln,Continental  FWD,Regular,Large Cars,2018,Black
+Lexus,ES 300h,Regular,Midsize Cars,2018,White
+Ford,Edge AWD,Regular,Small Sport Utility Vehicle 4WD,2018,Blue
+Jaguar,F-Type Convertible,Premium,Two Seaters,2018,White
+Lexus,GS 350,Premium,Midsize Cars,2018,Green
+Volkswagen,GTI,Regular,Compact Cars,2018,Gray
+Ford,EcoSport AWD,Regular,Small Sport Utility Vehicle 4WD,2018,Gray
+Ford,Shelby GT350 Mustang,Premium,Subcompact Cars,2018,Gray
+Mercedes-Benz,E400 4matic,Premium,Midsize Cars,2018,Red
+Ford,Taurus FWD,Regular,Large Cars,2018,White
+Mitsubishi,Outlander Sport 4WD,Regular,Small Sport Utility Vehicle 4WD,2018,Red
+Ford,Explorer AWD,Regular,Standard Sport Utility Vehicle 4WD,2018,Red
+Subaru,BRZ,Premium,Minicompact Cars,2018,Blue
+Lexus,IS 350 AWD,Premium,Compact Cars,2018,Gray
+Jaguar,XF AWD (296 Hp),Premium,Midsize Cars,2018,Green
+Kia,Stinger RWD,Premium,Midsize Cars,2018,Green
+Jaguar,XJL,Premium,Large Cars,2018,Blue
+Hyundai,Tucson AWD,Regular,Small Sport Utility Vehicle 4WD,2018,Black
+Toyota,Highlander AWD,Regular,Standard Sport Utility Vehicle 4WD,2018,Gray
+Mercedes-Benz,GLE550e 4matic,Premium and Electricity,Standard Sport Utility Vehicle 4WD,2018,Blue
+Mazda,MX-5,Premium,Two Seaters,2018,Black
+Genesis,G70 RWD,Premium,Compact Cars,2019,Gray
+Genesis,G70 RWD,Premium,Compact Cars,2019,White
+MINI,Cooper S Convertible,Premium,Minicompact Cars,2019,Black
+BMW,I8 Coupe,Premium and Electricity,Subcompact Cars,2019,Blue
+Lincoln,MKC AWD,Regular,Small Sport Utility Vehicle 4WD,2019,White
+Plymouth,Voyager/Grand Voyager 2WD,Regular,Special Purpose Vehicle 2WD,1987,Blue
+American Motors Corporation,Eagle 4WD,Regular,Special Purpose Vehicles,1987,White
+Chevrolet,T10 (S10) Blazer 4WD,Regular,Special Purpose Vehicles,1987,Gray
+Infiniti,QX60 FWD,Premium,Small Sport Utility Vehicle 2WD,2019,White
+Aston Martin,DB11 V12,Premium,Minicompact Cars,2018,Green
+Ford,F150 2WD BASE PAYLOAD LT TIRE,Diesel,Standard Pickup Trucks 2WD,2018,Gray
+Buick,Cascada,Premium,Subcompact Cars,2019,Green
+Volvo,XC60 FWD,Premium,Small Sport Utility Vehicle 2WD,2019,Black
+Cadillac,XT5 AWD,Regular,Small Sport Utility Vehicle 4WD,2019,Black
+Volkswagen,Jetta,Diesel,Compact Cars,1985,White
+Toyota,Corolla Hatchback,Regular,Compact Cars,2019,Blue
+Kia,Optima,Regular,Large Cars,2019,Black
+BMW,X4 xDrive30i,Premium,Small Sport Utility Vehicle 4WD,2019,Gray
+Porsche,911 Turbo S Cabriolet,Premium,Minicompact Cars,2019,Gray
+Dodge,AW100/AW150 Ramcharger 4WD,Regular,Special Purpose Vehicles,1987,Red
+Subaru,Outback AWD,Regular,Small Sport Utility Vehicle 4WD,2019,White
+Cadillac,ATS AWD,Regular,Compact Cars,2019,Blue
+Chevrolet,Camaro,Regular,Subcompact Cars,2019,Green
+Jaguar,XE AWD,Diesel,Compact Cars,2019,Black
+Kia,Forte,Regular,Midsize Cars,2019,Green
+Buick,Regal TourX AWD,Premium,Small Station Wagons,2019,White
+Land Rover,Range Rover Sport,Premium,Standard Sport Utility Vehicle 4WD,2019,Gray
+Nissan,Versa,Regular,Compact Cars,2019,Black
+Mercedes-Benz,AMG GLA45 4matic,Premium,Midsize Station Wagons,2019,Green
+Jeep,Cherokee/Wagoneer 4WD,Regular,Special Purpose Vehicles,1987,Black
+Toyota,Highlander,Regular,Small Sport Utility Vehicle 2WD,2019,White
+Ford,Fiesta FWD,Regular,Subcompact Cars,2019,Gray
+Jeep,Wrangler 4WD,Regular,Special Purpose Vehicles,1987,Blue
+Lexus,IS 350 AWD,Premium,Compact Cars,2019,Red
+Maserati,Levante Trofeo,Premium,Standard Sport Utility Vehicle 4WD,2019,Green
+Ford,Expedition MAX 4WD,Regular,Standard Sport Utility Vehicle 4WD,2019,Green
+Ford,F150 Pickup 4WD FFV,Gasoline or E85,Standard Pickup Trucks 4WD,2019,Red
+Toyota,4Runner 4WD,Regular,Special Purpose Vehicles,1987,White
+Mazda,CX-5 2WD,Regular,Small Sport Utility Vehicle 2WD,2019,Red
+Mercedes-Benz,AMG GT Coupe,Premium,Two Seaters,2019,White
+Mercedes-Benz,AMG C63 S Coupe,Premium,Subcompact Cars,2019,Green
+Toyota,Yaris,Regular,Compact Cars,2019,Green
+Nissan,Rogue Sport,Regular,Small Station Wagons,2019,Black
+GMC,S15 Cab Chassis 2WD,Regular,Special Purpose Vehicle 2WD,1987,Red
+Toyota,Cab/Chassis 2WD,Regular,Special Purpose Vehicle 2WD,1987,Green
+Land Rover,Range Rover SV Coupe,Premium,Standard Sport Utility Vehicle 4WD,2019,Red
+Volkswagen,Golf Alltrack,Regular,Small Station Wagons,2019,White
+Jaguar,XE AWD,Premium,Compact Cars,2020,Blue
+Porsche,Panamera GTS ST,Premium,Large Cars,2019,White
+Jaguar,XF AWD,Premium,Midsize Cars,2020,Red
+BMW,230i Convertible,Premium,Subcompact Cars,2020,Red
+BMW,M240i Convertible,Premium,Subcompact Cars,2020,Gray
+BMW,M4 Convertible,Premium,Subcompact Cars,2020,Red
+Mazda,3 5-Door 4WD,Regular,Midsize Cars,2019,Green
+Genesis,G70 AWD,Premium,Compact Cars,2020,White
+Porsche,Macan S,Premium,Small Sport Utility Vehicle 4WD,2019,Blue
+Aston Martin,Vantage V8,Premium,Two Seaters,2020,Green
+Volvo,240 DL/GL/turbo,Regular,Compact Cars,1985,Green
+Acura,RDX FWD,Premium,Small Sport Utility Vehicle 2WD,2020,Black
+Hyundai,Kona FWD,Regular,Small Sport Utility Vehicle 2WD,2020,Green
+Land Rover,Range Rover Velar,Premium,Small Sport Utility Vehicle 4WD,2020,Blue
+Kia,Forte FE,Regular,Midsize Cars,2020,White
+Mitsubishi,Outlander 2WD,Regular,Small Sport Utility Vehicle 2WD,2020,Black
+Nissan,Altima SR/Platinum,Regular,Midsize Cars,2020,Green
+GMC,Yukon C1500 2WD,Gasoline or E85,Standard Sport Utility Vehicle 2WD,2020,White
+Porsche,Cayenne Turbo,Premium,Standard Sport Utility Vehicle 4WD,2020,Blue
+Genesis,G90 AWD,Premium,Large Cars,2020,Black
+Chevrolet,Suburban K1500 4WD,Regular,Standard Sport Utility Vehicle 4WD,2020,Blue
+Jeep,Cherokee 4WD,Regular,Small Sport Utility Vehicle 4WD,2020,Black
+MINI,Cooper S Convertible,Premium,Minicompact Cars,2020,Green
+BMW,X2 sDrive28i,Premium,Midsize Cars,2020,Gray
+Honda,Pilot FWD,Regular,Small Sport Utility Vehicle 2WD,2020,Gray
+Dodge,Durango AWD,Regular,Standard Sport Utility Vehicle 4WD,2020,White
+Maserati,Levante,Premium,Standard Sport Utility Vehicle 4WD,2020,White
+Ford,Fusion AWD,Regular,Midsize Cars,2020,Red
+Chevrolet,Silverado 2WD,Regular,Standard Pickup Trucks 2WD,2020,Red
+Mercedes-Benz,GLC300,Premium,Small Sport Utility Vehicle 2WD,2020,Black
+Mercedes-Benz,Metris (Cargo Van),Premium,Special Purpose Vehicle 2WD,2020,Red
+Lexus,RX 450h AWD,Premium,Standard Sport Utility Vehicle 4WD,2020,Green
+Toyota,Tacoma 2WD,Regular,Small Pickup Trucks 2WD,2020,Black
+Lamborghini,Urus,Premium,Standard Sport Utility Vehicle 4WD,2020,Red
+Hyundai,Venue,Regular,Midsize Cars,2020,Black
+Volkswagen,Tiguan 4motion,Regular,Small Sport Utility Vehicle 4WD,2020,Gray
+Nissan,NV200 Cargo Van,Regular,Special Purpose Vehicle 2WD,2020,White
+Ford,F150 2WD FFV BASE PAYLOAD LT,Gasoline or E85,Standard Pickup Trucks 2WD,2020,Red
+Chevrolet,Spectrum Turbo,Regular,Subcompact Cars,1988,White
+Ford,F150 Pickup 2WD Limited,Regular,Standard Pickup Trucks 2WD,2020,White
+Mercedes-Benz,AMG G63,Premium,Standard Sport Utility Vehicle 4WD,2020,White
+Mercedes-Benz,S560 4matic Maybach,Premium,Large Cars,2020,Red
+Ford,Escape AWD,Regular,Small Sport Utility Vehicle 4WD,2020,White
+Honda,CR-V FWD,Regular,Small Sport Utility Vehicle 2WD,2020,White
+GMC,Acadia AWD,Regular,Standard Sport Utility Vehicle 4WD,2020,Black
+Land Rover,Range Rover PHEV,Premium and Electricity,Standard Sport Utility Vehicle 4WD,2019,Black
+Land Rover,Range Rover PHEV,Premium and Electricity,Standard Sport Utility Vehicle 4WD,2020,Red
+Porsche,Taycan Turbo S,Electricity,Large Cars,2020,Blue
+Mazda,MX-5,Premium,Two Seaters,2020,Green
+Dodge,Daytona,Premium,Subcompact Cars,1988,Green
+Buick,Encore GX FWD,Regular,Small Sport Utility Vehicle 2WD,2020,Green
+Chevrolet,Trailblazer AWD,Regular,Small Sport Utility Vehicle 4WD,2021,Green
+Ford,F150 Pickup 2WD,Diesel,Standard Pickup Trucks 2WD,2020,Blue
+BMW,750i xDrive,Premium,Large Cars,2021,Black
+Chevrolet,Colorado ZR2 4WD,Regular,Small Pickup Trucks 4WD,2021,White
+Lexus,LC 500,Premium,Subcompact Cars,2021,Green
+BMW,X3 M,Premium,Small Sport Utility Vehicle 4WD,2021,White
+Subaru,Crosstrek AWD,Regular,Small Sport Utility Vehicle 4WD,2021,Black
+Chevrolet,Suburban 2WD,Regular,Standard Sport Utility Vehicle 2WD,2021,Green
+Chevrolet,Spark,Regular,Subcompact Cars,2021,White
+McLaren Automotive,MSO HS,Premium,Two Seaters,2016,Blue
+McLaren Automotive,720S Spider,Premium,Two Seaters,2019,Gray
+Porsche,Cayman T,Premium,Two Seaters,2020,Green
+Toyota,RAV4 Prime 4WD,Regular Gas and Electricity,Small Sport Utility Vehicle 4WD,2021,Green
+Acura,RDX FWD A-SPEC,Premium,Small Sport Utility Vehicle 2WD,2021,White
+Rolls-Royce,Wraith Black Badge,Premium,Midsize Cars,2021,Green
+Subaru,Legacy AWD,Regular,Large Cars,2021,Black
+GMC,Acadia FWD,Regular,Standard Sport Utility Vehicle 2WD,2021,Red
+BMW,840i xDrive Coupe,Premium,Subcompact Cars,2021,White
+Volvo,V60 AWD PHEV,Premium and Electricity,Small Station Wagons,2021,Black
+Suzuki,SA310,Regular,Minicompact Cars,1985,Blue
+Ram,1500 4WD,Midgrade,Standard Pickup Trucks 4WD,2021,Green
+Mercedes-Benz,E350 4matic,Premium,Midsize Cars,2021,Green
+Pontiac,Firefly,Regular,Subcompact Cars,1988,Blue
+Mazda,CX-5 4WD,Regular,Small Sport Utility Vehicle 4WD,2021,Red
+Lexus,RX 450h AWD,Premium,Standard Sport Utility Vehicle 4WD,2021,Black
+Mazda,CX-30 2WD,Regular,Small Sport Utility Vehicle 2WD,2021,Black
+Chevrolet,Silverado 2WD,Regular,Standard Pickup Trucks 2WD,2021,Green
+GMC,Sierra 2WD,Regular,Standard Pickup Trucks 2WD,2021,Green
+GMC,Sierra Cab Chassis 2WD,Regular,Special Purpose Vehicle 2WD,2021,Black
+Volkswagen,GTI,Regular,Compact Cars,2021,White
+Toyota,Corolla APEX,Regular,Compact Cars,2021,Green
+Mazda,6,Regular,Midsize Cars,2021,Black
+Toyota,Camry AWD LE/SE,Regular,Midsize Cars,2021,Black
+Honda,Accord Hybrid,Regular,Large Cars,2021,Blue
+Toyota,Corolla,Regular,Subcompact Cars,1988,Green
+Chrysler,Pacifica AWD,Regular,Minivan - 4WD,2021,Red
+Dodge,Challenger,Premium,Midsize Cars,2021,Gray
+Lamborghini,Aventador Roadster,Premium,Two Seaters,2021,Red
+Audi,e-tron Sportback,Electricity,Standard Sport Utility Vehicle 4WD,2021,Green
+Nissan,Sentra,Regular,Midsize Cars,2021,Blue
+Toyota,Tercel EZ,Regular,Subcompact Cars,1988,Green
+Porsche,718 Boxster GTS,Premium,Two Seaters,2021,Blue
+Mercedes-Benz,Metris (Cargo Van),Premium,Special Purpose Vehicle 2WD,2021,Green
+Mazda,MX-5,Premium,Two Seaters,2021,Green
+Kia,Niro FE,Regular,Small Station Wagons,2021,Blue
+BMW,M850i xDrive Coupe,Premium,Subcompact Cars,2021,White
+Ford,Mustang Convertible,Regular,Subcompact Cars,2021,Gray
+BMW,5 Series,Premium,Compact Cars,1988,Red
+Ford,Edge AWD,Regular,Small Sport Utility Vehicle 4WD,2021,White
+Porsche,Panamera GTS,Premium,Large Cars,2021,White
+Buick,Skylark,Regular,Compact Cars,1988,Black
+Nissan,Rogue AWD SL/Platinum,Regular,Small Sport Utility Vehicle 4WD,2021,Red
+Porsche,Cayenne e-Hybrid,Premium and Electricity,Standard Sport Utility Vehicle 4WD,2021,Black
+BMW,430i Convertible,Premium,Subcompact Cars,2021,Green
+Chevrolet,Beretta,Regular,Compact Cars,1988,Green
+Chevrolet,Trailblazer FWD,Regular,Small Sport Utility Vehicle 2WD,2022,Black
+GMC,Sierra Cab Chassis 2WD,Regular,Special Purpose Vehicle 2WD,2021,Black
+BMW,M760i xDrive Sedan,Premium,Large Cars,2022,White
+Land Rover,Defender 110,Premium,Standard Sport Utility Vehicle 4WD,2022,Black
+Ford,Transit Connect Van FWD,Regular,Special Purpose Vehicle 2WD,2022,Red
+GMC,Sierra 4WD AT4,Premium,Standard Pickup Trucks 4WD,2021,Green
+Toyota,Corolla APEX,Regular,Compact Cars,2022,Gray
+Nissan,Stanza,Regular,Compact Cars,1988,Black
+Dodge,Omni,Regular,Compact Cars,1988,Red
+Volkswagen,Tiguan 4motion,Regular,Small Sport Utility Vehicle 4WD,2022,Blue
+Volkswagen,Tiguan R-Line 4motion,Regular,Small Sport Utility Vehicle 4WD,2022,White
+BMW,Z4 M40i,Premium,Two Seaters,2022,Blue
+Volvo,V60CC T5 AWD,Premium,Small Station Wagons,2022,White
+Rolls-Royce,Ghost,Premium,Large Cars,2022,Red
+BMW,X5 M50i,Premium,Standard Sport Utility Vehicle 4WD,2022,Black
+Honda,Accord,Regular,Compact Cars,1988,White
+Porsche,911 Carrera Cabriolet,Premium,Minicompact Cars,2022,Blue
+Porsche,911 Targa 4S,Premium,Minicompact Cars,2022,Green
+Honda,CR-V Hybrid AWD,Regular,Small Sport Utility Vehicle 4WD,2022,White
+Lexus,ES 300h,Regular,Midsize Cars,2022,Green
+Ford,Maverick FWD,Regular,Small Pickup Trucks 2WD,2022,Black
+Land Rover,Range Rover Evoque MHEV,Premium,Small Sport Utility Vehicle 4WD,2022,Black
+Bugatti,Chiron Pur Sport,Premium,Two Seaters,2022,Red
+Infiniti,Q60,Premium,Subcompact Cars,2022,Gray
+Mercedes-Benz,260E,Premium,Compact Cars,1988,Black
+Infiniti,QX60 AWD,Premium,Standard Sport Utility Vehicle 4WD,2022,White
+Chevrolet,Suburban 2WD,Diesel,Standard Sport Utility Vehicle 2WD,2022,Gray
+GMC,Yukon XL 2WD,Diesel,Standard Sport Utility Vehicle 2WD,2022,White
+McLaren Automotive,720S Spider,Premium,Two Seaters,2022,Blue
+Chevrolet,Tahoe 2WD,Premium,Standard Sport Utility Vehicle 2WD,2022,Red
+Chevrolet,Suburban 4WD,Regular,Standard Sport Utility Vehicle 4WD,2022,Green
+Porsche,Cayenne GTS Coupe,Premium,Standard Sport Utility Vehicle 4WD,2022,Gray
+Ford,Edge AWD,Regular,Small Sport Utility Vehicle 4WD,2022,Red
+Chevrolet,Silverado Mud Terrain Tires 4WD,Premium,Standard Pickup Trucks 4WD,2022,Gray
+Audi,e-tron GT,Electricity,Midsize Cars,2022,Red
+Nissan,Altima SR,Regular,Midsize Cars,2022,White
+Ford,Explorer RWD,Regular,Standard Sport Utility Vehicle 2WD,2022,Green
+Ford,F150 Pickup 2WD,Regular,Standard Pickup Trucks 2WD,2022,Gray
+Ford,F150 Pickup Tremor 4WD,Regular,Standard Pickup Trucks 4WD,2022,Blue
+Mercedes-Benz,S580 4matic Maybach,Premium,Large Cars,2022,Gray
+Ford,Explorer RWD,Regular,Standard Sport Utility Vehicle 2WD,2022,Red
+Ford,Explorer AWD,Regular,Standard Sport Utility Vehicle 4WD,2022,Black
+GMC,Yukon XL 4WD,Regular,Standard Sport Utility Vehicle 4WD,2022,Black
+Saab,900,Regular,Compact Cars,1988,Red
+Kia,Sportage FWD,Regular,Small Sport Utility Vehicle 2WD,2023,Blue
+Porsche,911 Carrera 4 GTS,Premium,Minicompact Cars,2022,Black
+Porsche,911 Targa 4 GTS,Premium,Minicompact Cars,2022,Gray
+BMW,iX xDrive50 (21 inch wheels),Electricity,Standard Sport Utility Vehicle 4WD,2022,Red
+Ford,Expedition 4WD,Regular,Standard Sport Utility Vehicle 4WD,2022,White
+GMC,Sierra Cab Chassis 4WD,Regular,Special Purpose Vehicle 4WD,2022,Gray
+Genesis,G70 RWD,Premium,Compact Cars,2023,Blue
+Porsche,911 Carrera GTS Cabriolet,Premium,Minicompact Cars,2022,Red
+MINI,Cooper Convertible,Premium,Minicompact Cars,2023,Green
+MINI,Cooper Hardtop 2 door,Premium,Subcompact Cars,2023,Black
+BMW,M8 Competition Gran Coupe,Premium,Midsize Cars,2023,Blue
+MINI,Cooper S Countryman All4,Premium,Midsize Cars,2023,Blue
+Chevrolet,Corvette,Regular,Two Seaters,2023,Green
+Chevrolet,Monte Carlo,Regular,Midsize Cars,1985,White
+Aston Martin,DB11 V8,Premium,Minicompact Cars,2023,Black
+Chevrolet,Camaro,Premium,Subcompact Cars,2023,Blue
+Kia,K5,Regular,Large Cars,2023,Blue
+Maserati,Quattroporte GT,Premium,Large Cars,2023,White
+Cadillac,XT5 Hearse FWD,Premium,Special Purpose Vehicle 2WD,2023,Gray
+Chevrolet,Camaro,Regular,Subcompact Cars,2023,Green
+Volkswagen,Golf-R,Premium,Compact Cars,2023,White
+Jaguar,XF P300 AWD,Premium,Midsize Cars,2023,Green
+Subaru,Impreza Sport 5-Door,Regular,Small Station Wagons,2023,Green
+Ferrari,Portofino M,Premium,Minicompact Cars,2023,Green
+BMW,228i xDrive Gran Coupe,Premium,Compact Cars,2023,White
+BMW,X3 M,Premium,Small Sport Utility Vehicle 4WD,2023,Black
+BMW,M340i Sedan,Premium,Compact Cars,2023,Blue
+Chevrolet,Tahoe 2WD,Regular,Standard Sport Utility Vehicle 2WD,2023,Gray
+Audi,A6 quattro,Premium,Midsize Cars,2023,Red
+Jeep,Wrangler 4dr 4WD,Premium,Small Sport Utility Vehicle 4WD,2023,White
+Porsche,Panamera 4 ST,Premium,Large Cars,2023,Green
+Nissan,Titan 4WD PRO4X,Premium,Standard Pickup Trucks 4WD,2023,Red
+Chevrolet,Silverado 2WD,Regular,Standard Pickup Trucks 2WD,2023,Blue
+Chevrolet,Silverado 2WD,Regular,Standard Pickup Trucks 2WD,2023,Green
+Chevrolet,Silverado 4WD,Regular,Standard Pickup Trucks 4WD,2023,Black
+GMC,Sierra 4WD,Regular,Standard Pickup Trucks 4WD,2023,Black
+Jeep,Gladiator 4WD,Regular,Standard Pickup Trucks 4WD,2023,Green
+Mercury,Sable,Regular,Midsize Cars,1988,Black
+Porsche,Macan GTS,Premium,Small Sport Utility Vehicle 4WD,2023,White
+Mercedes-Benz,GLE450 4matic,Premium,Standard Sport Utility Vehicle 4WD,2023,White
+Toyota,Tundra 2WD,Regular,Standard Pickup Trucks 2WD,2023,Gray
+Porsche,718 Boxster,Premium,Two Seaters,2023,White
+Mazda,3 5-Door 4WD,Regular,Midsize Cars,2023,Gray
+Porsche,718 Cayman GT4,Premium,Two Seaters,2023,White
+Mercedes-Benz,EQS 450 Plus (SUV),Electricity,Standard Sport Utility Vehicle 2WD,2023,Red
+Audi,R8 GT RWD,Premium,Two Seaters,2023,Red
+Lexus,RC 300 AWD,Premium,Subcompact Cars,2023,Gray
+Lexus,RC 350,Premium,Subcompact Cars,2023,Gray
+Porsche,911 Carrera 4S,Premium,Minicompact Cars,2023,Gray
+Porsche,911 Carrera 4S Cabriolet,Premium,Minicompact Cars,2023,Black
+Porsche,911 Carrera GTS Cabriolet,Premium,Minicompact Cars,2023,Black
+Ford,F150 Pickup 4WD,Regular,Standard Pickup Trucks 4WD,2023,White
+Ford,F150 Pickup Tremor 4WD,Regular,Standard Pickup Trucks 4WD,2023,Gray
+Ford,F150 Pickup Tremor 4WD FFV,Gasoline or E85,Standard Pickup Trucks 4WD,2023,Gray
+Ford,Bronco Sasquatch 4WD,Regular,Small Sport Utility Vehicle 4WD,2023,Green
+Rolls-Royce,Eight/Mulsan,Regular,Midsize Cars,1988,Gray
+Dodge,Challenger,Midgrade,Midsize Cars,2023,Green
+Toyota,Corolla Cross 4WD,Regular,Small Sport Utility Vehicle 4WD,2023,Green
+Buick,LeSabre,Regular,Large Cars,1988,Blue
+Ford,Mustang HO Coupe,Regular,Subcompact Cars,2023,Black
+Ford,Maverick AWD,Regular,Small Pickup Trucks 4WD,2023,Black
+Nissan,Pickup 4WD,Regular,Small Pickup Trucks 4WD,1984,White
+Jeep,Scrambler Pickup 4WD,Regular,Small Pickup Trucks 4WD,1984,Blue
+Dodge,D250 Pickup 2WD,Regular,Standard Pickup Trucks 2WD,1984,White
+GMC,C15 Pickup 2WD,Regular,Standard Pickup Trucks 2WD,1984,Green
+GMC,T15 (S15) Pickup 4WD,Regular,Standard Pickup Trucks 4WD,1984,Red
+Toyota,Cargo Van 2WD,Regular,"Vans, Cargo Type",1984,Red
+Chevrolet,S10 Blazer 2WD,Regular,Special Purpose Vehicle 2WD,1984,Black
+Chevrolet,S10 Blazer 2WD,Regular,Special Purpose Vehicle 2WD,1984,Green
+GMC,S15 Jimmy 2WD,Regular,Special Purpose Vehicle 2WD,1984,Black
+Plymouth,Voyager 2WD,Regular,Special Purpose Vehicle 2WD,1984,Red
+Jeep,Grand Wagoneer 4WD,Regular,Special Purpose Vehicle 4WD,1984,Gray
+Audi,S4,Premium,Compact Cars,2010,White
+Audi,S4,Premium,Compact Cars,2010,Gray
+Mitsubishi,Lancer,Premium,Compact Cars,2010,Black
+Cadillac,STS,Regular,Midsize Cars,2010,Black
+Subaru,Legacy AWD,Premium,Midsize Cars,2010,Gray
+Subaru,Wagon 4WD,Regular,Special Purpose Vehicles,1986,Gray
+Mitsubishi,Lancer Sportback,Regular,Small Station Wagons,2010,Green
+Ford,F150 Pickup 4WD FFV,Gasoline or E85,Standard Pickup Trucks 4WD,2010,Green
+Ford,F150 Pickup 4WD,Regular,Standard Pickup Trucks 4WD,2010,Red
+Chevrolet,S10 Cab Chassis 2WD,Regular,Special Purpose Vehicle 2WD,1986,White
+Mazda,CX-9 4WD,Regular,Sport Utility Vehicle - 4WD,2010,Black
+Volvo,740,Regular,Midsize Cars,1990,Gray
+Import Trade Services,MB 300E,Regular,Compact Cars,1991,Blue
+Wallace Environmental,Wetl 560 SEL,Premium,Midsize Cars,1991,Red
+J.K. Motors,BMW535I,Regular,Midsize Cars,1992,Red
+Dodge,Viper,Premium,Two Seaters,1993,Green
+Mercedes-Benz,600SL,Premium,Two Seaters,1993,Blue
+Panos,Roadster,Regular,Two Seaters,1993,Black
+J.K. Motors,MERC BENZ 300CE,Regular,Midsize Cars,1993,Green
+Isuzu,Rodeo 4WD,Regular,Special Purpose Vehicle 4WD,1993,White
+Dodge,Caravan C/V/Grand Caravan 2WD,Regular,Special Purpose Vehicle 2WD,1994,Blue
+Honda,Passport 2WD,Regular,Special Purpose Vehicles,1995,Gray
+Oldsmobile,Eighty-Eight,Regular,Large Cars,1996,Blue
+Oldsmobile,Eighty-Eight,Premium,Large Cars,1996,Green
+BMW,Z3 Roadster,Premium,Two Seaters,1997,Gray
+Volkswagen,Passat 4motion,Premium,Compact Cars,2002,Black
+Ford,Crown Victoria Police,Regular,Large Cars,2004,Blue
+Porsche,911 Carrera,Premium,Minicompact Cars,2010,Blue
+Pontiac,G6,Gasoline or E85,Compact Cars,2010,White
+Pontiac,G6,Regular,Compact Cars,2010,Green
+Hummer,H3T 4WD,Regular,Standard Pickup Trucks 4WD,2010,Red
+Jeep,Cherokee 2WD,Regular,Special Purpose Vehicles,1997,Black
+Bentley,Continental Supersports,Premium,Two Seaters,2010,Green
+Buick,Lacrosse/Allure AWD,Regular,Midsize Cars,2010,Blue
+Mercury,Mariner FWD,Regular,Sport Utility Vehicle - 2WD,2010,White
+Chevrolet,G30 Van 2WD (cargo),Regular,Vans,1995,Red
+Saab,9-3 SportCombi,Regular,Small Station Wagons,2010,Blue
+Suzuki,Equator 2WD,Regular,Small Pickup Trucks 2WD,2010,Black
+Toyota,Tacoma 2WD,Regular,Small Pickup Trucks 2WD,2010,Red
+Nissan,Xterra 4WD,Regular,Sport Utility Vehicle - 4WD,2010,Red
+Aston Martin,V8 Vantage,Premium,Two Seaters,2010,Red
+Nissan,Maxima,Premium,Midsize Cars,2010,Gray
+Dodge,Ram Van 1500 2WD,Regular,"Vans, Cargo Type",2002,Black
+Mitsubishi,Outlander 4WD,Premium,Sport Utility Vehicle - 4WD,2010,Green
+MINI,Cooper S,Premium,Minicompact Cars,2010,Blue
+Dodge,Caliber,Regular,Small Station Wagons,2010,Black
+GMC,Sierra C15 2WD,Gasoline or E85,Standard Pickup Trucks 2WD,2010,Black
+GMC,Sierra C15 2WD,Gasoline or E85,Standard Pickup Trucks 2WD,2010,White
+GMC,Sierra K15 4WD,Gasoline or E85,Standard Pickup Trucks 4WD,2010,Red
+Cadillac,Escalade ESV 2WD,Gasoline or E85,Sport Utility Vehicle - 2WD,2010,Gray
+GMC,Yukon XL 1500 2WD,Gasoline or E85,Sport Utility Vehicle - 2WD,2010,Red
+Cadillac,Escalade AWD,Gasoline or E85,Sport Utility Vehicle - 4WD,2010,Blue
+BMW,328i Sport Wagon xDrive,Premium,Small Station Wagons,2010,Blue
+Chevrolet,Spectrum,Regular,Subcompact Cars,1987,Green
+BMW,X3 xDrive30i,Premium,Sport Utility Vehicle - 4WD,2010,Blue
+Porsche,911 Turbo Cabriolet,Premium,Minicompact Cars,2010,Green
+Porsche,911 Turbo Cabriolet,Premium,Minicompact Cars,2010,Green
+Hyundai,Tucson 2WD,Regular,Sport Utility Vehicle - 2WD,2010,Black
+Cadillac,SRX AWD,Premium,Sport Utility Vehicle - 4WD,2010,Gray
+Ford,Fiesta,Regular,Subcompact Cars,2011,Blue
+Nissan,Sentra Coupe,Regular,Subcompact Cars,1987,Black
+Kia,Rio,Regular,Compact Cars,2011,Red
+BMW,ActiveHybrid 7i,Premium,Midsize Cars,2011,Black
+Ford,Escort,Regular,Compact Cars,1985,Green
+GMC,Sierra C15 2WD,Regular,Standard Pickup Trucks 2WD,2011,Green
+Lincoln,MKT FWD,Regular,Sport Utility Vehicle - 2WD,2011,White
+BMW,X6 xDrive50i,Premium,Sport Utility Vehicle - 4WD,2011,Gray
+Audi,TT Roadster quattro,Premium,Two Seaters,2011,Gray
+Porsche,911 GT3,Premium,Two Seaters,2011,Black
+Ford,Escort,Diesel,Compact Cars,1985,Blue
+Chevrolet,Camaro,Regular,Compact Cars,2011,Blue
+Mercedes-Benz,C300 4matic,Premium,Compact Cars,2011,Green
+Honda,Civic,Regular,Subcompact Cars,1987,Red
+Volkswagen,Jetta,Regular,Compact Cars,2011,Red
+Audi,A4 Avant quattro,Premium,Small Station Wagons,2011,Black
+Dodge,Ram 1500 Pickup 4WD,Gasoline or E85,Standard Pickup Trucks 4WD,2011,Gray
+Chevrolet,Express 1500 2WD Passenger,Gasoline or E85,"Vans, Passenger Type",2011,Gray
+Chevrolet,Express 3500 2WD Passenger,Gasoline or E85,"Vans, Passenger Type",2011,Green
+Chevrolet,HHR FWD,Gasoline or E85,Sport Utility Vehicle - 2WD,2011,Green
+Chevrolet,HHR Panel FWD,Gasoline or E85,Sport Utility Vehicle - 2WD,2011,Green
+Volvo,XC60 FWD,Regular,Sport Utility Vehicle - 2WD,2011,Green
+Volkswagen,Tiguan,Premium,Sport Utility Vehicle - 2WD,2011,Red
+Jaguar,XJS,Regular,Subcompact Cars,1987,Gray
+Ford,Edge AWD,Regular,Sport Utility Vehicle - 4WD,2011,Blue
+Aston Martin,DB9,Premium,Minicompact Cars,2011,Black
+MINI,Cooper,Premium,Minicompact Cars,2011,Black
+Honda,Accord Coupe,Regular,Compact Cars,2011,Green
+MINI,Cooper Countryman,Premium,Compact Cars,2011,Gray
+Lexus,GS 350 AWD,Premium,Midsize Cars,2011,Green
+Honda,Accord,Regular,Large Cars,2011,Red
+Mitsubishi,Lancer Sportback,Regular,Small Station Wagons,2011,Black
+Suzuki,Equator 2WD,Regular,Small Pickup Trucks 2WD,2011,Gray
+Ford,Ranger 4WD,Regular,Small Pickup Trucks 4WD,2011,Blue
+Mitsubishi,Outlander 2WD,Regular,Sport Utility Vehicle - 2WD,2011,Red
+Mitsubishi,Tredia,Premium,Subcompact Cars,1987,Green
+Suzuki,Grand Vitara 4WD,Regular,Sport Utility Vehicle - 4WD,2011,White
+Plymouth,Colt,Premium,Subcompact Cars,1987,Gray
+Toyota,Matrix,Regular,Small Station Wagons,2011,White
+Jeep,Patriot 2WD,Regular,Sport Utility Vehicle - 2WD,2011,Gray
+Pontiac,Firefly,Regular,Subcompact Cars,1987,White
+Nissan,370Z,Premium,Two Seaters,2011,Blue
+Pontiac,Sunbird Convertible,Premium,Subcompact Cars,1987,Gray
+Kia,Forte Koup,Regular,Compact Cars,2011,Green
+Lexus,CT 200h,Regular,Compact Cars,2011,Gray
+Mercedes-Benz,CL63 AMG,Premium,Compact Cars,2011,Green
+Mercedes-Benz,CL65 AMG,Premium,Compact Cars,2011,Blue
+Chevrolet,Cruze,Regular,Midsize Cars,2011,Blue
+Audi,R8 Spyder,Premium,Two Seaters,2012,Black
+Lexus,LFA,Premium,Two Seaters,2012,Gray
+Fiat,500,Premium,Minicompact Cars,2012,Black
+Porsche,911 Carrera 4S Cabriolet,Premium,Minicompact Cars,2012,Green
+Hyundai,Elantra,Regular,Midsize Cars,2012,Blue
+BMW,Alpina B7 SWB xDrive,Premium,Large Cars,2012,Red
+Hyundai,Genesis R-Spec,Premium,Large Cars,2012,Black
+Chevrolet,Colorado Crew Cab 2WD,Regular,Small Pickup Trucks 2WD,2012,Red
+GMC,Savana 1500 2WD Conversion (cargo),Gasoline or E85,"Vans, Cargo Type",2012,Green
+Kia,Sportage 2WD,Regular,Sport Utility Vehicle - 2WD,2012,Black
+Audi,Q5,Premium,Sport Utility Vehicle - 4WD,2012,Black
+Chevrolet,Malibu,Regular,Midsize Cars,2012,Red
+Dodge,Challenger SRT8,Premium,Midsize Cars,2012,Gray
+Toyota,Corolla Sport,Regular,Subcompact Cars,1987,Gray
+Chevrolet,Silverado C15 2WD,Gasoline or E85,Standard Pickup Trucks 2WD,2012,Gray
+Ford,Escape FWD,Regular,Sport Utility Vehicle - 2WD,2012,White
+Volvo,XC70 AWD,Regular,Sport Utility Vehicle - 4WD,2012,Black
+Saab,9-3X SportCombi AWD,Regular,Small Station Wagons,2011,Blue
+Saab,9-4X AWD,Regular,Sport Utility Vehicle - 4WD,2011,Gray
+Mercedes-Benz,GLK350,Premium,Sport Utility Vehicle - 2WD,2012,Black
+Volkswagen,Tiguan,Premium,Sport Utility Vehicle - 2WD,2012,White
+GMC,Terrain AWD,Regular,Sport Utility Vehicle - 4WD,2012,Green
+Volkswagen,Tiguan 4motion,Premium,Sport Utility Vehicle - 4WD,2012,White
+Sterling,825,Regular,Compact Cars,1987,Blue
+Kia,Forte Koup,Regular,Compact Cars,2012,Red
+Suzuki,Kizashi S,Regular,Compact Cars,2012,Green
+Buick,Regal,Regular,Midsize Cars,2012,Gray
+Saab,9-5 Sedan AWD,Regular,Midsize Cars,2012,Blue
+Dodge,Charger,Midgrade,Large Cars,2012,Green
+Ford,Taurus FWD,Regular,Large Cars,2012,Green
+Mercedes-Benz,S550 4matic,Premium,Large Cars,2012,Gray
+GMC,Sierra 15 Hybrid 2WD,Regular,Standard Pickup Trucks 2WD,2012,Blue
+Chevrolet,Cavalier,Regular,Compact Cars,1987,Gray
+Jeep,Patriot 2WD,Regular,Sport Utility Vehicle - 2WD,2012,Green
+Subaru,Forester AWD,Regular,Sport Utility Vehicle - 4WD,2012,Gray
+Kia,Optima Hybrid,Regular,Midsize Cars,2011,Black
+Infiniti,G37x Coupe,Premium,Subcompact Cars,2012,White
+Honda,Insight,Regular,Compact Cars,2012,Red
+Mitsubishi,Lancer Evolution,Premium,Compact Cars,2012,Red
+Acura,RL,Premium,Midsize Cars,2012,White
+BMW,328i Sport Wagon,Premium,Small Station Wagons,2012,Gray
+Mazda,CX-7 4WD,Premium,Sport Utility Vehicle - 4WD,2012,Black
+Nissan,Rogue AWD,Regular,Sport Utility Vehicle - 4WD,2012,Black
+Nissan,Armada 4WD,Gasoline or E85,Sport Utility Vehicle - 4WD,2012,White
+Nissan,Leaf,Electricity,Midsize Cars,2012,Red
+BMW,328i,Premium,Compact Cars,2012,Red
+Porsche,New 911 Carrera,Premium,Minicompact Cars,2012,Red
+smart,fortwo cabriolet,Premium,Two Seaters,2013,Green
+Chevrolet,Silverado C15 XFE 2WD,Gasoline or E85,Standard Pickup Trucks 2WD,2013,Gray
+Chevrolet,Express 1500 AWD Cargo,Gasoline or E85,"Vans, Cargo Type",2013,Red
+Kia,Sportage 2WD,Regular,Small Sport Utility Vehicle 2WD,2013,White
+Hyundai,Tucson 4WD,Regular,Small Sport Utility Vehicle 4WD,2013,Red
+Chevrolet,Suburban 2500 2WD,Regular,Standard Sport Utility Vehicle 2WD,2013,Black
+GMC,Yukon XL 1500 4WD,Gasoline or E85,Standard Sport Utility Vehicle 4WD,2013,Gray
+Subaru,Legacy AWD,Regular,Midsize Cars,2013,Red
+Audi,A4 quattro,Premium,Compact Cars,2013,White
+Kia,Forte Koup,Regular,Compact Cars,2013,Gray
+Mercury,Lynx,Diesel,Compact Cars,1985,Red
+GMC,Sierra 15 Hybrid 2WD,Regular,Standard Pickup Trucks 2WD,2013,Blue
+Volkswagen,Touareg,Diesel,Standard Sport Utility Vehicle 4WD,2013,Black
+Bugatti,Veyron,Premium,Two Seaters,2013,Black
+Mercedes-Benz,CLS63 AMG,Premium,Compact Cars,2013,White
+Audi,A7 quattro,Premium,Midsize Cars,2013,White
+Volkswagen,Jetta,Diesel,Compact Cars,2013,Green
+Mercedes-Benz,SLK350,Premium,Two Seaters,2013,Gray
+Mercedes-Benz,C250,Premium,Compact Cars,2013,White
+Dodge,Grand Caravan,Regular,Minivan - 2WD,2013,White
+Jeep,Compass 2WD,Regular,Small Sport Utility Vehicle 2WD,2013,Blue
+MINI,Cooper S Convertible,Premium,Minicompact Cars,2013,Blue
+Plymouth,Sundance,Premium,Compact Cars,1987,Black
+MINI,John Cooper Works Clubman,Premium,Subcompact Cars,2013,Green
+Mitsubishi,Lancer,Regular,Compact Cars,2013,Red
+Mitsubishi,Lancer,Premium,Compact Cars,2013,Green
+Chevrolet,Malibu,Regular,Midsize Cars,2013,White
+TVR Engineering Ltd,TVR 280i Convertible,Premium,Two Seaters,1985,Red
+Dodge,Charger,Regular,Large Cars,2013,Blue
+Ford,Fusion FWD,Regular,Midsize Cars,2013,White
+Audi,A4 quattro,Premium or E85,Compact Cars,2013,Green
+Chevrolet,Malibu,Regular,Midsize Cars,2013,White
+Honda,Accord,Regular,Midsize Cars,2013,Green
+Ford,E150 Wagon FFV,Gasoline or E85,"Vans, Passenger Type",2013,White
+GMC,Terrain AWD,Regular,Small Sport Utility Vehicle 4WD,2013,Gray
+Toyota,4Runner 4WD,Regular,Standard Sport Utility Vehicle 4WD,2013,Gray
+Honda,Accord,Regular,Midsize Cars,2013,Red
+Lexus,IS 250 AWD,Premium,Subcompact Cars,2013,Red
+Jaguar,XJ,Premium,Large Cars,2013,Blue
+Land Rover,Range Rover,Premium,Standard Sport Utility Vehicle 4WD,2013,Green
+Audi,5000 CS quattro,Regular,Midsize Cars,1987,Green
+Audi,5000 CS Turbo,Regular,Midsize Cars,1987,White
+Honda,Crosstour 2WD,Regular,Small Sport Utility Vehicle 2WD,2013,Red
+Mercedes-Benz,CLS550 4matic,Premium,Compact Cars,2014,White
+Volkswagen,Touareg,Diesel,Standard Sport Utility Vehicle 4WD,2014,Red
+Porsche,911 Carrera 4,Premium,Minicompact Cars,2014,Black
+Cadillac,XTS AWD,Regular,Large Cars,2014,Green
+Chevrolet,Express 1500 2WD Cargo,Gasoline or E85,"Vans, Cargo Type",2014,Red
+Ferrari,F12,Premium,Two Seaters,2014,Black
+Audi,S5 Cabriolet,Premium,Subcompact Cars,2014,Blue
+Audi,A5 quattro,Premium or E85,Subcompact Cars,2014,Black
+Chrysler,LeBaron GTS,Premium,Midsize Cars,1987,Green
+Ford,Fiesta ST FWD,Regular,Compact Cars,2014,White
+Chevrolet,Equinox FWD,Regular,Small Sport Utility Vehicle 2WD,2014,Blue
+Audi,RS 5 Cabriolet,Premium,Subcompact Cars,2014,White
+Mercedes-Benz,E350 Convertible,Premium,Subcompact Cars,2014,Black
+Bentley,Continental GT,Premium,Compact Cars,2014,White
+Dodge,Aries,Regular,Midsize Cars,1987,Black
+Fiat,500 L,Premium,Small Station Wagons,2014,White
+Jeep,Wrangler 4WD,Regular,Small Sport Utility Vehicle 4WD,2014,Gray
+Dodge,Lancer,Regular,Midsize Cars,1987,Green
+Dodge,600,Regular,Midsize Cars,1987,Blue
+Ford,Fusion FWD,Regular,Midsize Cars,2014,Green
+Lincoln,MKZ AWD,Regular,Midsize Cars,2014,Gray
+BMW,535i Gran Turismo,Premium,Large Cars,2014,White
+BMW,760Li,Premium,Large Cars,2014,Green
+Honda,Accord,Regular,Midsize Cars,2014,Red
+Honda,Accord,Regular,Midsize Cars,2014,Green
+Jaguar,XF FFV,Premium or E85,Midsize Cars,2014,Gray
+Ford,E150 Wagon FFV,Gasoline or E85,"Vans, Passenger Type",2014,Red
+Toyota,Sienna 2WD,Regular,Minivan - 2WD,2014,Black
+Nissan,Armada 2WD,Regular,Standard Sport Utility Vehicle 2WD,2014,Blue
+Porsche,Panamera 4S,Premium,Large Cars,2014,Black
+Rolls-Royce,Silver Spirit/Silver Spur,Regular,Midsize Cars,1987,Red
+Kia,Soul,Regular,Small Station Wagons,2014,Gray
+Kia,Sportage 2WD,Regular,Small Sport Utility Vehicle 2WD,2014,Red
+Lexus,GS 350,Premium,Midsize Cars,2014,Blue
+Nissan,Frontier 4WD,Regular,Small Pickup Trucks 4WD,2014,Blue
+Nissan,Xterra 4WD,Regular,Small Sport Utility Vehicle 4WD,2014,Green
+Kia,Rio,Regular,Compact Cars,2014,Gray
+Infiniti,Q70,Premium,Midsize Cars,2014,Blue
+Nissan,Rogue AWD,Regular,Small Sport Utility Vehicle 4WD,2014,Red
+Mazda,6,Regular,Midsize Cars,2015,White
+Kia,K900,Premium,Large Cars,2015,White
+Kia,Sorento FWD,Regular,Small Sport Utility Vehicle 2WD,2015,Red
+Ford,Fusion FWD,Regular,Midsize Cars,2014,Blue
+Audi,TT Coupe quattro,Premium,Subcompact Cars,2015,White
+GMC,Yukon K1500 XL 4WD,Regular,Standard Sport Utility Vehicle 4WD,2015,Blue
+Acura,TSX,Premium,Compact Cars,2011,Gray
+Jeep,Grand Cherokee 4WD,Regular,Sport Utility Vehicle - 4WD,2011,Gray
+Tesla,Model S (85 kW-hr battery pack),Electricity,Large Cars,2014,Green
+Volvo,S80 FWD,Regular,Midsize Cars,2015,Black
+Buick,Skyhawk Wagon,Regular,Small Station Wagons,1987,White
+Chevrolet,Cavalier Wagon,Regular,Small Station Wagons,1987,Blue
+BMW,640i xDrive Gran Coupe,Premium,Compact Cars,2015,White
+BMW,M6 Gran Coupe,Premium,Compact Cars,2015,White
+Volvo,S60 PoleStar AWD,Regular,Compact Cars,2015,Gray
+Kia,Forte Koup,Regular,Compact Cars,2015,Red
+Ford,Escort Wagon,Regular,Small Station Wagons,1987,Black
+Ford,Taurus FWD,Regular,Large Cars,2015,Red
+Ford,Taurus AWD FFV,Gasoline or E85,Large Cars,2015,Black
+Ford,Transit T150 Wagon,Regular,"Vans, Passenger Type",2015,Red
+Mazda,323 Wagon,Regular,Small Station Wagons,1987,Black
+Audi,A7 quattro,Diesel,Midsize Cars,2015,Gray
+Mazda,323 Wagon,Regular,Small Station Wagons,1987,Black
+Porsche,911 Carrera,Premium,Minicompact Cars,2015,White
+Acura,ILX,Premium,Compact Cars,2015,Green
+Kia,Sportage FWD,Regular,Small Sport Utility Vehicle 2WD,2015,Green
+Chevrolet,Camaro,Regular,Compact Cars,2015,Gray
+Nissan,370Z,Premium,Two Seaters,2015,Black
+Mazda,3 5-Door,Regular,Midsize Cars,2015,White
+Infiniti,Q60 Convertible,Premium,Subcompact Cars,2015,Red
+Volkswagen,Passat,Regular,Midsize Cars,2015,Black
+Volkswagen,Golf,Diesel,Compact Cars,2015,Blue
+Dodge,Challenger,Premium,Midsize Cars,2015,Gray
+Audi,5000S Wagon,Regular,Midsize-Large Station Wagons,1987,Gray
+BMW,435i xDrive Convertible,Premium,Subcompact Cars,2015,Black
+Ram,C/V Tradesman,Regular,Minivan - 2WD,2015,Blue
+Jeep,Patriot 4WD,Regular,Small Sport Utility Vehicle 4WD,2015,Green
+Jeep,Cherokee 4WD Active Drive II,Regular,Small Sport Utility Vehicle 4WD,2015,Green
+BMW,328d xDrive,Diesel,Compact Cars,2015,Black
+Rolls-Royce,Ghost,Premium,Large Cars,2015,Black
+Chevrolet,Silverado C15 2WD,Regular,Standard Pickup Trucks 2WD,2015,Blue
+Dodge,Aries Wagon,Regular,Midsize-Large Station Wagons,1987,Red
+GMC,Sierra C15 Cab Chassis 2WD,Gasoline or E85,Special Purpose Vehicle 2WD,2015,Green
+Subaru,Impreza Wagon AWD,Regular,Small Station Wagons,2015,Black
+Toyota,Sequoia 4WD FFV,Gasoline or E85,Standard Sport Utility Vehicle 4WD,2015,Blue
+Hyundai,Santa Fe AWD,Regular,Small Sport Utility Vehicle 4WD,2015,Blue
+Nissan,Rogue AWD,Regular,Small Sport Utility Vehicle 4WD,2015,Black
+Ford,Expedition 2WD,Regular,Standard Sport Utility Vehicle 2WD,2015,Gray
+Peugeot,505 Station Wagon,Premium,Midsize-Large Station Wagons,1987,Blue
+GMC,Canyon 2WD,Regular,Small Pickup Trucks 2WD,2015,Green
+Mercedes-Benz,GL63 AMG,Premium,Standard Sport Utility Vehicle 4WD,2015,White
+smart,fortwo electric drive convertible,Electricity,Two Seaters,2015,Black
+Porsche,Cayenne S e-Hybrid,Premium Gas or Electricity,Standard Sport Utility Vehicle 4WD,2015,Gray
+Ford,Focus FWD,Regular,Compact Cars,2015,Green
+Volkswagen,Golf SportWagen,Regular,Small Station Wagons,2015,Green
+Ford,Fusion Hybrid FWD,Regular,Midsize Cars,2016,Green
+Lincoln,MKZ AWD,Regular,Midsize Cars,2016,Blue
+Mazda,MX-5,Premium,Two Seaters,2016,Gray
+Kia,Soul,Regular,Small Station Wagons,2016,Red
+Maserati,Quattroporte GTS,Premium,Large Cars,2016,Black
+Scion,iA,Regular,Subcompact Cars,2016,Red
+Chevrolet,Sonic 5 RS,Regular,Midsize Cars,2016,Red
+Chevrolet,Impala,Gasoline or E85,Large Cars,2016,Red
+Toyota,Truck 2WD,Regular,Small Pickup Trucks,1987,Blue
+Buick,Encore,Regular,Small Sport Utility Vehicle 2WD,2016,Blue
+GMC,Terrain FWD,Regular,Small Sport Utility Vehicle 2WD,2016,Green
+Land Rover,Range Rover Evoque,Premium,Small Sport Utility Vehicle 4WD,2016,Black
+Isuzu,Pickup 4WD,Regular,Small Pickup Trucks,1987,White
+Mercedes-Benz,AMG S63 4matic,Premium,Large Cars,2016,Red
+GMC,Canyon 2WD,Regular,Small Pickup Trucks 2WD,2016,Red
+Chevrolet,Suburban C1500 2WD,Gasoline or E85,Standard Sport Utility Vehicle 2WD,2016,Black
+Land Rover,Range Rover Sport,Premium,Standard Sport Utility Vehicle 4WD,2016,Gray
+Bentley,Continental GT Convertible,Premium,Subcompact Cars,2016,Blue
+BMW,M235i,Premium,Subcompact Cars,2016,Blue
+MINI,Cooper S Countryman All4,Premium,Compact Cars,2016,Gray
+MINI,Cooper Hardtop 4 door,Premium,Subcompact Cars,2016,Gray
+Cadillac,CTS-V,Premium,Midsize Cars,2016,Red
+Buick,Encore AWD,Regular,Small Sport Utility Vehicle 4WD,2016,White
+MINI,Cooper Hardtop 4 door,Premium,Subcompact Cars,2016,Black
+Pontiac,Sunbird,Regular,Compact Cars,1985,Green
+Nissan,Frontier 2WD,Regular,Small Pickup Trucks 2WD,2016,Red
+Dodge,Charger AWD,Regular,Large Cars,2016,Blue
+Jeep,Renegade 2WD,Premium,Small Sport Utility Vehicle 2WD,2016,Blue
+Lexus,NX 300h AWD,Regular,Small Sport Utility Vehicle 4WD,2016,Red
+Ford,F150 Pickup 2WD,Regular,Standard Pickup Trucks,1987,Black
+Mercedes-Benz,S550e,Premium and Electricity,Large Cars,2016,White
+Mitsubishi,Outlander Sport 4WD,Regular,Small Sport Utility Vehicle 4WD,2016,White
+Honda,Civic 2Dr,Regular,Compact Cars,2016,Green
+Honda,Civic 2Dr,Regular,Compact Cars,2016,Red
+Pontiac,Sunbird Convertible,Regular,Subcompact Cars,1986,Red
+Chevrolet,Venture AWD,Regular,Minivan - 4WD,2003,Black
+Chevrolet,Tracker 2WD Convertible,Regular,Sport Utility Vehicle - 2WD,2003,Blue
+Honda,Element 2WD,Regular,Sport Utility Vehicle - 2WD,2003,Black
+Renault,Fuego,Regular,Subcompact Cars,1986,Green
+Chevrolet,Tracker LT 4WD,Regular,Sport Utility Vehicle - 4WD,2003,Blue
+GMC,Jimmy 4WD,Regular,Sport Utility Vehicle - 4WD,2003,Black
+Suzuki,Vitara 2 Door 4WD,Regular,Sport Utility Vehicle - 4WD,2003,Red
+Toyota,4Runner 4WD,Regular,Sport Utility Vehicle - 4WD,2003,Gray
+Chevrolet,Silverado 2500 2WD (Bifuel),Gasoline or natural gas,Standard Pickup Trucks 2WD,2003,Green
+Plymouth,Conquest,Premium,Subcompact Cars,1985,Blue
+Honda,Civic Hybrid,Regular,Compact Cars,2003,Red
+BMW,330xi,Premium,Compact Cars,2003,White
+Porsche,Turbo 2 911 Gt2,Premium,Two Seaters,2004,Red
+BMW,325ci Convertible,Premium,Minicompact Cars,2004,Green
+BMW,330ci Convertible,Premium,Minicompact Cars,2004,Blue
+BMW,330ci,Premium,Subcompact Cars,2004,Gray
+BMW,645ci Convertible,Premium,Subcompact Cars,2004,Red
+BMW,645ci Convertible,Premium,Subcompact Cars,2004,Black
+Hyundai,Tiburon,Regular,Subcompact Cars,2004,Red
+Mitsubishi,Eclipse,Premium,Subcompact Cars,2004,Black
+Volkswagen,New Beetle,Premium,Subcompact Cars,2004,Black
+Audi,A4,Premium,Compact Cars,2004,Green
+Cadillac,Cimarron,Regular,Compact Cars,1986,Green
+Dodge,Neon/SRT-4/SX 2.0,Premium,Compact Cars,2004,Blue
+Ford,Focus,Regular,Compact Cars,2004,Red
+Mercedes-Benz,C240,Premium,Compact Cars,2004,Black
+Chevrolet,Cavalier,Regular,Compact Cars,1986,Black
+Mitsubishi,Lancer,Regular,Compact Cars,2004,Blue
+Nissan,Sentra,Regular,Compact Cars,2004,White
+Saturn,Ion,Premium,Compact Cars,2004,Red
+Toyota,Corolla,Regular,Compact Cars,2004,Green
+Dodge,Omni,Regular,Compact Cars,1986,Black
+Hyundai,XG350,Regular,Midsize Cars,2004,Black
+Rolls-Royce,Phantom,Premium,Midsize Cars,2004,Green
+Saab,5-Sep,Regular,Midsize Cars,2004,Black
+BMW,745li,Premium,Large Cars,2004,Gray
+Ford,Thunderbird,Regular,Compact Cars,1986,Blue
+Volkswagen,Jetta Wagon,Diesel,Small Station Wagons,2004,Gray
+Chevrolet,Colorado 2WD,Regular,Standard Pickup Trucks 2WD,2004,Black
+Ford,Ranger Pickup 2WD,Regular,Standard Pickup Trucks 2WD,2004,Blue
+Nissan,Frontier V6 2WD,Regular,Standard Pickup Trucks 2WD,2004,Red
+Nissan,Frontier V6 2WD,Premium,Standard Pickup Trucks 2WD,2004,Blue
+Dodge,Ram 1500 Pickup 4WD,Regular,Standard Pickup Trucks 4WD,2004,Blue
+Mercury,Topaz,Regular,Compact Cars,1986,Gray
+GMC,Sierra 1500 4WD,Regular,Standard Pickup Trucks 4WD,2004,Blue
+Chevrolet,Van 1500/2500 AWD,Regular,"Vans, Cargo Type",2004,Green
+Cadillac,Escalade 2WD,Regular,Sport Utility Vehicle - 2WD,2004,Black
+GMC,Yukon XL 1500 2WD,Regular,Sport Utility Vehicle - 2WD,2004,Blue
+GMC,Envoy XL 2WD,Regular,Sport Utility Vehicle - 2WD,2004,Blue
+Jeep,Grand Cherokee 2WD,Regular,Sport Utility Vehicle - 2WD,2004,Gray
+BMW,X3,Premium,Sport Utility Vehicle - 4WD,2004,Red
+Mercedes-Benz,G500,Premium,Sport Utility Vehicle - 4WD,2004,Green
+Mitsubishi,Montero,Premium,Sport Utility Vehicle - 4WD,2004,Green
+Porsche,Cayenne S,Premium,Sport Utility Vehicle - 4WD,2004,Gray
+Suzuki,Vitara 4 Door 4WD,Regular,Sport Utility Vehicle - 4WD,2004,White
+Toyota,Highlander 4WD,Regular,Sport Utility Vehicle - 4WD,2004,Red
+Ford,F150 CNG,CNG,Standard Pickup Trucks 2WD,2004,Green
+Plymouth,Horizon,Regular,Compact Cars,1986,Red
+Chrysler,Sebring Convertible,Gasoline or E85,Compact Cars,2004,White
+Mercedes-Benz,C320 FFV (Wagon),Premium or E85,Small Station Wagons,2004,Blue
+Chevrolet,Express Passenger (Bi-fuel),Gasoline or natural gas,"Vans, Passenger Type",2004,White
+Pontiac,Sunbird,Regular,Compact Cars,1986,Blue
+Chrysler,Crossfire Coupe,Premium,Two Seaters,2005,Gray
+Honda,Insight,Regular,Two Seaters,2005,Black
+Pontiac,Sunbird,Regular,Compact Cars,1986,Gray
+Nissan,350z Roadster,Premium,Two Seaters,2005,Red
+Porsche,Carrera GT,Premium,Two Seaters,2005,Black
+Porsche,Carrera 2 Cabriolet Kit,Premium,Minicompact Cars,2005,Black
+Porsche,Carrera 2 Coupe Kit,Premium,Minicompact Cars,2005,Gray
+Porsche,Targa,Premium,Minicompact Cars,2005,Red
+BMW,325xi,Premium,Compact Cars,2005,Green
+Dodge,Neon/SRT-4/SX 2.0,Regular,Compact Cars,2005,White
+Honda,Civic,Regular,Compact Cars,2005,White
+Mercedes-Benz,C230 Kompressor,Premium,Compact Cars,2005,Black
+Saab,9-3 Sport Sedan,Premium,Compact Cars,2005,Black
+Volvo,S60 FWD,Premium,Compact Cars,2005,Gray
+BMW,530i,Premium,Midsize Cars,2005,Black
+Cadillac,CTS,Regular,Midsize Cars,2005,Blue
+Mercedes-Benz,E320 4matic,Premium,Midsize Cars,2005,Blue
+Mercedes-Benz,E500 4matic,Premium,Midsize Cars,2005,Blue
+Saab,5-Sep,Premium,Midsize Cars,2005,Red
+Toyota,Prius,Regular,Midsize Cars,2005,Green
+Volkswagen,Passat,Premium,Midsize Cars,2005,Green
+Cadillac,Armored Deville,Regular,Large Cars,2005,Gray
+Ford,Taurus,Regular,Large Cars,2005,Blue
+Audi,S4 Avant,Premium,Small Station Wagons,2005,Red
+Pontiac,Vibe,Premium,Small Station Wagons,2005,Gray
+Mercedes-Benz,E320 (Wagon),Premium,Midsize Station Wagons,2005,Green
+Volkswagen,Passat Wagon,Premium,Midsize Station Wagons,2005,White
+Toyota,Tundra 2WD,Regular,Standard Pickup Trucks 2WD,2005,White
+Chevrolet,Colorado 4WD,Regular,Standard Pickup Trucks 4WD,2005,White
+Chevrolet,Colorado 4WD,Regular,Standard Pickup Trucks 4WD,2005,Gray
+Ford,F150 Pickup 4WD,Regular,Standard Pickup Trucks 4WD,2005,Green
+Chevrolet,Van 1500/2500 2WD,Regular,"Vans, Cargo Type",2005,White
+Ford,Freestar Wagon FWD,Regular,Minivan - 2WD,2005,Black
+Buick,Terraza AWD,Regular,Minivan - 4WD,2005,Gray
+Dodge,Aries,Regular,Midsize Cars,1986,Red
+Dodge,Aries,Regular,Midsize Cars,1986,Green
+Mazda,Tribute 2WD,Regular,Sport Utility Vehicle - 2WD,2005,Black
+Dodge,Aries,Regular,Midsize Cars,1986,Green
+BMW,X3,Premium,Sport Utility Vehicle - 4WD,2005,Red
+GMC,Yukon 1500 4WD,Regular,Sport Utility Vehicle - 4WD,2005,Red
+Subaru,Outback Wagon AWD,Regular,Sport Utility Vehicle - 4WD,2005,Red
+GMC,Yukon 1500 2WD,Gasoline or E85,Sport Utility Vehicle - 2WD,2005,Gray
+Kia,Sportage 4WD,Regular,Sport Utility Vehicle - 4WD,2005,Black
+Volvo,XC90 AWD,Premium,Sport Utility Vehicle - 4WD,2005,Green
+GMC,Sierra 1500 2WD,Gasoline or E85,Standard Pickup Trucks 2WD,2005,Black
+Oldsmobile,Cutlass Ciera,Regular,Midsize Cars,1986,Black
+Oldsmobile,Cutlass Supreme,Regular,Midsize Cars,1986,Blue
+Porsche,Carrera 4 S Cabriolet,Premium,Minicompact Cars,2006,Black
+Lexus,IS 250,Premium,Subcompact Cars,2006,Red
+Lexus,IS 250 AWD,Premium,Subcompact Cars,2006,Green
+Suzuki,Swift x,Regular,Subcompact Cars,2006,Gray
+Volkswagen,New Beetle,Diesel,Subcompact Cars,2006,Black
+BMW,330i,Premium,Compact Cars,2006,Blue
+Mercedes-Benz,C280 4matic,Premium,Compact Cars,2006,Gray
+Pontiac,Grand Prix,Regular,Midsize Cars,1986,Blue
+Volkswagen,GTI,Premium,Compact Cars,2006,Green
+Volkswagen,GTI,Premium,Compact Cars,2006,Blue
+BMW,530i,Premium,Midsize Cars,2006,White
+Hyundai,Elantra,Regular,Midsize Cars,2006,Black
+Jaguar,S-Type 3.0 Litre,Premium,Midsize Cars,2006,Red
+Pontiac,Grand Prix,Premium,Midsize Cars,2006,Red
+Volkswagen,Passat,Premium,Midsize Cars,2006,Green
+Volvo,S80 AWD,Premium,Midsize Cars,2006,Blue
+Hyundai,Azera,Regular,Large Cars,2006,Red
+Kia,Amanti,Regular,Large Cars,2006,Gray
+Mercedes-Benz,S430,Premium,Large Cars,2006,Gray
+Toyota,Matrix,Regular,Small Station Wagons,2006,Gray
+Dodge,Ram 1500 Pickup 2WD,Regular,Standard Pickup Trucks 2WD,2006,Green
+Toyota,Tacoma 2WD,Regular,Standard Pickup Trucks 2WD,2006,Gray
+Toyota,Tacoma 2WD,Regular,Standard Pickup Trucks 2WD,2006,Blue
+Chevrolet,Colorado Crew Cab 4WD,Regular,Standard Pickup Trucks 4WD,2006,Green
+GMC,Canyon 4WD,Regular,Standard Pickup Trucks 4WD,2006,Green
+Toyota,Tacoma 4WD,Regular,Standard Pickup Trucks 4WD,2006,Gray
+GMC,Envoy XUV 2WD,Regular,Sport Utility Vehicle - 2WD,2006,Blue
+Honda,Element 2WD,Regular,Sport Utility Vehicle - 2WD,2006,White
+Jeep,Grand Cherokee 2WD,Regular,Sport Utility Vehicle - 2WD,2006,Blue
+Jeep,Grand Cherokee 2WD,Regular,Sport Utility Vehicle - 2WD,2006,Green
+Jeep,Grand Cherokee 2WD,Regular,Sport Utility Vehicle - 2WD,2006,Red
+Lexus,RX 400h 2WD,Regular,Sport Utility Vehicle - 2WD,2006,White
+Suzuki,Grand Vitara XL7,Regular,Sport Utility Vehicle - 2WD,2006,Blue
+Chrysler,Pacifica AWD,Regular,Sport Utility Vehicle - 4WD,2006,Blue
+Ford,Escape 4WD,Regular,Sport Utility Vehicle - 4WD,2006,Blue
+Infiniti,QX56 4WD,Regular,Sport Utility Vehicle - 4WD,2006,Green
+Mitsubishi,Space Wagon,Regular,Small Station Wagons,1986,Gray
+Suzuki,Grand Vitara XL7 4WD,Regular,Sport Utility Vehicle - 4WD,2006,Blue
+Volvo,XC90 AWD,Premium,Sport Utility Vehicle - 4WD,2006,Gray
+Dodge,Caravan/Grand Caravan 2WD,Gasoline or E85,Minivan - 2WD,2006,Blue
+Oldsmobile,Firenza Cruiser,Regular,Small Station Wagons,1986,Red
+Subaru,Outback AWD,Regular,Sport Utility Vehicle - 4WD,2006,Green
+Ferrari,F141,Premium,Two Seaters,2006,White
+Chevrolet,Cobalt,Premium,Subcompact Cars,2007,Red
+Mitsubishi,Eclipse,Regular,Subcompact Cars,2007,White
+Pontiac,G6,Regular,Compact Cars,2007,Red
+Volkswagen,Jetta,Premium,Compact Cars,2007,White
+Subaru,XT,Regular,Subcompact Cars,1985,Gray
+Hyundai,Sonata,Regular,Large Cars,2007,Black
+Volkswagen,Passat Wagon,Premium,Midsize Station Wagons,2007,Gray
+Chevrolet,Silverado Classic 1500 2WD,Regular,Standard Pickup Trucks 2WD,2007,Blue
+Ford,Ranger Pickup 2WD,Regular,Standard Pickup Trucks 2WD,2007,Green
+Chevrolet,Celebrity Wagon,Regular,Midsize-Large Station Wagons,1986,Gray
+Lexus,RX 350 2WD,Premium,Sport Utility Vehicle - 2WD,2007,Gray
+Mercedes-Benz,SLK350,Premium,Two Seaters,2007,Green
+Saturn,SKY,Premium,Two Seaters,2007,White
+Porsche,Carrera 4 S Coupe,Premium,Minicompact Cars,2007,Black
+Chevrolet,Cobalt,Regular,Subcompact Cars,2007,Green
+Audi,A6 quattro,Premium,Midsize Cars,2007,Red
+Pontiac,6000 Wagon,Regular,Midsize-Large Station Wagons,1986,Gray
+Cadillac,STS AWD,Regular,Midsize Cars,2007,Gray
+Nissan,Versa,Regular,Midsize Cars,2007,White
+Chevrolet,HHR FWD,Regular,Sport Utility Vehicle - 2WD,2007,Black
+Mitsubishi,Endeavor 2WD,Premium,Sport Utility Vehicle - 2WD,2007,Gray
+Saturn,Relay FWD,Regular,Minivan - 2WD,2007,Gray
+Volvo,XC90 FWD,Premium,Sport Utility Vehicle - 2WD,2007,Gray
+Buick,Rainier AWD,Regular,Sport Utility Vehicle - 4WD,2007,Green
+Subaru,Outback Wagon AWD,Premium,Sport Utility Vehicle - 4WD,2007,White
+Chevrolet,Express 1500/2500 2WD,Gasoline or E85,"Vans, Passenger Type",2007,Gray
+BMW,Z4 Coupe,Premium,Two Seaters,2007,Red
+BMW,650ci Convertible,Premium,Subcompact Cars,2007,White
+Chevrolet,Cobalt,Premium,Subcompact Cars,2007,Blue
+Lexus,IS 250,Premium,Subcompact Cars,2007,Red
+Dodge,Caravan/Grand Caravan 2WD,Regular,Minivan - 2WD,2007,Black
+Chrysler,PT Cruiser,Regular,Sport Utility Vehicle - 2WD,2007,White
+Dodge,Magnum,Premium,Sport Utility Vehicle - 2WD,2007,Blue
+Ford,Explorer 2WD,Regular,Sport Utility Vehicle - 2WD,2007,Green
+BMW,X3 3.0i,Premium,Sport Utility Vehicle - 4WD,2007,Gray
+BMW,X3 3.0si,Premium,Sport Utility Vehicle - 4WD,2007,Red
+Jeep,Compass 4WD,Regular,Sport Utility Vehicle - 4WD,2007,Red
+Jeep,Grand Cherokee 4WD,Premium,Sport Utility Vehicle - 4WD,2007,Gray
+Isuzu,Pickup 2WD,Diesel,Small Pickup Trucks,1986,Black
+Toyota,4Runner 4WD,Regular,Sport Utility Vehicle - 4WD,2007,Blue
+Hyundai,Tiburon,Regular,Subcompact Cars,2007,Gray
+BMW Alpina,B7,Premium,Large Cars,2007,Green
+Roush Performance,Stage 3 F150 Regular Cab 4WD,Premium,Standard Pickup Trucks 4WD,2007,Blue
+Land Rover,Range Rover Sport,Regular,Sport Utility Vehicle - 4WD,2007,Blue
+Jeep,Patriot 4WD,Regular,Sport Utility Vehicle - 4WD,2007,Gray
+Volkswagen,Jetta,Premium,Compact Cars,2008,Red
+BMW,M5,Premium,Midsize Cars,2008,White
+Ford,Escape Hybrid FWD,Regular,Sport Utility Vehicle - 2WD,2008,White
+Infiniti,QX56 4WD,Premium,Sport Utility Vehicle - 4WD,2008,Gray
+Mazda,Tribute 4WD,Regular,Sport Utility Vehicle - 4WD,2008,Red
+Chevrolet,Uplander FWD,Gasoline or E85,Minivan - 2WD,2008,White
+Chrysler,Crossfire Coupe,Premium,Two Seaters,2008,Green
+Porsche,Carrera 4 S Targa,Premium,Minicompact Cars,2008,Blue
+Mercedes-Benz,CLK350 (Cabriolet),Premium,Subcompact Cars,2008,Green
+Chrysler,PT Cruiser Convertible,Premium,Compact Cars,2008,Green
+Mazda,3,Regular,Compact Cars,2008,Green
+Mercedes-Benz,CL65 AMG,Premium,Compact Cars,2008,White
+Volvo,C30 FWD,Premium,Compact Cars,2008,Red
+Volvo,S40 AWD,Premium,Compact Cars,2008,Blue
+Audi,A6 quattro,Premium,Midsize Cars,2008,Black
+Ford,Fusion,Regular,Midsize Cars,2008,Red
+Cadillac,DTS,Regular,Large Cars,2008,Blue
+Chevrolet,El Camino Pickup 2WD,Regular,Standard Pickup Trucks,1986,Blue
+Volvo,V50 FWD,Premium,Small Station Wagons,2008,Gray
+Audi,A6 Avant quattro,Premium,Midsize Station Wagons,2008,Black
+Mazda,B3000 2WD,Regular,Small Pickup Trucks 2WD,2008,Red
+GMC,Sierra C15 2WD,Regular,Standard Pickup Trucks 2WD,2008,Gray
+Chevrolet,Avalanche 1500 2WD,Regular,Sport Utility Vehicle - 2WD,2008,Red
+Dodge,Durango 2WD,Regular,Sport Utility Vehicle - 2WD,2008,Black
+GMC,Envoy 4WD,Regular,Sport Utility Vehicle - 4WD,2008,Green
+Hummer,H3 4WD,Regular,Sport Utility Vehicle - 4WD,2008,Gray
+Jeep,Liberty 4WD,Regular,Sport Utility Vehicle - 4WD,2008,Red
+Jeep,Wrangler 4WD,Regular,Sport Utility Vehicle - 4WD,2008,Red
+Mercedes-Benz,R320 CDI 4matic,Diesel,Sport Utility Vehicle - 4WD,2008,Blue
+Toyota,4Runner 4WD,Regular,Sport Utility Vehicle - 4WD,2008,Green
+GMC,Savana 1500/2500 2WD (cargo),Gasoline or E85,"Vans, Cargo Type",2008,Gray
+Suzuki,SX4 Sedan,Regular,Compact Cars,2008,White
+Suzuki,Grand Vitara,Regular,Sport Utility Vehicle - 2WD,2008,Gray
+Honda,S2000,Premium,Two Seaters,2008,Black
+Audi,RS4 Cabriolet,Premium,Subcompact Cars,2008,Black
+GMC,Caballero Pickup 2WD,Regular,Standard Pickup Trucks,1986,Black
+BMW,7 Series,Regular,Compact Cars,1985,Green
+Ford,Focus,Regular,Compact Cars,2008,Blue
+Infiniti,G35x,Premium,Midsize Cars,2008,White
+GMC,C15 Pickup 2WD,Regular,Standard Pickup Trucks,1986,Gray
+Dodge,Charger,Regular,Large Cars,2008,Red
+Honda,Accord,Regular,Large Cars,2008,Gray
+GMC,C15 Pickup 2WD,Regular,Standard Pickup Trucks,1986,Black
+Roush Performance,Stage 3 F150 Super Cab 4WD,Premium,Standard Pickup Trucks 4WD,2008,Red
+Kia,Sportage 2WD,Regular,Sport Utility Vehicle - 2WD,2008,White
+Toyota,Sequoia 2WD,Regular,Sport Utility Vehicle - 2WD,2008,Green
+Kia,Sportage 4WD,Regular,Sport Utility Vehicle - 4WD,2008,Gray
+Mitsubishi,Endeavor AWD,Premium,Sport Utility Vehicle - 4WD,2008,Red
+Dodge,Dakota Pickup 2WD,Gasoline or E85,Standard Pickup Trucks 2WD,2008,Gray
+Lamborghini,Murcielago Reventon,Premium,Two Seaters,2008,Green
+Mitsubishi,Outlander 2WD,Regular,Sport Utility Vehicle - 2WD,2008,Gray
+Chevrolet,Malibu,Regular,Midsize Cars,2008,Green
+Aston Martin,DBS Coupe,Premium,Two Seaters,2009,White
+Mercedes-Benz,SL600,Premium,Two Seaters,2009,Blue
+Volkswagen,Passat,Premium,Midsize Cars,2009,Blue
+Nissan,Titan 2WD,Regular,Standard Pickup Trucks 2WD,2009,Red
+Kia,Sportage 2WD,Regular,Sport Utility Vehicle - 2WD,2009,Black
+Chevrolet,Equinox AWD,Regular,Sport Utility Vehicle - 4WD,2009,Gray
+Ford,Flex AWD,Regular,Sport Utility Vehicle - 4WD,2009,Red
+Ford,Mustang,Premium,Subcompact Cars,2009,Black
+Pontiac,G6,Regular,Compact Cars,2009,Gray
+Dodge,W100/W150 Pickup 4WD,Regular,Standard Pickup Trucks,1986,Black
+Ford,Fusion FWD,Regular,Midsize Cars,2009,Gray
+Mazda,6,Regular,Midsize Cars,2009,Black
+Volvo,S80 AWD,Regular,Midsize Cars,2009,Blue
+Toyota,Tacoma 4WD,Regular,Small Pickup Trucks 4WD,2009,Black
+Ford,Escape FWD,Regular,Sport Utility Vehicle - 2WD,2009,White
+Hyundai,Veracruz 2WD,Regular,Sport Utility Vehicle - 2WD,2009,Gray
+GMC,K15 Pickup 4WD,Regular,Standard Pickup Trucks,1986,Green
+Chevrolet,Express 1500 AWD Passenger,Gasoline or E85,"Vans, Passenger Type",2009,Gray
+GMC,Sierra K15 4WD,Gasoline or E85,Standard Pickup Trucks 4WD,2009,Red
+BMW,128i Convertible,Premium,Subcompact Cars,2009,Red
+BMW,335ci Convertible,Premium,Subcompact Cars,2009,Black
+Lexus,IS 250,Premium,Subcompact Cars,2009,Gray
+Lexus,IS 250 AWD,Premium,Subcompact Cars,2009,White
+Mercedes-Benz,CLK350,Premium,Subcompact Cars,2009,Red
+BMW,328i,Premium,Compact Cars,2009,Blue
+Mercedes-Benz,CL63 AMG,Premium,Compact Cars,2009,Black
+Subaru,Impreza AWD,Premium,Compact Cars,2009,Black
+BMW,M5,Premium,Midsize Cars,2009,Black
+Chrysler,300/SRT-8,Regular,Large Cars,2009,Blue
+Mercury,Sable AWD,Regular,Large Cars,2009,Gray
+BMW,328i Sport Wagon,Premium,Small Station Wagons,2009,White
+Honda,Fit,Regular,Small Station Wagons,2009,Black
+Ford,Ranger Pickup 2WD,Regular,Small Pickup Trucks 2WD,2009,Green
+Mitsubishi,Raider Pickup 2WD,Regular,Standard Pickup Trucks 2WD,2009,White
+Honda,Odyssey,Regular,Minivan - 2WD,2009,Red
+Ford,Edge FWD,Regular,Sport Utility Vehicle - 2WD,2009,White
+BMW,X3 xDrive30i,Premium,Sport Utility Vehicle - 4WD,2009,Blue
+Buick,Somerset Regal,Regular,Compact Cars,1985,Red
+Pontiac,Solstice,Regular,Two Seaters,2010,Black
+Ford,Fusion FWD,Regular,Midsize Cars,2010,Green
+Toyota,Tundra 2WD,Regular,Standard Pickup Trucks 2WD,2010,White
+Ford,Transit Connect,Regular,Special Purpose Vehicle 2WD,2010,White
+Land Rover,Range Rover,Premium,Sport Utility Vehicle - 4WD,2010,Green
+Porsche,Cayenne Turbo Kit,Premium,Sport Utility Vehicle - 4WD,2010,Green
+Saturn,Vue Hybrid,Regular,Sport Utility Vehicle - 2WD,2009,Green
+Audi,Q5,Premium,Sport Utility Vehicle - 4WD,2009,Green
+Alfa Romeo,Spider Veloce 2000,Regular,Two Seaters,1984,White
+Chevrolet,Chevette,Regular,Subcompact Cars,1984,Blue
+Nissan,Maxima,Regular,Subcompact Cars,1984,Green
+Ford,Laser,Regular,Subcompact Cars,1984,White
+Isuzu,I-Mark,Regular,Subcompact Cars,1984,Blue
+Isuzu,Impulse,Regular,Subcompact Cars,1984,Gray
+Mitsubishi,Precis,Regular,Subcompact Cars,1984,White
+Pontiac,2000 Sunbird Convertible,Regular,Subcompact Cars,1984,Red
+Renault,18i,Regular,Subcompact Cars,1984,Blue
+Toyota,Corolla Sport,Regular,Subcompact Cars,1984,Blue
+Volkswagen,Scirocco,Regular,Subcompact Cars,1984,Blue
+Buick,Riviera Convertible,Regular,Compact Cars,1984,Green
+Cadillac,Cimarron,Regular,Compact Cars,1984,Black
+Chevrolet,Cavalier,Regular,Compact Cars,1984,Gray
+Ford,Tempo,Regular,Compact Cars,1984,Black
+Ford,Tempo,Regular,Compact Cars,1984,White
+Mercury,Lynx,Diesel,Compact Cars,1984,White
+Peugeot,505 Sedan,Diesel,Compact Cars,1984,Red
+Pontiac,2000 Sunbird,Regular,Compact Cars,1984,Blue
+Buick,Regal,Diesel,Midsize Cars,1984,Gray
+Chevrolet,Monte Carlo,Regular,Midsize Cars,1984,Blue
+Chrysler,E Class/New Yorker,Regular,Midsize Cars,1984,Gray
+Dodge,Diplomat,Regular,Midsize Cars,1984,Gray
+Mercedes-Benz,500SEL,Regular,Midsize Cars,1984,White
+Oldsmobile,Cutlass Supreme,Regular,Midsize Cars,1984,Red
+Plymouth,Reliant,Regular,Midsize Cars,1984,Blue
+Plymouth,Reliant,Regular,Midsize Cars,1984,Gray
+Pontiac,Parisienne,Diesel,Large Cars,1984,Black
+Nissan,Sentra Wagon,Diesel,Small Station Wagons,1984,Red
+Chevrolet,Celebrity Wagon,Regular,Midsize Station Wagons,1984,White
+Mercury,Marquis Wagon,Regular,Midsize Station Wagons,1984,White
+Peugeot,505 Station Wagon,Diesel,Midsize Station Wagons,1984,Green
+Plymouth,Reliant Wagon,Regular,Midsize Station Wagons,1984,Black
+Chevrolet,S10 Pickup 2WD,Regular,Small Pickup Trucks 2WD,1984,Red
+Ford,Ranger Pickup 2WD,Regular,Small Pickup Trucks 2WD,1984,White
+Jeep,Scrambler Pickup 4WD,Regular,Small Pickup Trucks 4WD,1984,White
+Chevrolet,C20 Pickup 2WD,Diesel,Standard Pickup Trucks 2WD,1984,Blue
+Dodge,D250 Pickup 2WD,Regular,Standard Pickup Trucks 2WD,1984,White
+Ford,F250 Pickup 2WD,Regular,Standard Pickup Trucks 2WD,1984,Blue
+GMC,Caballero Pickup 2WD,Regular,Standard Pickup Trucks 2WD,1984,Red
+GMC,C25 Pickup 2WD,Regular,Standard Pickup Trucks 2WD,1984,Blue
+Chevrolet,K10 Pickup 4WD,Regular,Standard Pickup Trucks 4WD,1984,Red
+Chevrolet,K20 Pickup 4WD,Diesel,Standard Pickup Trucks 4WD,1984,Blue
+Dodge,W250 Pickup 4WD,Regular,Standard Pickup Trucks 4WD,1984,White
+GMC,K15 Pickup 4WD,Diesel,Standard Pickup Trucks 4WD,1984,Green
+GMC,K25 Pickup 4WD,Diesel,Standard Pickup Trucks 4WD,1984,Black
+GMC,T15 (S15) Pickup 4WD,Regular,Standard Pickup Trucks 4WD,1984,Red
+Chevrolet,G30 Van 2WD,Regular,"Vans, Cargo Type",1984,Green
+GMC,Vandura G15/25 2WD,Regular,"Vans, Cargo Type",1984,Blue
+Chevrolet,G10/20 Sport Van 2WD,Diesel,"Vans, Passenger Type",1984,Green
+Chevrolet,T10 (S10) Blazer 4WD,Regular,Special Purpose Vehicle 4WD,1984,White
+Ford,Bronco 4WD,Regular,Special Purpose Vehicle 4WD,1984,Blue
+Jeep,CJ7 4WD,Regular,Special Purpose Vehicle 4WD,1984,Black
+GMC,C15 Suburban 2WD,Regular,Special Purpose Vehicle 2WD,1986,Black
+Chevrolet,Chevette,Regular,Subcompact Cars,1984,Red
+Mercury,Capri,Regular,Subcompact Cars,1984,Red
+Mitsubishi,Starion,Regular,Subcompact Cars,1984,White
+Pontiac,Firebird,Regular,Subcompact Cars,1984,Black
+Subaru,Sedan,Regular,Subcompact Cars,1984,Gray
+American Motors Corporation,Eagle,Regular,Special Purpose Vehicles,1986,Blue
+Chevrolet,Cavalier,Regular,Compact Cars,1984,Blue
+Chevrolet,Cavalier,Regular,Compact Cars,1984,Red
+Mercury,Lynx,Regular,Compact Cars,1984,Black
+Mazda,626,Regular,Compact Cars,1984,Black
+Peugeot,505 Sedan,Regular,Compact Cars,1984,Green
+Saab,900,Regular,Compact Cars,1984,Gray
+Volvo,240 DL/GL/Turbo,Regular,Compact Cars,1984,Blue
+Chevrolet,T10 (S10) Blazer 4WD,Regular,Special Purpose Vehicles,1986,Blue
+Oldsmobile,Cutlass Ciera,Regular,Midsize Cars,1984,White
+Plymouth,Reliant,Regular,Midsize Cars,1984,Blue
+Plymouth,Reliant,Regular,Midsize Cars,1984,Red
+Pontiac,Grand Prix,Regular,Midsize Cars,1984,White
+Cadillac,Fleetwood/DeVille (FWD),Diesel,Large Cars,1984,Green
+Nissan,Sentra Wagon,Regular,Small Station Wagons,1984,Blue
+Chevrolet,Lumina,Regular,Midsize Cars,1993,Blue
+Chrysler,New Yorker,Regular,Midsize Cars,1993,Red
+CX Automotive,XM v6a,Premium,Midsize Cars,1993,Black
+Dodge,B350 Wagon 2WD,Regular,Vans,1985,White
+Lexus,LS 400,Premium,Midsize Cars,1993,White
+GMC,G15/25 Rally 2WD,Regular,Vans,1985,Red
+Eagle,Summit Wagon,Regular,Midsize-Large Station Wagons,1993,White
+Ford,Taurus Wagon,Regular,Midsize-Large Station Wagons,1993,Gray
+Plymouth,Colt Vista,Regular,Midsize-Large Station Wagons,1993,Blue
+Dodge,Ram 50 Pickup 2WD,Regular,Small Pickup Trucks,1993,Blue
+GMC,Sonoma 2WD,Regular,Small Pickup Trucks,1993,Black
+Ford,F250 Pickup 2WD,Regular,Standard Pickup Trucks,1993,White
+Ford,F250 Pickup 2WD,Regular,Standard Pickup Trucks,1993,White
+Chevrolet,K1500 Pickup 4WD,Regular,Standard Pickup Trucks,1993,Gray
+Dodge,Dakota Pickup 4WD,Regular,Standard Pickup Trucks,1993,Gray
+Dodge,W100/W150 Pickup 4WD,Regular,Standard Pickup Trucks,1993,Gray
+GMC,Sierra 2500 4WD,Regular,Standard Pickup Trucks,1993,Green
+Dodge,B350 Van 2WD,Regular,Vans,1993,Red
+Ford,E150 Econoline 2WD,Regular,Vans,1993,Blue
+Ford,E250 Econoline 2WD,Regular,Vans,1993,Green
+Dodge,B150/B250 Wagon 2WD,Regular,Vans,1993,Green
+Chevrolet,Lumina/APV Minivan 2WD,Regular,Special Purpose Vehicles,1993,Black
+Chrysler,Town and Country 4WD,Regular,Special Purpose Vehicles,1993,Red
+Geo,Tracker Van 4WD,Regular,Special Purpose Vehicles,1993,Green
+Mercedes-Benz,SL600,Premium,Two Seaters,1994,White
+Porsche,968,Regular,Minicompact Cars,1994,Blue
+Eagle,Talon,Premium,Subcompact Cars,1994,Red
+Geo,Metro,Regular,Subcompact Cars,1994,Blue
+Lexus,SC 300/SC 400,Premium,Subcompact Cars,1994,Green
+Chevrolet,K10 Blazer 4WD,Regular,Special Purpose Vehicle 4WD,1985,Red
+Chevrolet,Suburban K10 4WD,Regular,Special Purpose Vehicle 4WD,1985,Green
+Audi,100,Premium,Compact Cars,1994,Green
+Ford,Escort,Regular,Compact Cars,1994,Red
+Plymouth,Sundance/Duster,Regular,Compact Cars,1994,White
+Saturn,SL,Regular,Compact Cars,1994,Gray
+Plymouth,Acclaim,Regular,Midsize Cars,1994,Green
+Plymouth,Acclaim,Regular,Midsize Cars,1994,Black
+Volvo,940,Regular,Midsize Cars,1994,Black
+GMC,K15 Jimmy 4WD,Diesel,Special Purpose Vehicle 4WD,1985,Gray
+Honda,Accord Wagon,Regular,Small Station Wagons,1994,Gray
+Volvo,850 Wagon,Regular,Midsize-Large Station Wagons,1994,Gray
+Ford,F150 Pickup 2WD,Regular,Standard Pickup Trucks,1994,Black
+GMC,Sierra 2500 2WD,Regular,Standard Pickup Trucks,1994,Green
+Dodge,Dakota Pickup 4WD,Regular,Standard Pickup Trucks,1994,Blue
+Chevrolet,G10/20 Van 2WD,Diesel,Vans,1994,Black
+Chevrolet,Sport Van G30  2WD,Regular,Vans,1994,Black
+Dodge,Caravan/Grand Caravan 2WD,Regular,Special Purpose Vehicles,1994,Green
+Jeep,Cherokee 2WD,Regular,Special Purpose Vehicles,1994,Black
+Geo,Tracker Convertible 2WD,Regular,Special Purpose Vehicles,1994,Green
+Suzuki,Sidekick 4Door 2WD,Regular,Special Purpose Vehicles,1994,Red
+Geo,Tracker Van 4WD,Regular,Special Purpose Vehicles,1994,Gray
+GMC,Yukon K1500 4WD,Regular,Special Purpose Vehicles,1994,Black
+Mazda,RX-7,Premium,Two Seaters,1995,Gray
+Porsche,968,Premium,Two Seaters,1995,Red
+GMC,S15 Cab Chassis 2WD,Regular,Special Purpose Vehicle 2WD,1985,Gray
+Dodge,Stealth,Regular,Subcompact Cars,1995,White
+Ford,Mustang,Regular,Subcompact Cars,1995,Black
+Infiniti,J30,Premium,Subcompact Cars,1995,Blue
+Mitsubishi,Eclipse,Regular,Subcompact Cars,1995,Green
+Mitsubishi,3000 GT,Premium,Subcompact Cars,1995,Gray
+Pontiac,Firebird/Formula,Regular,Subcompact Cars,1995,Green
+BMW,540i,Premium,Compact Cars,1995,Black
+Chevrolet,Corsica,Regular,Compact Cars,1995,Red
+Nissan,Altima / Stanza,Regular,Compact Cars,1995,White
+Geo,Prizm,Regular,Compact Cars,1995,Black
+Hyundai,Elantra,Regular,Compact Cars,1995,Gray
+Mercury,Tracer,Regular,Compact Cars,1995,White
+Mazda,Protege,Regular,Compact Cars,1995,White
+Mitsubishi,Galant,Regular,Compact Cars,1995,White
+Saturn,SL,Regular,Compact Cars,1995,Red
+Subaru,Legacy AWD,Regular,Compact Cars,1995,Red
+Oldsmobile,Cutlass Supreme,Regular,Midsize Cars,1995,White
+Buick,LeSabre,Regular,Large Cars,1995,Red
+Mercedes-Benz,S500 Sedan,Premium,Large Cars,1995,Blue
+Saturn,SW,Regular,Small Station Wagons,1995,Black
+Buick,Century Wagon,Regular,Midsize-Large Station Wagons,1995,Blue
+Mercedes-Benz,E320 Wagon,Premium,Midsize-Large Station Wagons,1995,Blue
+Buick,Roadmaster Wagon,Regular,Midsize-Large Station Wagons,1995,Red
+Chevrolet,C1500 Pickup 2WD,Regular,Standard Pickup Trucks,1995,Blue
+Dodge,Ram 1500 Pickup 2WD,Regular,Standard Pickup Trucks,1995,White
+GMC,Sierra 1500 2WD,Regular,Standard Pickup Trucks,1995,Gray
+GMC,Sierra 2500 2WD,Regular,Standard Pickup Trucks,1995,White
+Mazda,B2300/B3000/B4000 Pickup 2WD,Regular,Standard Pickup Trucks,1995,Green
+Toyota,T100 4WD,Regular,Standard Pickup Trucks,1995,Blue
+Chevrolet,Astro AWD (cargo),Premium,Vans,1995,White
+Ford,E150 Econoline 2WD,Regular,Vans,1995,Black
+Chevrolet,Sport Van G10/20 2WD,Regular,Vans,1995,Green
+Plymouth,Voyager/Grand Voyager 2WD,Regular,Special Purpose Vehicles,1995,Gray
+Plymouth,Voyager/Grand Voyager 4WD,Regular,Special Purpose Vehicles,1995,Black
+Plymouth,Turismo,Regular,Subcompact Cars,1985,Red
+Audi,Cabriolet,Premium,Minicompact Cars,1996,Green
+Toyota,Supra,Premium,Minicompact Cars,1996,Black
+Honda,Prelude,Premium,Subcompact Cars,1996,White
+Mitsubishi,Mirage,Regular,Subcompact Cars,1996,Gray
+Buick,Skylark,Regular,Compact Cars,1996,Red
+Mercury,Mystique,Regular,Compact Cars,1996,Red
+Mercury,Tracer,Regular,Compact Cars,1996,Red
+Mercedes-Benz,C220,Premium,Compact Cars,1996,Blue
+Cadillac,Cimarron,Regular,Compact Cars,1985,Blue
+Dodge,Stratus,Regular,Midsize Cars,1996,Black
+Pontiac,Grand Prix,Regular,Midsize Cars,1996,Blue
+Rolls-Royce,Silver Spur/Silver Dawn,Premium,Midsize Cars,1996,Red
+Mercury,Grand Marquis,Regular,Large Cars,1996,Black
+Pontiac,Bonneville,Premium,Large Cars,1996,Black
+Subaru,Legacy Wagon AWD,Regular,Midsize-Large Station Wagons,1996,Green
+Ford,Escort,Regular,Compact Cars,1985,Blue
+Ford,Escort,Regular,Compact Cars,1985,White
+Dodge,Ram 1500 Pickup 2WD,Regular,Standard Pickup Trucks,1996,Red
+Ford,F150 Pickup 2WD,Regular,Standard Pickup Trucks,1996,White
+GMC,Sierra 1500 4WD,Diesel,Standard Pickup Trucks,1996,Red
+Dodge,B1500/B2500 Van 2WD,Regular,Vans,1996,Gray
+Dodge,B3500 Van 2WD,Regular,Vans,1996,White
+Ford,E250 Econoline 2WD,Regular,Vans,1996,Gray
+Chevrolet,Express 1500/2500 2WD,Regular,Vans,1996,Green
+Oldsmobile,Firenza,Regular,Compact Cars,1985,Blue
+Oldsmobile,Firenza,Regular,Compact Cars,1985,Red
+Jeep,Cherokee 2WD,Regular,Special Purpose Vehicles,1996,Red
+Nissan,Pathfinder 4WD,Regular,Special Purpose Vehicles,1996,Green
+Land Rover,Range Rover 4.0,Premium,Special Purpose Vehicles,1996,Blue
+Toyota,Land Cruiser Wagon 4WD,Regular,Special Purpose Vehicles,1996,White
+Toyota,4Runner 4WD,Regular,Special Purpose Vehicles,1996,Green
+Ferrari,Ferrari F355,Premium,Two Seaters,1997,Green
+Nissan,240SX,Premium,Minicompact Cars,1997,Green
+Chevrolet,Celebrity,Regular,Midsize Cars,1985,Red
+Hyundai,Tiburon (Coupe),Regular,Subcompact Cars,1997,White
+Mazda,MX-6,Regular,Subcompact Cars,1997,White
+Chrysler,Sebring,Regular,Compact Cars,1997,Gray
+Nissan,Altima / Stanza,Regular,Compact Cars,1997,Green
+Mazda,Millenia,Premium,Compact Cars,1997,Red
+Mazda,Protege,Regular,Compact Cars,1997,Blue
+Mazda,Protege,Regular,Compact Cars,1997,White
+Mitsubishi,Galant,Regular,Compact Cars,1997,White
+Pontiac,Grand Am,Regular,Compact Cars,1997,Gray
+Dodge,Stratus,Regular,Midsize Cars,1997,Red
+Plymouth,Breeze,Regular,Midsize Cars,1997,Red
+Honda,Civic,Regular,Subcompact Cars,1985,Gray
+Chrysler,Concorde,Regular,Large Cars,1997,Blue
+Volvo,850 Wagon,Premium,Midsize-Large Station Wagons,1997,Green
+Chevrolet,C1500 Pickup 2WD,Regular,Standard Pickup Trucks,1997,Gray
+GMC,Sierra 1500 2WD,Regular,Standard Pickup Trucks,1997,Black
+GMC,Sierra 1500 2WD,Regular,Standard Pickup Trucks,1997,Blue
+Volkswagen,Eurovan Camper,Regular,Vans,1997,Black
+Nissan,Pathfinder 2WD,Regular,Special Purpose Vehicles,1997,White
+Honda,Passport 2WD,Regular,Special Purpose Vehicles,1997,Gray
+Honda,Prelude,Regular,Subcompact Cars,1985,White
+GMC,Suburban 1500 4WD,Regular,Special Purpose Vehicles,1997,Red
+Land Rover,Range Rover,Premium,Special Purpose Vehicles,1997,Green
+Suzuki,X-90 4WD,Regular,Two Seaters,1998,Black
+BMW,323is,Regular,Subcompact Cars,1998,Blue
+Eagle,Talon,Premium,Subcompact Cars,1998,White
+Pontiac,Sunfire,Regular,Subcompact Cars,1998,White
+Saturn,SC,Regular,Subcompact Cars,1998,Gray
+Suzuki,Esteem,Regular,Subcompact Cars,1998,Blue
+Ford,Escort Wagon,Regular,Small Station Wagons,1985,Black
+Ford,Escort Wagon,Regular,Small Station Wagons,1985,White
+Volkswagen,Jetta,Regular,Compact Cars,1998,Black
+Saturn,SW,Regular,Small Station Wagons,1998,Gray
+Subaru,Legacy Wagon AWD,Regular,Midsize Station Wagons,1998,Gray
+Isuzu,Hombre Pickup 2WD,Regular,Small Pickup Trucks 2WD,1998,Black
+Toyota,Tacoma 2WD,Regular,Small Pickup Trucks 2WD,1998,Red
+Chevrolet,Celebrity Wagon,Regular,Midsize-Large Station Wagons,1985,Blue
+Toyota,Tacoma 2WD,Regular,Small Pickup Trucks 2WD,1998,Red
+Dodge,Ram 1500 Pickup 2WD,Regular,Standard Pickup Trucks 2WD,1998,Red
+Mazda,B2500/B3000/B4000 2WD,Regular,Standard Pickup Trucks 2WD,1998,Blue
+Ford,F250 Pickup 4WD,Regular,Standard Pickup Trucks 4WD,1998,White
+Dodge,Aries Wagon,Regular,Midsize-Large Station Wagons,1985,Red
+Mazda,B2500/B3000/B4000 4WD,Regular,Standard Pickup Trucks 4WD,1998,Blue
+Oldsmobile,Cutlass Cruiser Wagon,Regular,Midsize-Large Station Wagons,1985,Red
+Dodge,B2500 Wagon 2WD,Regular,"Vans, Passenger Type",1998,Blue
+Dodge,Caravan/Grand Caravan 2WD,Regular,Special Purpose Vehicle 2WD,1998,Red
+Dodge,Caravan/Grand Caravan 2WD,Regular,Special Purpose Vehicle 2WD,1998,Red
+Suzuki,Sidekick 4Door RWD,Regular,Special Purpose Vehicle 2WD,1998,Black
+Mitsubishi,Montero,Regular,Special Purpose Vehicle 4WD,1998,Gray
+Mitsubishi,Montero Sport 4WD,Regular,Special Purpose Vehicle 4WD,1998,Green
+BMW,323i Convertible,Regular,Minicompact Cars,1999,Blue
+Saab,9-3 Convertible,Regular,Subcompact Cars,1999,Blue
+Chevrolet,Prizm,Regular,Compact Cars,1999,Blue
+Chrysler,Cirrus,Regular,Midsize Cars,1999,Red
+Hyundai,Sonata,Regular,Midsize Cars,1999,Gray
+Nissan,Maxima,Regular,Midsize Cars,1999,Red
+Saab,3-Sep,Regular,Midsize Cars,1999,Blue
+Saab,3-Sep,Premium,Midsize Cars,1999,Red
+Ford,Crown Victoria CNG,CNG,Large Cars,1999,Blue
+Dodge,D100/D150 Pickup 2WD,Regular,Standard Pickup Trucks,1985,Black
+Mercury,Sable Wagon,Regular,Midsize Station Wagons,1999,Gray
+Dodge,Ram 1500 Pickup 2WD,Regular,Standard Pickup Trucks 2WD,1999,Black
+GMC,Sierra 1500 2WD,Regular,Standard Pickup Trucks 2WD,1999,Black
+GMC,Sierra 1500 2WD,Regular,Standard Pickup Trucks 2WD,1999,Blue
+Mazda,B3000 FFV 2WD,Regular,Standard Pickup Trucks 2WD,1999,Gray
+Ford,F250 Pickup 2WD,Regular,Standard Pickup Trucks,1985,White
+Chevrolet,S10 Pickup 4WD,Regular,Standard Pickup Trucks 4WD,1999,Black
+GMC,Savana 1500/2500 2WD (cargo),Regular,"Vans, Cargo Type",1999,Black
+Ford,E150 Club Wagon,Regular,"Vans, Passenger Type",1999,White
+Dodge,Caravan/Grand Caravan 2WD,Regular,Minivan - 2WD,1999,Gray
+Ford,Explorer 2WD,Regular,Sport Utility Vehicle - 2WD,1999,Gray
+Chevrolet,K10 Pickup 4WD,Regular,Standard Pickup Trucks,1985,Red
+Kia,Sportage 2WD,Regular,Sport Utility Vehicle - 2WD,1999,Black
+Ford,Explorer 4WD,Regular,Sport Utility Vehicle - 4WD,1999,White
+Mitsubishi,Montero Sport 4WD,Regular,Sport Utility Vehicle - 4WD,1999,Blue
+Toyota,RAV4 4WD,Regular,Sport Utility Vehicle - 4WD,1999,White
+Dodge,Viper Coupe,Premium,Two Seaters,2000,Red
+Plymouth,Prowler,Premium,Two Seaters,2000,Gray
+BMW,323i Convertible,Premium,Minicompact Cars,2000,Red
+Ford,Mustang,Regular,Subcompact Cars,2000,Red
+Suzuki,Swift,Regular,Subcompact Cars,2000,Red
+Volkswagen,Cabrio,Regular,Subcompact Cars,2000,Black
+Volkswagen,New Beetle,Diesel,Subcompact Cars,2000,Black
+Audi,S4,Premium,Compact Cars,2000,Green
+Ford,Contour,Regular,Compact Cars,2000,Green
+Hyundai,Elantra,Regular,Compact Cars,2000,Red
+Mazda,Protege,Regular,Compact Cars,2000,Gray
+Nissan,Sentra,Regular,Compact Cars,2000,Gray
+Ford,E150 Econoline 2WD,Regular,Vans,1985,Blue
+Pontiac,Grand Am,Regular,Compact Cars,2000,Black
+Pontiac,Grand Am,Regular,Compact Cars,2000,Blue
+Volvo,S40 FWD,Premium,Compact Cars,2000,Red
+Saab,5-Sep,Premium,Midsize Cars,2000,Red
+Volkswagen,Passat,Premium,Midsize Cars,2000,Red
+Chrysler,LHS,Regular,Large Cars,2000,White
+BMW,323i Touring,Premium,Small Station Wagons,2000,Green
+Saab,9-5 Wagon,Premium,Midsize Station Wagons,2000,Blue
+Volkswagen,Passat Wagon,Premium,Midsize Station Wagons,2000,White
+Ford,F150 Pickup 2WD,Regular,Standard Pickup Trucks 2WD,2000,White
+Toyota,Tacoma 2WD,Regular,Standard Pickup Trucks 2WD,2000,Blue
+Chevrolet,S10 Pickup 4WD,Regular,Standard Pickup Trucks 4WD,2000,Red
+Ford,F150 Pickup 4WD,Regular,Standard Pickup Trucks 4WD,2000,Green
+GMC,Sonoma 4WD,Regular,Standard Pickup Trucks 4WD,2000,Blue
+Mazda,B4000 4WD,Regular,Standard Pickup Trucks 4WD,2000,Red
+Dodge,B1500 Van 2WD,Regular,"Vans, Cargo Type",2000,Blue
+GMC,Yukon XL 1500 2WD,Regular,Sport Utility Vehicle - 2WD,2000,Green
+Nissan,Pathfinder 4WD,Regular,Sport Utility Vehicle - 4WD,2000,Red
+Suzuki,Vitara 2Door 4WD,Regular,Sport Utility Vehicle - 4WD,2000,Gray
+Toyota,RAV4 Soft Top 4WD,Regular,Sport Utility Vehicle - 4WD,2000,White
+Plymouth,Prowler,Premium,Two Seaters,2001,White
+Mercedes-Benz,CLK430 (Cabriolet),Premium,Minicompact Cars,2001,Green
+Bentley,Continental SC,Premium,Subcompact Cars,2001,Blue
+BMW,330ci,Premium,Subcompact Cars,2001,Red
+Suzuki,Swift,Regular,Subcompact Cars,2001,White
+Volkswagen,New Beetle,Regular,Subcompact Cars,2001,Green
+Bentley,Continental R,Premium,Compact Cars,2001,Green
+BMW,325xi,Premium,Compact Cars,2001,Gray
+Chevrolet,Cavalier,Regular,Compact Cars,2001,Green
+Chrysler,Sebring,Regular,Compact Cars,2001,Black
+Kia,Sephia/Spectra,Regular,Compact Cars,2001,Green
+Oldsmobile,Alero,Regular,Compact Cars,2001,Blue
+Toyota,Camry Solara,Regular,Compact Cars,2001,White
+Volvo,S40 FWD,Premium,Compact Cars,2001,Blue
+Kia,Optima,Regular,Midsize Cars,2001,Green
+Mitsubishi,Diamante,Premium,Midsize Cars,2001,Red
+Oldsmobile,Intrigue,Regular,Midsize Cars,2001,Green
+Pontiac,Grand Prix,Regular,Midsize Cars,2001,Gray
+Lincoln,Town Car,Regular,Large Cars,2001,Black
+Pontiac,Bonneville,Regular,Large Cars,2001,Red
+Toyota,Avalon,Regular,Large Cars,2001,Gray
+Dodge,Dakota Pickup 4WD,Regular,Standard Pickup Trucks 4WD,2001,Green
+Dodge,Ram 1500 Pickup 4WD,Regular,Standard Pickup Trucks 4WD,2001,Red
+Ford,Explorer Sport Trac 4WD,Regular,Standard Pickup Trucks 4WD,2001,Green
+Ford,Explorer Sport Trac 4WD,Regular,Standard Pickup Trucks 4WD,2001,Gray
+GMC,Sierra 1500 4WD,Regular,Standard Pickup Trucks 4WD,2001,White
+Chevrolet,Astro AWD (cargo),Regular,"Vans, Cargo Type",2001,Black
+Chevrolet,Tahoe 1500 2WD,Regular,Sport Utility Vehicle - 2WD,2001,Blue
+Toyota,RAV4 2WD,Regular,Sport Utility Vehicle - 2WD,2001,Red
+GMC,Jimmy 4WD,Regular,Sport Utility Vehicle - 4WD,2001,White
+Kia,Sportage 4WD,Regular,Sport Utility Vehicle - 4WD,2001,Gray
+GMC,Sonoma 2WD (FFV),Gasoline or E85,Small Pickup Trucks 2WD,2001,White
+Jaguar,XKR Convertible,Premium,Minicompact Cars,2002,Gray
+Volkswagen,Cabriolet,Regular,Minicompact Cars,1986,Black
+Ford,Focus,Regular,Compact Cars,2002,Blue
+Mazda,Protege/Protege 5,Regular,Compact Cars,2002,Blue
+Nissan,Sentra,Regular,Compact Cars,2002,Black
+Subaru,Legacy AWD (incl. Outback),Premium,Compact Cars,2002,Red
+Volkswagen,GTI,Premium,Compact Cars,2002,Gray
+Volvo,C70 Coupe,Premium,Compact Cars,2002,Red
+Bentley,Arnage,Premium,Midsize Cars,2002,Blue
+Buick,Regal,Regular,Midsize Cars,2002,Black
+Honda,Accord,Regular,Midsize Cars,2002,Green
+Mercedes-Benz,E320,Premium,Midsize Cars,2002,Black
+Mitsubishi,Diamante,Premium,Midsize Cars,2002,Black
+Oldsmobile,Aurora,Regular,Midsize Cars,2002,Red
+Ford,Taurus,Regular,Large Cars,2002,Black
+Audi,A4 Avant quattro,Premium,Small Station Wagons,2002,Gray
+BMW,325i Sport Wagon,Premium,Small Station Wagons,2002,Red
+BMW,525i Sport Wagon,Premium,Small Station Wagons,2002,Gray
+Subaru,Impreza Wagon AWD,Regular,Small Station Wagons,2002,Black
+Chevrolet,Silverado 1500 2WD,Regular,Standard Pickup Trucks 2WD,2002,Gray
+Nissan,Sentra,Diesel,Subcompact Cars,1986,Gray
+Dodge,Ram 1500 Pickup 2WD,Regular,Standard Pickup Trucks 2WD,2002,Black
+Ford,Ranger Pickup 2WD,Regular,Standard Pickup Trucks 2WD,2002,Gray
+Nissan,200SX,Regular,Subcompact Cars,1986,Gray
+GMC,Sierra 1500 2WD,Regular,Standard Pickup Trucks 2WD,2002,Blue
+Nissan,300ZX 2x2,Regular,Subcompact Cars,1986,Gray
+Toyota,Tacoma 2WD,Regular,Standard Pickup Trucks 2WD,2002,Red
+Toyota,Tacoma 2WD,Regular,Standard Pickup Trucks 2WD,2002,Black
+Ford,Ranger Pickup 4WD,Regular,Standard Pickup Trucks 4WD,2002,Red
+Toyota,Tacoma 4WD,Regular,Standard Pickup Trucks 4WD,2002,Blue
+Chevrolet,Express 1500/2500 2WD,Regular,"Vans, Passenger Type",2002,White
+Chevrolet,Blazer 2WD,Regular,Sport Utility Vehicle - 2WD,2002,Blue
+Lincoln,Navigator 2WD,Premium,Sport Utility Vehicle - 2WD,2002,Red
+Oldsmobile,Bravada 2WD,Regular,Sport Utility Vehicle - 2WD,2002,Gray
+Suzuki,Vitara 4Door,Regular,Sport Utility Vehicle - 2WD,2002,Green
+Honda,CR-V 4WD,Regular,Sport Utility Vehicle - 4WD,2002,White
+Ford,Mustang,Regular,Subcompact Cars,1986,Black
+GMC,Sonoma 2WD (FFV),Gasoline or E85,Small Pickup Trucks 2WD,2002,Black
+Ford,Thunderbird,Premium,Two Seaters,2003,Blue
+Porsche,Boxster,Premium,Two Seaters,2003,White
+Aston Martin,DB-7 Vantage Coupe,Premium,Minicompact Cars,2003,Red
+Porsche,Carrera 2 Cabriolet,Premium,Minicompact Cars,2003,White
+Volkswagen,New Beetle Convertible,Regular,Minicompact Cars,2003,Black
+Mercedes-Benz,CLK500,Premium,Subcompact Cars,2003,Blue
+Mercedes-Benz,CLK55 AMG,Premium,Subcompact Cars,2003,Black
+Subaru,Impreza AWD,Premium,Subcompact Cars,2003,Red
+BMW,330i,Premium,Compact Cars,2003,Blue
+Chrysler,Sebring,Regular,Compact Cars,2003,Red
+Jaguar,XJS,Regular,Subcompact Cars,1986,Red
+Honda,Civic Hybrid,Regular,Compact Cars,2003,Gray
+Mercury,Capri,Regular,Subcompact Cars,1986,White
+Hyundai,Elantra,Regular,Compact Cars,2003,White
+Infiniti,G35,Premium,Compact Cars,2003,Black
+Mercedes-Benz,C320 Sports Coupe,Premium,Compact Cars,2003,Red
+Nissan,Sentra,Regular,Compact Cars,2003,Red
+Saab,9-3 Sport Sedan,Regular,Compact Cars,2003,Green
+Lexus,ES 300,Regular,Midsize Cars,2003,Gray
+Lincoln,Town Car,Regular,Large Cars,2003,Red
+Mercedes-Benz,S55 AMG,Premium,Large Cars,2003,Red
+Mercedes-Benz,C240 4matic (Wagon),Premium,Small Station Wagons,2003,Black
+Subaru,Impreza Wagon/Outback SPT AWD,Regular,Small Station Wagons,2003,Black
+Plymouth,Conquest,Premium,Subcompact Cars,1986,Red
+Ford,F150 Pickup 2WD,Regular,Standard Pickup Trucks 2WD,2003,Red
+Ford,Ranger Pickup 2WD,Regular,Standard Pickup Trucks 2WD,2003,White
+Mazda,B2300 2WD,Regular,Standard Pickup Trucks 2WD,2003,Green
+Mazda,B2300 2WD,Regular,Standard Pickup Trucks 2WD,2003,Gray
+Toyota,Tacoma 2WD,Regular,Standard Pickup Trucks 2WD,2003,Blue
+Dodge,Dakota Pickup 4WD,Regular,Standard Pickup Trucks 4WD,2003,White
+Ford,Ranger Pickup 4WD,Regular,Standard Pickup Trucks 4WD,2003,Blue
+Chevrolet,Van 1500/2500 2WD,Regular,"Vans, Cargo Type",2003,White
+Dodge,Ram Van 1500 2WD,Regular,"Vans, Cargo Type",2003,Red
+Dodge,Ram Van 2500 2WD,Regular,"Vans, Cargo Type",2003,Blue
+Ford,E150 Econoline 2WD,Regular,"Vans, Cargo Type",2003,Blue
+GMC,Savana 1500/2500 2WD (cargo),Regular,"Vans, Cargo Type",2003,Blue
+GMC,Safari 2WD (Passenger),Regular,"Vans, Passenger Type",2003,White
+Ford,Explorer Platinum HEV RWD,Regular,Standard Sport Utility Vehicle 2WD,2023,Green
+Ford,Explorer FFV AWD,Gasoline or E85,Standard Sport Utility Vehicle 4WD,2023,Green
+Nissan,Sentra SR,Regular,Midsize Cars,2023,Blue
+Mercedes-Benz,AMG G63,Premium,Standard Sport Utility Vehicle 4WD,2023,Black
+BMW,430i Convertible,Premium,Subcompact Cars,2024,Black
+MINI,Cooper S Hardtop 4 door,Premium,Subcompact Cars,2024,Green
+Subaru,Outback AWD,Regular,Small Sport Utility Vehicle 4WD,2024,Gray
+GMC,Canyon Mud Terrain Tires 4WD,Regular,Small Pickup Trucks 4WD,2023,Green
+MINI,Cooper S Clubman All4,Premium,Midsize Cars,2024,Green
+Chevrolet,Equinox FWD,Regular,Small Sport Utility Vehicle 2WD,2024,Red
+GMC,Terrain FWD,Regular,Small Sport Utility Vehicle 2WD,2024,Black
+BMW,i4 eDrive35 Gran Coupe (19 inch Wheels),Electricity,Subcompact Cars,2023,Green
+Volvo,XC90 T8 AWD Recharge,Premium and Electricity,Standard Sport Utility Vehicle 4WD,2023,Red
+BMW,228i Gran Coupe,Premium,Compact Cars,2024,Blue
+Audi,A5 Sportback quattro,Premium,Midsize Cars,2024,Gray
+Genesis,G90 MHEV,Premium,Large Cars,2024,Green
+Cadillac,CT4 V,Premium,Compact Cars,2024,Red
+Cadillac,CT4 AWD,Premium,Compact Cars,2024,Green
+Rolls-Royce,Phantom Extended,Premium,Large Cars,2024,Gray
+GMC,Sierra 2WD,Gasoline or E85,Standard Pickup Trucks 2WD,2024,Blue
+Mazda,323 Wagon,Regular,Small Station Wagons,1988,Red
+GMC,Sierra Mud Terrain Tires 4WD,Regular,Standard Pickup Trucks 4WD,2024,Gray
+Mitsubishi,Mirage Wagon,Regular,Small Station Wagons,1988,White
+Chevrolet,Silverado Cab Chassis 4WD,Regular,Special Purpose Vehicle 4WD,2024,Green
+Chevrolet,Blazer AWD,Regular,Small Sport Utility Vehicle 4WD,2024,Red
+BMW,iX xDrive50 (20 inch wheels),Electricity,Standard Sport Utility Vehicle 4WD,2024,White
+GMC,Hummer EV SUV,Electricity,Standard Sport Utility Vehicle 4WD,2024,Red
+Hyundai,Ioniq 6 Standard Range RWD,Electricity,Midsize Cars,2024,Red
+Polestar,2 Dual Motor (20 Inch Wheels),Electricity,Midsize Cars,2024,White
+Polestar,2 Single Motor (20 Inch Wheels),Electricity,Midsize Cars,2024,Blue
+Nissan,ARIYA ENGAGE e-4ORCE 63kWh,Electricity,Small Station Wagons,2023,White
+Porsche,718 Cayman GTS,Premium,Two Seaters,2024,Green
+Mercedes-Benz,AMG GT 53 4matic Plus,Premium,Compact Cars,2024,Black
+Chevrolet,Silverado 2WD,Regular,Standard Pickup Trucks 2WD,2024,Blue
+Chevrolet,Silverado Mud Terrain Tires 4WD,Regular,Standard Pickup Trucks 4WD,2024,Red
+GMC,Sierra Mud Terrain Tires 4WD,Regular,Standard Pickup Trucks 4WD,2024,Black
+Toyota,Tundra 4WD,Regular,Standard Pickup Trucks 4WD,2024,Blue
+Mitsubishi,Outlander Sport 2WD,Regular,Small Sport Utility Vehicle 2WD,2024,Gray
+Nissan,Pathfinder 2WD,Regular,Small Sport Utility Vehicle 2WD,2024,Blue
+Volkswagen,Quantum Wagon,Regular,Small Station Wagons,1988,Blue
+Jeep,Grand Wagoneer 4WD,Premium,Standard Sport Utility Vehicle 4WD,2024,Green
+Land Rover,Defender 110,Premium,Standard Sport Utility Vehicle 4WD,2024,Gray
+Audi,Q5 TFSI e quattro,Premium and Electricity,Small Sport Utility Vehicle 4WD,2023,White
+Kia,Sportage Plug-in Hybrid,Regular Gas and Electricity,Small Sport Utility Vehicle 4WD,2023,White
+Mercedes-Benz,S580 4matic Maybach,Premium,Large Cars,2024,Blue
+Lexus,TX 500h AWD,Premium,Standard Sport Utility Vehicle 4WD,2024,Blue
+Toyota,Mirai Limited,Hydrogen,Compact Cars,2023,White
+Toyota,Corolla Hybrid,Regular,Compact Cars,2024,Blue
+Mazda,CX-30 4WD,Regular,Small Sport Utility Vehicle 4WD,2024,Black
+Kia,EV9 Long Range RWD,Electricity,Standard Sport Utility Vehicle 2WD,2024,White
+Peugeot,505 Station Wagon,Premium,Midsize-Large Station Wagons,1988,Green
+Porsche,Taycan GTS Sport Turismo,Electricity,Compact Cars,2024,Black
+Rolls-Royce,Spectre Black Badge (23 inch wheels),Electricity,Compact Cars,2024,Green
+Mercedes-Benz,AMG SL43,Premium,Two Seaters,2023,White
+Toyota,Mirai Limited,Hydrogen,Compact Cars,2022,Blue
+Toyota,Mirai XLE,Hydrogen,Compact Cars,2022,Red
+Mercedes-Benz,AMG GT 55 4matic Plus (coupe),Premium,Subcompact Cars,2024,Blue
+Mercedes-Benz,AMG GT 63 4matic Plus (coupe),Premium,Subcompact Cars,2024,Red
+Volvo,240 DL/240 GL Wagon,Regular,Midsize-Large Station Wagons,1988,Red
+Ford,Bronco 4WD,Regular,Small Sport Utility Vehicle 4WD,2024,Red
+Ford,Bronco Badlands 4WD,Regular,Small Sport Utility Vehicle 4WD,2024,White
+Ford,Explorer Timberline AWD,Regular,Standard Sport Utility Vehicle 4WD,2024,Black
+BMW,M8 Competition Convertible,Premium,Subcompact Cars,2025,Gray
+Kia,Sorento Hybrid AWD,Regular,Small Sport Utility Vehicle 4WD,2025,White
+BMW,X5 M60i xDrive,Premium,Standard Sport Utility Vehicle 4WD,2025,Black
+BMW,X6 M Competition,Premium,Standard Sport Utility Vehicle 4WD,2025,White
+BMW,Alpina XB7,Premium,Standard Sport Utility Vehicle 4WD,2025,White
+BMW,M440i Coupe,Premium,Subcompact Cars,2025,White
+Nissan,Truck 2WD,Regular,Small Pickup Trucks,1988,Red
+Ford,F-150 Lightning Platinum 4WD,Electricity,Standard Pickup Trucks 4WD,2024,Gray
+Mercedes-Benz,EQE 350 4matic (SUV),Electricity,Standard Sport Utility Vehicle 4WD,2024,Blue
+Rivian,R1T Performance Dual Max (22in),Electricity,Standard Pickup Trucks 4WD,2024,Green
+Rivian,R1T Quad Large (22in),Electricity,Standard Pickup Trucks 4WD,2024,Blue
+Cadillac,CT5 V AWD,Premium,Midsize Cars,2025,Red
+GMC,S15 Pickup 2WD,Regular,Small Pickup Trucks,1988,Gray
+Aston Martin,Saloon/Vantage/Volante,Regular,Subcompact Cars,1985,Blue
+Toyota,Truck 2WD,Regular,Small Pickup Trucks,1988,Green
+Chevrolet,C10 Pickup 2WD,Regular,Standard Pickup Trucks,1988,Gray
+Dodge,D250 Pickup 2WD,Regular,Standard Pickup Trucks,1988,Black
+GMC,K25 Pickup 4WD,Regular,Standard Pickup Trucks,1988,Blue
+GMC,T15 (S15) Pickup 4WD,Regular,Standard Pickup Trucks,1988,Gray
+GMC,G15/25 Rally 2WD,Regular,Vans,1988,Black
+GMC,S15 Jimmy 2WD,Regular,Special Purpose Vehicle 2WD,1988,Blue
+Dodge,AW100/AW150 Ramcharger 4WD,Regular,Special Purpose Vehicles,1988,Blue
+Dodge,Dakota Cab Chassis 2WD,Regular,Special Purpose Vehicle 2WD,1988,Black
+GMC,S15 Cab Chassis 2WD,Regular,Special Purpose Vehicle 2WD,1988,White
+Chevrolet,Corvette,Premium,Two Seaters,1989,Gray
+Chevrolet,Sprint,Regular,Subcompact Cars,1989,Black
+Nissan,Sentra Coupe,Regular,Subcompact Cars,1989,Red
+Nissan,300ZX 2x2,Regular,Subcompact Cars,1989,Blue
+Geo,Metro LSI,Regular,Subcompact Cars,1989,Green
+Geo,Prizm,Regular,Subcompact Cars,1989,Gray
+Hyundai,Excel,Regular,Subcompact Cars,1989,Red
+Saleen,SSC,Regular,Subcompact Cars,1989,White
+Subaru,XT,Regular,Subcompact Cars,1989,Green
+BMW,535i,Regular,Compact Cars,1989,Blue
+Buick,Skylark,Regular,Compact Cars,1989,Black
+Chevrolet,Cavalier,Regular,Compact Cars,1989,White
+Mercedes-Benz,560SEC,Premium,Compact Cars,1989,White
+Oldsmobile,Cutlass Calais,Regular,Compact Cars,1989,Blue
+Peugeot,505 Sedan,Premium,Compact Cars,1989,Blue
+Peugeot,505 Sedan,Regular,Compact Cars,1989,Blue
+BMW,3 Series,Regular,Subcompact Cars,1985,Blue
+Subaru,Sedan/3Door 4WD Turbo,Regular,Compact Cars,1989,Red
+Audi,200 quattro,Regular,Midsize Cars,1989,Blue
+Chevrolet,Corsica,Regular,Midsize Cars,1989,Gray
+Chevrolet,Corsica,Regular,Midsize Cars,1989,Red
+Dodge,Spirit,Premium,Midsize Cars,1989,Blue
+Buick,Skyhawk Wagon,Regular,Small Station Wagons,1985,White
+Plymouth,Caravelle,Premium,Midsize Cars,1989,Blue
+Mercedes-Benz,300SEL,Regular,Large Cars,1989,White
+Buick,Skyhawk Wagon,Regular,Small Station Wagons,1989,Red
+Ford,Escort Wagon,Regular,Small Station Wagons,1985,Gray
+Volvo,740 Wagon,Regular,Midsize-Large Station Wagons,1989,White
+Chevrolet,C1500 Pickup 2WD,Regular,Standard Pickup Trucks,1989,Black
+Chevrolet,C2500 Pickup 2WD,Regular,Standard Pickup Trucks,1989,Gray
+Dodge,Dakota Pickup 2WD,Regular,Standard Pickup Trucks,1989,Blue
+GMC,Sierra 1500 2WD,Regular,Standard Pickup Trucks,1989,Red
+Dodge,W100/W150 Pickup 4WD,Regular,Standard Pickup Trucks,1989,Black
+Dodge,W250 Pickup 4WD,Regular,Standard Pickup Trucks,1989,Blue
+GMC,K2500 Sierra 4WD,Regular,Standard Pickup Trucks,1989,Gray
+GMC,S15 Pickup 4WD,Regular,Standard Pickup Trucks,1989,Blue
+Chevrolet,Astro 2WD (cargo),Regular,Vans,1989,Red
+Chevrolet,G10/20 Van 2WD,Diesel,Vans,1989,White
+GMC,Safari 2WD (passenger),Regular,Vans,1989,Blue
+Toyota,Tercel Wagon 4WD,Regular,Small Station Wagons,1985,Gray
+Plymouth,Voyager/Grand Voyager 2WD,Regular,Special Purpose Vehicle 2WD,1989,Red
+Plymouth,Voyager/Grand Voyager 2WD,Regular,Special Purpose Vehicle 2WD,1989,Green
+Chevrolet,Blazer V1500 4WD,Regular,Special Purpose Vehicles,1989,Green
+Isuzu,Trooper,Regular,Special Purpose Vehicles,1989,Blue
+Buick,Reatta,Regular,Two Seaters,1990,Gray
+Chevrolet,Celebrity Wagon,Regular,Midsize-Large Station Wagons,1985,Red
+Toyota,Celica Convertible,Regular,Minicompact Cars,1990,White
+Volkswagen,Cabriolet,Regular,Minicompact Cars,1990,Red
+Acura,Integra,Regular,Subcompact Cars,1990,White
+Nissan,300ZX 2x2,Premium,Subcompact Cars,1990,Red
+Geo,Metro LSI,Regular,Subcompact Cars,1990,Blue
+Toyota,Celica,Regular,Subcompact Cars,1990,Red
+Toyota,Supra,Premium,Subcompact Cars,1990,Gray
+Nissan,Stanza,Regular,Compact Cars,1990,Gray
+Pontiac,6000 Wagon,Regular,Midsize-Large Station Wagons,1985,Blue
+Peugeot,405 Sedan,Regular,Compact Cars,1990,Green
+Volvo,240,Regular,Compact Cars,1990,Blue
+Chrysler,LeBaron Landau,Regular,Midsize Cars,1990,Black
+Infiniti,Q45,Premium,Midsize Cars,1990,Gray
+Chevrolet,Celebrity Wagon,Regular,Midsize-Large Station Wagons,1990,Blue
+Peugeot,505 Station Wagon,Premium,Midsize-Large Station Wagons,1990,Green
+Peugeot,505 Station Wagon,Regular,Midsize-Large Station Wagons,1990,White
+Chevrolet,S10 Pickup 2WD,Regular,Small Pickup Trucks,1985,White
+Chevrolet,S10 Pickup 2WD,Regular,Small Pickup Trucks,1990,Green
+Nissan,Truck 2WD,Regular,Small Pickup Trucks,1985,Gray
+Ford,Ranger Pickup 4WD,Regular,Small Pickup Trucks,1990,Gray
+Dodge,Dakota Pickup 2WD,Regular,Standard Pickup Trucks,1990,Gray
+Dodge,D100/D150 Pickup 2WD,Regular,Standard Pickup Trucks,1990,Red
+Ford,F250 Pickup 2WD,Regular,Standard Pickup Trucks,1990,Black
+Chevrolet,K1500 Pickup 4WD,Regular,Standard Pickup Trucks,1990,Gray
+Chevrolet,K2500 Pickup 4WD,Regular,Standard Pickup Trucks,1990,Green
+Ford,Aerostar Van,Regular,Vans,1990,Blue
+Ford,E150 Econoline 2WD,Regular,Vans,1990,Green
+Nissan,Van (passenger),Regular,Vans,1990,White
+Dodge,AD100/AD150 Ramcharger 2WD,Regular,Special Purpose Vehicle 2WD,1990,Blue
+Dodge,Caravan/Grand Caravan/Ram Van 2WD,Regular,Special Purpose Vehicle 2WD,1990,Black
+Toyota,Cab/Chassis 2WD,Regular,Special Purpose Vehicle 2WD,1990,White
+Chevrolet,Corvette,Premium,Two Seaters,1991,Green
+Nissan,300ZX,Premium,Two Seaters,1991,White
+Dodge,Power Ram 50 Pickup 4WD,Regular,Small Pickup Trucks,1985,White
+Isuzu,Pickup 4WD,Diesel,Small Pickup Trucks,1985,Black
+Geo,Storm,Regular,Subcompact Cars,1991,White
+Mitsubishi,Eclipse,Regular,Subcompact Cars,1991,Black
+Plymouth,Laser,Regular,Subcompact Cars,1991,Gray
+Chevrolet,C10 Pickup 2WD,Regular,Standard Pickup Trucks,1985,Red
+Pontiac,Sunbird Convertible,Regular,Subcompact Cars,1991,Blue
+Chevrolet,C10 Pickup 2WD,Regular,Standard Pickup Trucks,1985,Gray
+Toyota,Celica,Regular,Subcompact Cars,1991,Black
+BMW,535i,Regular,Compact Cars,1991,Gray
+Chevrolet,Beretta,Regular,Compact Cars,1991,Green
+Chevrolet,Beretta,Premium,Compact Cars,1991,Black
+Chrysler,LeBaron,Regular,Compact Cars,1991,Blue
+Ford,Escort FS,Regular,Compact Cars,1991,Gray
+Ford,Tempo,Regular,Compact Cars,1991,Blue
+Import Trade Services,ITS 320,Premium,Compact Cars,1991,Gray
+Plymouth,Sundance,Premium,Compact Cars,1991,Gray
+Pontiac,Lemans,Regular,Compact Cars,1991,White
+Saab,900,Premium,Compact Cars,1991,Gray
+Chevrolet,El Camino Pickup 2WD,Regular,Standard Pickup Trucks,1985,White
+Chrysler,New Yorker,Regular,Midsize Cars,1991,White
+Mercury,Cougar,Regular,Midsize Cars,1991,White
+Mercedes-Benz,560SEL,Premium,Midsize Cars,1991,Blue
+Oldsmobile,Cutlass Supreme,Regular,Midsize Cars,1991,Black
+Volvo,740,Regular,Midsize Cars,1991,Green
+Volvo,940 GLE 16-Valve,Regular,Midsize Cars,1991,Blue
+Lincoln,Continental,Regular,Large Cars,1991,White
+Dodge,D250 Pickup 2WD,Regular,Standard Pickup Trucks,1985,Red
+GMC,Sonoma 2WD,Regular,Small Pickup Trucks,1991,Gray
+Ford,F150 Pickup 2WD,Regular,Standard Pickup Trucks,1985,Blue
+Ford,F150 Pickup 2WD,Regular,Standard Pickup Trucks,1991,Blue
+Ford,F250 Pickup 2WD,Regular,Standard Pickup Trucks,1991,Gray
+Ford,F250 Pickup 2WD,Regular,Standard Pickup Trucks,1991,Green
+Ford,F250 Pickup 2WD,Regular,Standard Pickup Trucks,1991,Black
+Toyota,Truck 2WD,Regular,Standard Pickup Trucks,1991,Blue
+Dodge,Power Ram 50 4WD,Regular,Standard Pickup Trucks,1991,Blue
+GMC,C15 Pickup 2WD,Regular,Standard Pickup Trucks,1985,Green
+GMC,Sierra 1500 4WD,Regular,Standard Pickup Trucks,1991,White
+GMC,K2500 Sierra 4WD,Regular,Standard Pickup Trucks,1991,Green
+GMC,C15 Pickup 2WD,Regular,Standard Pickup Trucks,1985,Gray
+GMC,C25 Pickup 2WD,Diesel,Standard Pickup Trucks,1985,Red
+Dodge,AW100/AW150 Ramcharger 4WD,Regular,Special Purpose Vehicles,1991,Blue
+Mazda,MPV 4x4,Regular,Special Purpose Vehicles,1991,Green
+Chevrolet,Corvette,Premium,Two Seaters,1992,Black
+Toyota,MR2,Regular,Two Seaters,1992,Red
+Chevrolet,Cavalier,Regular,Subcompact Cars,1992,Green
+Geo,Storm,Regular,Subcompact Cars,1992,Gray
+Mazda,MX-3,Regular,Subcompact Cars,1992,Green
+Mitsubishi,Mirage,Regular,Subcompact Cars,1992,Red
+Plymouth,Laser,Regular,Subcompact Cars,1992,Red
+Chrysler,LeBaron,Regular,Compact Cars,1992,Red
+Dodge,Shadow,Regular,Compact Cars,1992,White
+Ford,Probe,Premium,Compact Cars,1992,White
+Ford,Probe,Regular,Compact Cars,1992,Blue
+Mercury,Topaz,Regular,Compact Cars,1992,Green
+Mercedes-Benz,300D 2.5 Turbo,Diesel,Compact Cars,1992,White
+Plymouth,Sundance/Duster,Regular,Compact Cars,1992,Gray
+Pontiac,Grand Am,Regular,Compact Cars,1992,Blue
+Subaru,Legacy AWD,Regular,Compact Cars,1992,Green
+Mazda,929,Premium,Midsize Cars,1992,White
+Pontiac,Grand Prix,Regular,Midsize Cars,1992,Blue
+Subaru,Legacy Wagon AWD Turbo,Premium,Small Station Wagons,1992,Red
+Nissan,Truck 2WD,Regular,Small Pickup Trucks,1992,White
+Dodge,Ram 50 Pickup 2WD,Regular,Small Pickup Trucks,1992,Red
+GMC,Sonoma 2WD,Regular,Small Pickup Trucks,1992,Gray
+Chevrolet,C2500 Pickup 2WD,Regular,Standard Pickup Trucks,1992,Red
+Dodge,D250 Pickup 2WD,Regular,Standard Pickup Trucks,1992,Red
+Chevrolet,Astro 2WD (cargo),Regular,Vans,1985,White
+Mazda,B2200/B2600i,Regular,Standard Pickup Trucks,1992,Blue
+Dodge,W100/W150 Pickup 4WD,Regular,Standard Pickup Trucks,1992,White
+Dodge,W100/W150 Pickup 4WD,Regular,Standard Pickup Trucks,1992,Black
+Ford,F150 Pickup 4WD,Regular,Standard Pickup Trucks,1992,Green
+GMC,Sierra 1500 4WD,Regular,Standard Pickup Trucks,1992,White
+Toyota,Truck 4WD,Regular,Standard Pickup Trucks,1992,Blue
+Chevrolet,Astro AWD (cargo),Regular,Vans,1992,Blue
+Ford,Aerostar Van AWD,Regular,Vans,1992,Blue
+Dodge,B150/B250 Wagon 2WD,Regular,Vans,1992,Red
+GMC,Safari 2WD (passenger),Regular,Vans,1992,Gray
+Dodge,Ramcharger 4WD,Regular,Special Purpose Vehicles,1992,White
+Jeep,Cherokee 4WD,Regular,Special Purpose Vehicles,1992,White
+Ford,E250 Econoline 2WD,Regular,Vans,1985,Green
+Subaru,Loyale AWD,Regular,Special Purpose Vehicles,1992,Gray
+Mercury,Capri,Regular,Minicompact Cars,1993,Green
+Chevrolet,Camaro,Premium,Subcompact Cars,1993,Blue
+Dodge,Daytona,Regular,Subcompact Cars,1993,Gray
+Dodge,Shadow Convertible,Regular,Subcompact Cars,1993,White
+Dodge,Shadow Convertible,Regular,Subcompact Cars,1993,Green
+Dodge,Stealth,Premium,Subcompact Cars,1993,Gray
+Ferrari,Ferrari Mondial T/Cabriolet,Premium,Subcompact Cars,1993,Green
+Pontiac,Sunbird,Regular,Subcompact Cars,1993,Gray
+Pontiac,Sunbird,Regular,Subcompact Cars,1993,Gray
+Suzuki,Swift GT,Regular,Subcompact Cars,1993,Green
+Acura,Vigor,Premium,Compact Cars,1993,Black
+Audi,90,Premium,Compact Cars,1993,Gray
+BMW,535i,Regular,Compact Cars,1993,Red
+Ford,Escort,Regular,Compact Cars,1993,White
+Mazda,Protege,Regular,Compact Cars,1993,Green
+Rolls-Royce,Continental R,Premium,Compact Cars,1993,Red
+Porsche,911 Turbo S Cabriolet,Premium,Minicompact Cars,2016,Red
+BMW,640i Gran Coupe,Premium,Compact Cars,2017,Gray
+BMW,X4 M40i,Premium,Small Sport Utility Vehicle 4WD,2017,Black
+Ford,Escape AWD,Regular,Small Sport Utility Vehicle 4WD,2017,Red
+BMW,650i xDrive Gran Coupe,Premium,Compact Cars,2017,Gray
+Kia,Sorento FWD,Regular,Small Sport Utility Vehicle 2WD,2017,Black
+Porsche,911 Carrera S Cabriolet,Premium,Minicompact Cars,2017,Gray
+Chevrolet,Equinox AWD,Regular,Small Sport Utility Vehicle 4WD,2017,Black
+Lamborghini,Huracan Spyder 2WD,Premium,Two Seaters,2017,Green
+GMC,R25 Pickup 2WD,Regular,Standard Pickup Trucks,1987,Gray
+Chevrolet,Impala,Regular,Large Cars,2017,Blue
+Toyota,86,Premium,Minicompact Cars,2017,Green
+Volvo,XC90 AWD,Premium,Standard Sport Utility Vehicle 4WD,2017,Red
+Honda,Accord,Regular,Midsize Cars,2017,Black
+Honda,Fit,Regular,Small Station Wagons,2017,Blue
+Chevrolet,Silverado C15 2WD,Regular,Standard Pickup Trucks 2WD,2017,Black
+Chevrolet,Silverado C15 2WD,Gasoline or E85,Standard Pickup Trucks 2WD,2017,Gray
+GMC,Sierra C15 2WD,Regular,Standard Pickup Trucks 2WD,2017,Green
+GMC,Sierra 15 Hybrid 4WD,Regular,Standard Pickup Trucks 4WD,2017,Blue
+Ferrari,GTC4Lusso,Premium,Minicompact Cars,2017,Blue
+Jeep,Compass 4WD,Regular,Small Sport Utility Vehicle 4WD,2017,White
+Porsche,911 R,Premium,Minicompact Cars,2016,White
+Cadillac,CTS,Regular,Midsize Cars,2017,Green
+Chevrolet,Impala,Gasoline or E85,Large Cars,2017,Black
+Fiat,500,Premium,Minicompact Cars,2017,Red
+Nissan,Truck 4WD,Regular,Standard Pickup Trucks,1987,Green
+smart,fortwo cabriolet,Premium,Two Seaters,2017,Gray
+Cadillac,ATS AWD,Premium,Compact Cars,2017,Gray
+Buick,LaCrosse,Regular,Midsize Cars,2017,Black
+BMW,330i xDrive Gran Turismo,Premium,Large Cars,2017,Red
+Volkswagen,GTI,Regular,Compact Cars,2017,Red
+BMW,X5 M,Premium,Standard Sport Utility Vehicle 4WD,2017,Blue
+Audi,A4 Ultra,Premium,Compact Cars,2017,Gray
+GMC,T15 (S15) Pickup 4WD,Regular,Standard Pickup Trucks,1987,Gray
+Honda,Civic 5Dr,Regular,Large Cars,2017,Red
+Nissan,Frontier 4WD FFV,Gasoline or E85,Small Pickup Trucks 4WD,2017,White
+Mazda,3 4-Door,Regular,Compact Cars,2017,Blue
+Ford,Edge FWD,Regular,Small Sport Utility Vehicle 2WD,2017,Blue
+Chevrolet,Colorado 2WD,Regular,Small Pickup Trucks 2WD,2017,Black
+Dodge,Challenger SRT,Premium,Midsize Cars,2017,Blue
+Toyota,Highlander,Regular,Small Sport Utility Vehicle 2WD,2017,Red
+Jeep,J-10 Pickup Truck 4WD,Regular,Standard Pickup Trucks,1987,Blue
+Honda,Pilot AWD,Regular,Small Sport Utility Vehicle 4WD,2017,Green
+Mercedes-Benz,GLC300 4matic Coupe,Premium,Small Sport Utility Vehicle 4WD,2017,Black
+Land Rover,Range Rover Sport,Premium,Standard Sport Utility Vehicle 4WD,2017,Green
+Ford,Taurus AWD FFV,Gasoline or E85,Large Cars,2017,Red
+Honda,Odyssey,Regular,Minivan - 2WD,2017,Black
+Nissan,Rogue Hybrid  FWD,Regular,Small Sport Utility Vehicle 2WD,2017,Red
+Subaru,Impreza 4-Door,Regular,Midsize Cars,2017,Green
+Subaru,Impreza Sport 5-Door,Regular,Small Station Wagons,2017,Blue
+Chevrolet,Astro 2WD (cargo),Regular,Vans,1987,Red
+BMW,M4 Convertible,Premium,Subcompact Cars,2018,Red
+BMW,640i xDrive Convertible,Premium,Subcompact Cars,2018,White
+BMW,440i xDrive Coupe,Premium,Compact Cars,2018,Black
+Ferrari,California T,Premium,Minicompact Cars,2018,White
+Hyundai,Santa Fe Sport FWD,Regular,Small Sport Utility Vehicle 2WD,2018,Blue
+Kia,Sorento AWD,Regular,Small Sport Utility Vehicle 4WD,2018,Green
+Volvo,S60 Polestar AWD,Premium,Compact Cars,2018,White
+Mercedes-Benz,AMG GLA45 4matic,Premium,Midsize Station Wagons,2018,Green
+Dodge,B350 Van 2WD,Regular,Vans,1987,Gray
+Chevrolet,Camaro,Premium,Subcompact Cars,2018,Gray
+Subaru,Impreza Sport 5-Door,Regular,Small Station Wagons,2018,Blue
+Cadillac,ATS AWD,Premium,Compact Cars,2018,Green
+Infiniti,Q50 AWD,Premium,Midsize Cars,2018,Red
+MINI,Cooper Convertible,Premium,Minicompact Cars,2018,Blue
+Honda,Ridgeline FWD,Regular,Small Pickup Trucks 2WD,2018,Green
+Jeep,Cherokee 4WD,Midgrade,Small Sport Utility Vehicle 4WD,2018,Gray
+BMW,M240i Convertible,Premium,Subcompact Cars,2018,Blue
+BMW,M2,Premium,Subcompact Cars,2018,Red
+Chevrolet,Cruze Hatchback,Regular,Midsize Cars,2018,Green
+Dodge,Durango SRT AWD,Premium,Standard Sport Utility Vehicle 4WD,2018,White
+Porsche,911 Targa 4S,Premium,Minicompact Cars,2018,Black
+Ford,F150 2WD BASE PAYLOAD LT TIRE,Regular,Standard Pickup Trucks 2WD,2018,Blue
+Porsche,Boxster,Premium,Two Seaters,2018,White
+Mercedes-Benz,AMG C63 S Coupe,Premium,Subcompact Cars,2018,Red
+Mercedes-Benz,AMG GT C Roadster,Premium,Two Seaters,2018,Black
+Audi,RS 7,Premium,Midsize Cars,2018,White
+Lincoln,MKZ FWD,Regular,Midsize Cars,2018,Black
+Lincoln,MKZ FWD,Regular,Midsize Cars,2018,Gray
+Ford,Transit T150 Wagon,Regular,"Vans, Passenger Type",2018,Black
+Cadillac,XTS Hearse,Regular,Special Purpose Vehicle 2WD,2018,Gray
+Ford,E150 Club Wagon,Regular,Vans,1987,Green
+Porsche,Cayman S,Premium,Two Seaters,2018,Gray
+Infiniti,Q60 Red Sport,Premium,Subcompact Cars,2018,Green
+Nissan,Pathfinder 4WD,Regular,Small Sport Utility Vehicle 4WD,2018,Black
+BMW,X6 xDrive50i,Premium,Standard Sport Utility Vehicle 4WD,2018,Black
+Toyota,Corolla,Diesel,Compact Cars,1985,Red
+Toyota,Van 4WD,Regular,Vans,1987,Green
+Lexus,IS 300,Premium,Compact Cars,2018,White
+Ford,Explorer FWD,Regular,Standard Sport Utility Vehicle 2WD,2018,Gray
+Toyota,Cressida,Premium,Compact Cars,1985,White
+Jeep,Renegade 4WD,Regular,Small Sport Utility Vehicle 4WD,2018,Black
+Pagani,Huayra,Premium,Two Seaters,2018,White
+Lexus,RX 350,Regular,Small Sport Utility Vehicle 2WD,2018,Blue
+Dodge,Caravan/Grand Caravan/Ram Van 2WD,Regular,Special Purpose Vehicle 2WD,1987,White
+Mercedes-Benz,"Metris (Cargo Van, LWB)",Premium,Special Purpose Vehicle 2WD,2018,Red
+Dodge,Caravan/Grand Caravan/Ram Van 2WD,Regular,Special Purpose Vehicle 2WD,1987,Black
+GMC,S15 Jimmy 2WD,Regular,Special Purpose Vehicle 2WD,1987,Blue
+MINI,Cooper Clubman,Premium,Midsize Cars,2019,White
+BMW,750i,Premium,Large Cars,2019,Black
+BMW,M3 CS,Premium,Compact Cars,2018,Red
+Jaguar,F-Pace,Premium,Small Sport Utility Vehicle 4WD,2019,Green
+Ferrari,GTC4Lusso,Premium,Minicompact Cars,2019,Blue
+Toyota,Avalon Hybrid,Regular,Midsize Cars,2019,White
+Lincoln,MKC FWD,Regular,Small Sport Utility Vehicle 2WD,2019,Green
+Porsche,Boxster,Premium,Two Seaters,2019,Gray
+Lincoln,MKT AWD,Regular,Standard Sport Utility Vehicle 4WD,2019,White
+Porsche,Cayman GTS,Premium,Two Seaters,2019,Gray
+Cadillac,XTS AWD,Premium,Large Cars,2019,Red
+Subaru,Impreza 5-Door,Regular,Small Station Wagons,2019,Green
+Kia,Soul,Regular,Small Station Wagons,2019,Green
+Ford,Mustang,Regular,Subcompact Cars,2019,Green
+Hyundai,Accent,Regular,Compact Cars,2019,White
+Honda,Pilot FWD,Regular,Small Sport Utility Vehicle 2WD,2019,White
+Volvo,XC90 AWD PHEV,Premium and Electricity,Standard Sport Utility Vehicle 4WD,2019,Red
+Cadillac,CTS-V,Premium,Midsize Cars,2019,Gray
+Chevrolet,Camaro,Premium,Subcompact Cars,2019,Green
+Chevrolet,Camaro,Premium,Subcompact Cars,2019,Gray
+Rolls-Royce,Ghost EWB,Premium,Large Cars,2019,Green
+Ford,Bronco 4WD,Regular,Special Purpose Vehicles,1987,Red
+Hyundai,Sonata,Regular,Large Cars,2019,Gray
+Ford,Bronco 4WD,Regular,Special Purpose Vehicles,1987,Black
+Mercedes-Benz,GLA250 4matic,Premium or E85,Small Sport Utility Vehicle 4WD,2019,Blue
+Nissan,Sentra Nismo,Premium,Midsize Cars,2019,Gray
+Mercedes-Benz,GLA250 4matic,Premium,Small Sport Utility Vehicle 4WD,2019,Blue
+Dodge,Challenger,Regular,Midsize Cars,2019,Gray
+Dodge,Challenger SRT,Premium,Midsize Cars,2019,Black
+Dodge,Charger,Midgrade,Large Cars,2019,Black
+Dodge,Charger SRT,Premium,Large Cars,2019,Blue
+Land Rover,Range Rover LWB SVA,Premium,Standard Sport Utility Vehicle 4WD,2019,White
+Mercedes-Benz,E450 4matic,Premium,Midsize Cars,2019,Black
+Nissan,Rogue FWD,Regular,Small Sport Utility Vehicle 2WD,2019,White
+Ford,Explorer FWD,Regular,Standard Sport Utility Vehicle 2WD,2019,Gray
+Mercedes-Benz,AMG S63 4matic Coupe,Premium,Compact Cars,2019,Green
+Honda,Civic 4Dr,Regular,Midsize Cars,2019,Gray
+Kia,Niro Plug-in Hybrid,Regular Gas and Electricity,Small Station Wagons,2019,Red
+Lexus,IS 300 AWD,Premium,Compact Cars,2019,White
+Honda,Accord,Regular,Large Cars,2019,Green
+Lincoln,Continental  AWD,Regular,Large Cars,2019,White
+Mercedes-Benz,AMG GT R Coupe,Premium,Two Seaters,2019,Red
+Mercedes-Benz,S560 4matic Coupe,Premium,Compact Cars,2019,Gray
+Chevrolet,Silverado C10 2WD,Regular,Standard Pickup Trucks 2WD,2019,Blue
+Subaru,Wagon 4WD,Regular,Special Purpose Vehicles,1987,Black
+Infiniti,Q60,Premium,Subcompact Cars,2019,Blue
+Audi,A6 quattro,Premium,Midsize Cars,2019,Blue
+Toyota,Land Cruiser Wagon 4WD,Regular,Special Purpose Vehicles,1987,Blue
+Ford,F150 Pickup 2WD,Regular,Standard Pickup Trucks 2WD,2019,Red
+Ford,F150 2WD FFV BASE PAYLOAD LT,Gasoline or E85,Standard Pickup Trucks 2WD,2019,White
+Ford,F150 2.7L 2WD GVWR>6649 LBS,Regular,Standard Pickup Trucks 2WD,2019,Black
+Mazda,CX-5 4WD,Regular,Small Sport Utility Vehicle 4WD,2019,Blue
+Mercedes-Benz,AMG GLC63 4matic Coupe,Premium,Small Sport Utility Vehicle 4WD,2019,Green
+Volkswagen,Golf R,Premium,Compact Cars,2019,Red
+Ford,F150 Pickup 2WD,Diesel,Standard Pickup Trucks 2WD,2019,Gray
+Nissan,Murano AWD,Regular,Midsize Station Wagons,2019,White
+Volkswagen,Golf SportWagen 4motion,Regular,Small Station Wagons,2019,White
+Kia,Sportage FWD,Regular,Small Sport Utility Vehicle 2WD,2020,Blue
+Mazda,3 5-Door,Regular,Midsize Cars,2018,Black
+Nissan,Leaf (62 kW-hr battery pack),Electricity,Midsize Cars,2019,Blue
+Jaguar,F-Pace,Premium,Small Sport Utility Vehicle 4WD,2020,Blue
+BMW,M240i xDrive Coupe M Performance,Premium,Subcompact Cars,2020,Blue
+Honda,Civic CRX HF,Regular,Two Seaters,1988,Gray
+Genesis,G80 AWD,Regular,Large Cars,2020,Blue
+Hyundai,Tucson FWD,Regular,Small Sport Utility Vehicle 2WD,2020,Blue
+Chevrolet,Spark ACTIV,Regular,Subcompact Cars,2020,Gray
+Lexus,RC F,Premium,Subcompact Cars,2020,Gray
+Hyundai,Santa Fe FWD,Regular,Small Sport Utility Vehicle 2WD,2020,Gray
+Volvo,V90 FWD,Premium,Midsize Station Wagons,2020,Blue
+Hyundai,Elantra GT,Regular,Large Cars,2020,Gray
+Audi,5000S,Regular,Midsize Cars,1985,Green
+Chevrolet,Sprint Metro,Regular,Minicompact Cars,1988,Blue
+Nissan,GT-R,Premium,Subcompact Cars,2020,Black
+Chevrolet,Colorado ZR2 4WD,Regular,Small Pickup Trucks 4WD,2020,Red
+Nissan,Rogue FWD,Regular,Small Sport Utility Vehicle 2WD,2020,Red
+Jeep,Cherokee 4WD Active Drive II,Regular,Small Sport Utility Vehicle 4WD,2020,Gray
+Jeep,Wrangler Unlimited 4WD,Regular,Small Sport Utility Vehicle 4WD,2020,Black
+BMW,X7 xDrive50i,Premium,Standard Sport Utility Vehicle 4WD,2020,Green
+GMC,Sierra 2WD,Gasoline or E85,Standard Pickup Trucks 2WD,2020,White
+Lexus,ES 300h,Regular,Midsize Cars,2020,Gray
+Toyota,Prius Eco,Regular,Midsize Cars,2020,Red
+Toyota,Camry TRD,Regular,Midsize Cars,2020,Black
+BMW,6 Series,Regular,Subcompact Cars,1988,White
+Nissan,Murano FWD,Regular,Midsize Station Wagons,2020,Green
+Volkswagen,Atlas Cross Sport,Regular,Small Sport Utility Vehicle 2WD,2020,Green
+Ram,1500 4WD,Diesel,Standard Pickup Trucks 4WD,2020,Blue
+Lamborghini,Aventador Coupe,Premium,Two Seaters,2020,Red
+Toyota,RAV4,Regular,Small Sport Utility Vehicle 2WD,2020,Blue
+Lexus,UX 250h AWD,Regular,Compact Cars,2020,Black
+Hyundai,Sonata,Regular,Large Cars,2020,Black
+Hyundai,Sonata,Regular,Large Cars,2020,Red
+Lincoln,Continental  AWD,Regular,Large Cars,2020,Gray
+Lincoln,Corsair AWD,Regular,Small Sport Utility Vehicle 4WD,2020,Blue
+Lincoln,Navigator 4WD,Regular,Standard Sport Utility Vehicle 4WD,2020,Blue
+Nissan,Pulsar NX,Regular,Subcompact Cars,1988,Gray
+Lexus,RC 300 AWD,Premium,Subcompact Cars,2020,White
+Mercedes-Benz,GLE580 4matic,Premium,Standard Sport Utility Vehicle 4WD,2020,Green
+Audi,A4 allroad quattro,Premium,Small Station Wagons,2020,White
+Nissan,Kicks,Regular,Midsize Cars,2020,Green
+Dodge,Daytona,Premium,Subcompact Cars,1988,Red
+Genesis,G70 RWD,Premium,Compact Cars,2021,Green
+Honda,Civic 5Dr,Premium,Large Cars,2020,Black
+Ford,Mustang,Regular,Subcompact Cars,1988,Blue
+MINI,Cooper Hardtop 2 door,Premium,Subcompact Cars,2021,Black
+GMC,Canyon 4WD,Regular,Small Pickup Trucks 4WD,2021,Gray
+BMW,330e xDrive,Premium and Electricity,Compact Cars,2021,Black
+Honda,Civic,Regular,Subcompact Cars,1988,Black
+Porsche,Taycan 4S Perf Battery Plus,Electricity,Large Cars,2020,White
+Hyundai,Kona AWD,Regular,Small Sport Utility Vehicle 4WD,2021,Blue
+Buick,Encore FWD,Regular,Small Sport Utility Vehicle 2WD,2021,Red
+Chevrolet,Spark ACTIV,Regular,Subcompact Cars,2021,Gray
+McLaren Automotive,570S Coupe,Premium,Two Seaters,2020,Blue
+Isuzu,I-Mark,Regular,Subcompact Cars,1988,Red
+McLaren Automotive,570S Coupe,Premium,Two Seaters,2019,Gray
+Isuzu,Impulse,Regular,Subcompact Cars,1988,Green
+Infiniti,QX80 4WD,Premium,Standard Sport Utility Vehicle 4WD,2021,Gray
+Audi,A8 L,Premium,Large Cars,2021,White
+Audi,A6 Allroad,Premium,Midsize Station Wagons,2021,Gray
+Acura,RDX AWD,Premium,Small Sport Utility Vehicle 4WD,2021,White
+Genesis,G80 RWD,Premium,Large Cars,2021,Blue
+BMW,Z4 M40i,Premium,Two Seaters,2021,Green
+Jeep,Gladiator 4WD,Regular,Standard Pickup Trucks 4WD,2021,Green
+Lexus,RX 350 L,Regular,Small Sport Utility Vehicle 2WD,2021,Green
+BMW,Z4 sDrive30i,Premium,Two Seaters,2021,Green
+Ram,1500 2WD,Midgrade,Standard Pickup Trucks 2WD,2021,Blue
+Hyundai,Elantra,Regular,Midsize Cars,2021,Green
+Toyota,Tacoma 4WD,Regular,Small Pickup Trucks 4WD,2021,Red
+GMC,Sierra 2WD,Diesel,Standard Pickup Trucks 2WD,2021,Green
+GMC,Sierra 4WD AT4,Diesel,Standard Pickup Trucks 4WD,2021,Red
+Toyota,Highlander AWD,Regular,Small Sport Utility Vehicle 4WD,2021,Red
+Mazda,3 4-Door 4WD,Regular,Compact Cars,2021,Black
+Dodge,Durango AWD,Regular,Standard Sport Utility Vehicle 4WD,2021,Black
+Maserati,Ghibli,Premium,Midsize Cars,2021,Green
+Aston Martin,Vantage Manual,Premium,Two Seaters,2021,Black
+Volkswagen,GTI,Regular,Compact Cars,2021,Green
+Cadillac,Eldorado,Regular,Midsize Cars,1985,Gray
+Chevrolet,Silverado 4WD,Regular,Standard Pickup Trucks 4WD,2021,White
+Nissan,Rogue FWD,Regular,Small Sport Utility Vehicle 2WD,2021,Blue
+Volvo,S60 AWD PHEV,Premium and Electricity,Compact Cars,2021,Gray
+Dodge,Challenger SRT Widebody,Premium,Midsize Cars,2021,Red
+Dodge,Challenger SRT Widebody,Premium,Midsize Cars,2021,Gray
+Toyota,Supra,Premium,Subcompact Cars,1988,Black
+Hyundai,Santa Fe Hybrid Blue,Regular,Small Sport Utility Vehicle 4WD,2021,Gray
+Chevrolet,Celebrity,Regular,Midsize Cars,1985,Green
+Jaguar,E-Pace MHEV,Premium,Small Sport Utility Vehicle 4WD,2021,Green
+Chevrolet,Silverado 2WD,Regular,Standard Pickup Trucks 2WD,2021,White
+Kia,K5 AWD,Regular,Large Cars,2022,White
+Land Rover,Range Rover Sport SVR,Premium,Standard Sport Utility Vehicle 4WD,2022,White
+Porsche,Panamera 4S e-Hybrid Executive,Premium and Electricity,Large Cars,2021,Green
+Chevrolet,Nova,Regular,Compact Cars,1988,Green
+Nissan,Pathfinder 4WD Platinum,Regular,Standard Sport Utility Vehicle 4WD,2022,Red
+Hyundai,Santa Fe AWD,Regular,Small Sport Utility Vehicle 4WD,2022,White
+Hyundai,Santa Fe Hybrid,Regular,Small Sport Utility Vehicle 4WD,2022,White
+Ford,Bronco Badlands 4WD,Regular,Small Sport Utility Vehicle 4WD,2021,Gray
+GMC,Yukon XL 2WD,Regular,Standard Sport Utility Vehicle 2WD,2021,Green
+Subaru,Impreza 4-Door,Regular,Midsize Cars,2022,Black
+Toyota,Corolla APEX,Regular,Compact Cars,2022,White
+Jeep,Wrangler 2dr 4WD,Regular,Small Sport Utility Vehicle 4WD,2021,Gray
+Lamborghini,Huracan Coupe,Premium,Two Seaters,2022,Gray
+Honda,Civic 4Dr,Regular,Midsize Cars,2022,White
+Audi,Q5 S line quattro,Premium,Small Sport Utility Vehicle 4WD,2022,Gray
+Audi,Q5 Sportback S line quattro,Premium,Small Sport Utility Vehicle 4WD,2022,Black
+Toyota,GR Supra,Premium,Two Seaters,2022,Green
+BMW,M4 Competition M xDrive Convertible,Premium,Subcompact Cars,2022,Gray
+Volvo,S60 B5 AWD,Premium,Compact Cars,2022,Gray
+BMW,530i Sedan,Premium,Midsize Cars,2022,Blue
+Audi,S3,Premium,Subcompact Cars,2022,Red
+Jaguar,E-Pace,Premium,Small Sport Utility Vehicle 4WD,2022,Blue
+BMW,M440i xDrive Coupe,Premium,Subcompact Cars,2022,Black
+Mitsubishi,Outlander Sport 2WD,Regular,Small Sport Utility Vehicle 2WD,2022,Black
+BMW,X6 xDrive40i,Premium,Standard Sport Utility Vehicle 4WD,2022,White
+Jeep,Wagoneer 4WD,Midgrade,Standard Sport Utility Vehicle 4WD,2022,White
+Maserati,Levante Modena V8,Premium,Standard Sport Utility Vehicle 4WD,2022,Black
+Jaguar,XJ6,Premium,Compact Cars,1988,Red
+Mercury,Cougar,Regular,Compact Cars,1988,Gray
+Porsche,911 Carrera,Premium,Minicompact Cars,2022,Black
+Nissan,Leaf (62 kW-hr battery pack),Electricity,Midsize Cars,2022,Gray
+Mazda,323,Regular,Compact Cars,1988,Red
+Porsche,718 Cayman,Premium,Two Seaters,2022,Black
+Infiniti,Q60 Red Sport,Premium,Subcompact Cars,2022,Red
+Lexus,RC 350,Premium,Subcompact Cars,2022,Black
+Mercedes-Benz,300SE,Premium,Compact Cars,1988,Green
+GMC,Yukon 4WD,Regular,Standard Sport Utility Vehicle 4WD,2022,Gray
+Chevrolet,Tahoe 4WD,Regular,Standard Sport Utility Vehicle 4WD,2022,White
+Ram,1500 Classic 2WD,Regular,Standard Pickup Trucks 2WD,2022,Gray
+Jeep,Grand Cherokee L 2WD,Regular,Standard Sport Utility Vehicle 2WD,2022,Gray
+GMC,Sierra 4WD,Regular,Standard Pickup Trucks 4WD,2022,Black
+Mercedes-Benz,C300 4matic Convertible,Premium,Subcompact Cars,2022,Gray
+Mercedes-Benz,GLB250,Premium,Special Purpose Vehicle 2WD,2022,Black
+Pontiac,Grand Am,Regular,Compact Cars,1988,Gray
+Jeep,Wrangler 2dr 4WD,Regular,Small Sport Utility Vehicle 4WD,2022,Black
+Kia,EV6 RWD (Long Range),Electricity,Small Station Wagons,2022,Black
+Kia,EV6 RWD (Standard Range),Electricity,Small Station Wagons,2022,Gray
+Pontiac,Lemans,Regular,Compact Cars,1988,Blue
+Ford,Escape FWD PHEV,Regular Gas and Electricity,Small Sport Utility Vehicle 2WD,2022,Red
+Alfa Romeo,Giulia,Premium,Midsize Cars,2022,Green
+Tesla,Model Y Performance AWD,Electricity,Small Sport Utility Vehicle 4WD,2022,Red
+Ford,Mustang Mach-E GT Performance,Electricity,Small Sport Utility Vehicle 4WD,2022,Black
+Ford,Mustang Mach-E RWD,Electricity,Small Sport Utility Vehicle 2WD,2022,Green
+Volkswagen,GTI 16v,Regular,Compact Cars,1988,Green
+McLaren Automotive,765LT Spider,Premium,Two Seaters,2022,White
+Genesis,GV70 AWD,Premium,Small Sport Utility Vehicle 4WD,2023,White
+Land Rover,New Range Rover P360 MHEV,Premium,Standard Sport Utility Vehicle 4WD,2022,Gray
+Mitsubishi,Eclipse Cross 2WD,Regular,Small Sport Utility Vehicle 2WD,2023,Red
+Mazda,CX-50 4WD,Regular,Small Sport Utility Vehicle 4WD,2023,Green
+Audi,5000 CS quattro,Regular,Midsize Cars,1988,Gray
+Audi,5000 CS Turbo,Regular,Midsize Cars,1988,Red
+Hyundai,Elantra Hybrid Blue,Regular,Midsize Cars,2023,Gray
+Buick,Encore GX FWD,Regular,Small Sport Utility Vehicle 2WD,2023,White
+Cadillac,XT4 FWD,Premium,Small Sport Utility Vehicle 2WD,2023,Red
+Chrysler,Executive Sedan/Limousine,Regular,Midsize Cars,1985,Blue
+Subaru,Legacy AWD,Regular,Large Cars,2023,Gray
+Volkswagen,Golf-R,Premium,Compact Cars,2023,Red
+Cadillac,Eldorado,Regular,Midsize Cars,1988,Gray
+Volkswagen,Taos 4motion,Regular,Small Sport Utility Vehicle 4WD,2023,Gray
+Land Rover,New Range Rover Sport P360 MHEV,Premium,Standard Sport Utility Vehicle 4WD,2023,Blue
+BMW,M440i Coupe,Premium,Subcompact Cars,2023,Black
+BMW,M5 Competition Sedan,Premium,Midsize Cars,2023,Black
+BMW,X4 M Competition,Premium,Small Sport Utility Vehicle 4WD,2023,Black
+GMC,Yukon 2WD,Diesel,Standard Sport Utility Vehicle 2WD,2023,Red
+Cadillac,Escalade V 4WD,Premium,Standard Sport Utility Vehicle 4WD,2023,Gray
+Volvo,XC90 B6 AWD,Premium,Standard Sport Utility Vehicle 4WD,2023,Gray
+Cadillac,Escalade 4WD,Premium,Standard Sport Utility Vehicle 4WD,2023,Green
+Land Rover,Defender 130 P400 MHEV,Premium,Standard Sport Utility Vehicle 4WD,2023,Black
+Rolls-Royce,Ghost Extended,Premium,Large Cars,2023,Blue
+Rolls-Royce,Ghost Black Badge,Premium,Large Cars,2023,White
+Dodge,Dynasty,Regular,Midsize Cars,1988,Gray
+Dodge,Dynasty,Regular,Midsize Cars,1988,Black
+Porsche,Cayenne Turbo Coupe,Premium,Standard Sport Utility Vehicle 4WD,2023,Black
+Jeep,Grand Wagoneer 4WD,Premium,Standard Sport Utility Vehicle 4WD,2023,Red
+Toyota,Tacoma 2WD,Regular,Small Pickup Trucks 2WD,2023,Green
+Mercedes-Benz,C300 Convertible,Premium,Subcompact Cars,2023,Green
+Toyota,Corolla Hybrid,Regular,Compact Cars,2023,Green
+Nissan,Altima SL/SR,Regular,Midsize Cars,2023,Green
+Ferrari,Monza SP1,Premium,Two Seaters,2023,Gray
+Audi,e-tron GT,Electricity,Midsize Cars,2023,White
+Audi,e-tron Sportback quattro,Electricity,Standard Sport Utility Vehicle 4WD,2023,Red
+BMW,i4 M50 Gran Coupe (20 inch wheels),Electricity,Subcompact Cars,2023,Red
+BMW,iX xDrive50 (21 inch wheels),Electricity,Standard Sport Utility Vehicle 4WD,2023,Green
+Oldsmobile,Cutlass Supreme,Regular,Midsize Cars,1988,Green
+Porsche,Taycan 4 Cross Turismo,Electricity,Midsize Cars,2023,Red
+Plymouth,Caravelle,Regular,Midsize Cars,1988,White
+Toyota,Venza AWD,Regular,Small Sport Utility Vehicle 4WD,2023,Red
+Plymouth,Gran Fury,Premium,Midsize Cars,1988,Green
+Porsche,911 Carrera S Cabriolet,Premium,Minicompact Cars,2023,Red
+Porsche,911 Carrera 4S Cabriolet,Premium,Minicompact Cars,2023,Blue
+Plymouth,Reliant,Regular,Midsize Cars,1988,Gray
+Porsche,911 Targa 4 GTS,Premium,Minicompact Cars,2023,Green
+Pontiac,Grand Prix,Regular,Midsize Cars,1988,Red
+Honda,Civic 5Dr,Regular,Large Cars,2023,Red
+Lexus,NX 250 AWD,Regular,Small Sport Utility Vehicle 4WD,2023,Green
+Ford,Bronco Raptor 4WD,Regular,Standard Sport Utility Vehicle 4WD,2023,Green
+Subaru,WRX,Premium,Midsize Cars,2023,White
+Ram,1500 Classic 2WD,Midgrade,Standard Pickup Trucks 2WD,2023,White
+Chrysler,Voyager,Regular,Minivan - 2WD,2023,White
+Lincoln,Nautilus FWD,Regular,Small Sport Utility Vehicle 2WD,2023,Black
+Chevrolet,Celebrity Wagon,Regular,Midsize Station Wagons,1984,Red
+Oldsmobile,Cutlass Cruiser Wagon,Diesel,Midsize Station Wagons,1984,Blue
+Ford,Ranger Pickup 2WD,Regular,Small Pickup Trucks 2WD,1984,Green
+GMC,S15 Pickup 2WD,Regular,Small Pickup Trucks 2WD,1984,Blue
+Mitsubishi,Truck 4WD,Regular,Small Pickup Trucks 4WD,1984,Black
+GMC,Caballero Pickup 2WD,Regular,Standard Pickup Trucks 2WD,1984,Gray
+Toyota,Truck 2WD,Diesel,Standard Pickup Trucks 2WD,1984,White
+Dodge,B150/B250 Van 2WD,Regular,"Vans, Cargo Type",1984,Green
+Dodge,Omni,Regular,Compact Cars,1985,Red
+Dodge,Caravan/Ram Van 2WD,Regular,Special Purpose Vehicle 2WD,1984,White
+American Motors Corporation,Eagle SX/4 4WD,Regular,Special Purpose Vehicle 4WD,1984,Black
+American Motors Corporation,Eagle 4WD,Regular,Special Purpose Vehicle 4WD,1984,Blue
+Ford,Bronco 4WD,Regular,Special Purpose Vehicle 4WD,1984,Black
+GMC,T15 (S15) Jimmy 4WD,Regular,Special Purpose Vehicle 4WD,1984,Green
+Isuzu,Trooper 4WD,Regular,Special Purpose Vehicle 4WD,1984,Blue
+Jeep,Grand Wagoneer,Regular,Special Purpose Vehicles,1986,Blue
+Chevrolet,Corvette,Premium,Two Seaters,2010,White
+Bentley,Continental GT,Premium,Compact Cars,2010,Green
+Dodge,Omni,Regular,Compact Cars,1985,Gray
+Suzuki,SX4 Sedan,Regular,Compact Cars,2010,Blue
+Subaru,Wagon 4WD,Regular,Special Purpose Vehicles,1986,Blue
+Ford,Taurus FWD,Regular,Large Cars,2010,Gray
+Volkswagen,Jetta SportWagen,Regular,Small Station Wagons,2010,White
+GMC,Sierra K15 4WD,Regular,Standard Pickup Trucks 4WD,2010,Red
+Chrysler,Town and Country,Regular,Minivan - 2WD,2010,Gray
+Honda,Odyssey,Regular,Minivan - 2WD,2010,Black
+Mazda,CX-9 2WD,Regular,Sport Utility Vehicle - 2WD,2010,White
+Mercury,Mountaineer 2WD,Regular,Sport Utility Vehicle - 2WD,2010,White
+GMC,V15 Suburban 4WD,Diesel,Special Purpose Vehicle 4WD,1987,Green
+Chevrolet,K1500 Pickup 4WD,Diesel,Standard Pickup Trucks 4WD,1991,White
+Wallace Environmental,Wetl 190E,Premium,Subcompact Cars,1992,White
+Wallace Environmental,Wetl 190E 2.3,Premium,Subcompact Cars,1992,Red
+Wallace Environmental,Wetl 560 SEC,Premium,Compact Cars,1992,Blue
+J.K. Motors,MERC BENZ 300TE,Regular,Midsize-Large Station Wagons,1992,White
+Subaru,Impreza,Regular,Subcompact Cars,1993,Green
+J.K. Motors,BMW635L6,Regular,Midsize Cars,1993,White
+Lexus,GS300,Premium,Midsize Cars,1993,Blue
+Chevrolet,K2500 Pickup 4WD,Diesel,Standard Pickup Trucks 4WD,1993,White
+Toyota,Truck 4WD/T100 4WD,Regular,Standard Pickup Trucks 4WD,1993,Green
+Buick,Regal,Regular,Midsize Cars,1996,Green
+BMW,Z3 Roadster,Premium,Two Seaters,1997,Gray
+BMW,318ti,Premium,Compact Cars,1997,Gray
+BMW,Z3 Roadster,Regular,Two Seaters,1999,White
+Volkswagen,Passat,Premium,Midsize Cars,1999,Gray
+Suzuki,Esteem Wagon,Regular,Small Station Wagons,1999,Black
+Ford,Crown Victoria FFV,Gasoline or E85,Large Cars,2010,White
+Volvo,V50 FWD,Regular,Small Station Wagons,2010,Black
+Chevrolet,Colorado 2WD,Regular,Small Pickup Trucks 2WD,2010,Gray
+Chevrolet,Colorado Crew Cab 2WD,Regular,Small Pickup Trucks 2WD,2010,Red
+GMC,Canyon 4WD,Regular,Small Pickup Trucks 4WD,2010,White
+Toyota,Venza,Regular,Sport Utility Vehicle - 2WD,2009,White
+Volkswagen,Jetta SportWagen,Diesel,Small Station Wagons,2010,Black
+Chevrolet,Colorado 4WD,Regular,Small Pickup Trucks 4WD,2010,Black
+GMC,Canyon 4WD,Regular,Small Pickup Trucks 4WD,2010,Red
+Subaru,RX Turbo,Regular,Subcompact Cars,1985,Blue
+Mercedes-Benz,SLK55 AMG,Premium,Two Seaters,2010,White
+Nissan,Frontier 4WD,Regular,Small Pickup Trucks 4WD,2010,Green
+Toyota,Tacoma 4WD,Regular,Small Pickup Trucks 4WD,2010,Blue
+Volkswagen,Cabriolet,Regular,Minicompact Cars,1987,Red
+Volkswagen,Cabriolet,Regular,Minicompact Cars,1987,White
+Chevrolet,C10 Pickup 2WD,Regular,Standard Pickup Trucks 2WD,1984,Green
+Mitsubishi,Outlander 2WD,Premium,Sport Utility Vehicle - 2WD,2010,Blue
+Honda,Accord Coupe,Regular,Compact Cars,2010,Gray
+Porsche,944,Regular,Minicompact Cars,1985,Red
+Aston Martin,DBS,Premium,Minicompact Cars,2010,White
+BMW,M3,Premium,Compact Cars,2010,Black
+Honda,Civic Hybrid,Regular,Compact Cars,2010,Green
+Lexus,LS 460,Premium,Midsize Cars,2010,White
+Nissan,Titan 2WD,Regular,Standard Pickup Trucks 2WD,2010,Black
+Toyota,FJ Cruiser 2WD,Regular,Sport Utility Vehicle - 2WD,2010,Black
+Chevrolet,Silverado K15 4WD,Gasoline or E85,Standard Pickup Trucks 4WD,2010,Blue
+Chevrolet,Suburban 1500 2WD,Gasoline or E85,Sport Utility Vehicle - 2WD,2010,Black
+GMC,Yukon 1500 2WD,Gasoline or E85,Sport Utility Vehicle - 2WD,2010,Blue
+Ford,Escort,Regular,Compact Cars,1985,Gray
+Ferrari,599 GTB Fiorano,Premium,Two Seaters,2010,Black
+BMW,335ci,Premium,Subcompact Cars,2010,Red
+BMW,335ci Convertible,Premium,Subcompact Cars,2010,Green
+BMW,328i,Premium,Compact Cars,2010,Green
+Infiniti,G37 Convertible,Premium,Subcompact Cars,2010,Black
+Lexus,GX 460,Premium,Sport Utility Vehicle - 4WD,2010,White
+BMW,Z4 sDrive35i,Premium,Two Seaters,2011,Green
+BMW,128i,Premium,Subcompact Cars,2011,White
+BMW,328i,Premium,Compact Cars,2011,Black
+BMW,Alpina B7 SWB xDrive,Premium,Large Cars,2011,Green
+GMC,Canyon 2WD,Regular,Small Pickup Trucks 2WD,2011,Red
+Ford,Flex FWD,Regular,Sport Utility Vehicle - 2WD,2011,White
+Jeep,Grand Cherokee 2WD,Regular,Sport Utility Vehicle - 2WD,2011,Black
+GMC,Yukon XL 1500 4WD,Gasoline or E85,Sport Utility Vehicle - 4WD,2011,Red
+Kia,Sorento 4WD,Regular,Sport Utility Vehicle - 4WD,2011,Red
+Mazda,MX-5,Premium,Two Seaters,2011,Black
+Porsche,911 Carrera S Cabriolet,Premium,Minicompact Cars,2011,Gray
+Mercedes-Benz,C350,Premium,Compact Cars,2011,Gray
+Mazda,3,Regular,Compact Cars,2011,Gray
+Mercury,Milan AWD FFV,Gasoline or E85,Midsize Cars,2011,Red
+Mercedes-Benz,E63 AMG,Premium,Midsize Cars,2011,Blue
+Audi,A6 Avant quattro,Premium,Midsize Station Wagons,2011,Blue
+Dodge,Ram 1500 Pickup 2WD,Gasoline or E85,Standard Pickup Trucks 2WD,2011,Red
+Dodge,Ram 1500 Pickup 4WD,Midgrade,Standard Pickup Trucks 4WD,2011,White
+Chevrolet,Express 1500 2WD Conversion Cargo,Gasoline or E85,"Vans, Cargo Type",2011,Blue
+Ford,Edge FWD,Regular,Sport Utility Vehicle - 2WD,2011,Black
+Lincoln,MKX FWD,Regular,Sport Utility Vehicle - 2WD,2011,Gray
+Cadillac,SRX 2WD,Regular,Sport Utility Vehicle - 2WD,2011,Black
+Acura,RDX 4WD,Premium,Sport Utility Vehicle - 4WD,2011,Green
+MINI,Cooper S,Premium,Minicompact Cars,2011,Blue
+Lexus,IS 350 AWD,Premium,Subcompact Cars,2011,Green
+Mercedes-Benz,E350,Premium,Midsize Cars,2011,Gray
+BMW,535i Gran Turismo,Premium,Large Cars,2011,Blue
+BMW,550i xDrive Gran Turismo,Premium,Large Cars,2011,Green
+BMW,760Li,Premium,Large Cars,2011,Green
+Ford,Tempo,Regular,Compact Cars,1985,Black
+Toyota,Tundra 2WD,Regular,Standard Pickup Trucks 2WD,2011,White
+Ford,E150 Wagon FFV,Gasoline or E85,"Vans, Passenger Type",2011,Green
+Mitsubishi,Precis,Regular,Subcompact Cars,1987,Green
+Toyota,RAV4 2WD,Regular,Sport Utility Vehicle - 2WD,2011,Blue
+Mercedes-Benz,GLK350 4matic,Premium,Sport Utility Vehicle - 4WD,2011,White
+Kia,Optima,Regular,Midsize Cars,2011,Green
+smart,fortwo cabriolet,Premium,Two Seaters,2011,White
+Pontiac,Firebird/Trans Am/Formula,Regular,Subcompact Cars,1987,Gray
+Nissan,Leaf,Electricity,Midsize Cars,2011,Blue
+Nissan,370Z Roadster,Premium,Two Seaters,2011,Green
+Dodge,Challenger,Premium,Compact Cars,2011,White
+Dodge,Challenger SRT8,Premium,Compact Cars,2011,Blue
+Ford,F150 Pickup 2WD,Regular,Standard Pickup Trucks 2WD,2011,Black
+Mercedes-Benz,CL600,Premium,Compact Cars,2011,Blue
+Audi,R8,Premium,Two Seaters,2012,Red
+Porsche,911 Carrera 4S,Premium,Minicompact Cars,2012,White
+Porsche,911 Carrera S Cabriolet,Premium,Minicompact Cars,2012,Black
+Ford,Mustang,Regular,Subcompact Cars,2012,Green
+Mazda,6,Regular,Midsize Cars,2012,Gray
+Chevrolet,Colorado 2WD,Regular,Small Pickup Trucks 2WD,2012,Green
+Buick,Regal eAssist,Regular,Midsize Cars,2012,Black
+Chevrolet,Malibu,Regular,Midsize Cars,2012,Black
+Lincoln,MKZ AWD,Regular,Midsize Cars,2012,Green
+Chevrolet,Impala,Regular,Large Cars,2012,Green
+Hyundai,Elantra Touring,Regular,Small Station Wagons,2012,Blue
+Chevrolet,Colorado 4WD,Regular,Small Pickup Trucks 4WD,2012,Blue
+Chevrolet,Silverado C15 2WD,Gasoline or E85,Standard Pickup Trucks 2WD,2012,Gray
+Dodge,Ram 1500 Pickup 4WD,Midgrade,Standard Pickup Trucks 4WD,2012,Blue
+Chevrolet,Equinox FWD,Gasoline or E85,Sport Utility Vehicle - 2WD,2012,Red
+Chevrolet,Suburban 1500 2WD,Gasoline or E85,Sport Utility Vehicle - 2WD,2012,Blue
+Ford,Escape Hybrid FWD,Regular,Sport Utility Vehicle - 2WD,2012,Green
+Hyundai,Santa Fe 4WD,Regular,Sport Utility Vehicle - 4WD,2012,Blue
+Porsche,Cayenne,Premium,Sport Utility Vehicle - 4WD,2012,Red
+Porsche,Cayenne S Hybrid,Premium,Sport Utility Vehicle - 4WD,2012,Black
+Audi,R8,Premium,Two Seaters,2012,Black
+Audi,R8 Spyder,Premium,Two Seaters,2012,Green
+Volvo,C70 FWD,Regular,Subcompact Cars,2012,White
+Lexus,CT 200h,Regular,Compact Cars,2012,Red
+MINI,Cooper Countryman,Premium,Compact Cars,2012,Black
+Suzuki,SX4 Sport,Regular,Compact Cars,2012,Blue
+Suzuki,Kizashi AWD,Regular,Compact Cars,2012,Black
+Buick,Skyhawk,Premium,Compact Cars,1987,Black
+Buick,Skyhawk,Regular,Compact Cars,1987,Green
+Porsche,Panamera Turbo,Premium,Large Cars,2012,White
+Kia,Soul Eco,Regular,Small Station Wagons,2012,Black
+Chevrolet,Express 2500 2WD Cargo,Gasoline or E85,"Vans, Cargo Type",2012,Gray
+Chevrolet,Express 2500 2WD Passenger,Gasoline or E85,"Vans, Passenger Type",2012,Black
+Hyundai,Veracruz 2WD,Regular,Sport Utility Vehicle - 2WD,2012,Gray
+Jeep,Grand Cherokee 2WD,Midgrade,Sport Utility Vehicle - 2WD,2012,Black
+Mercedes-Benz,ML350 4matic,Premium,Sport Utility Vehicle - 4WD,2012,Blue
+Nissan,370Z,Premium,Two Seaters,2012,Black
+Mitsubishi,Lancer,Regular,Compact Cars,2012,Blue
+Lexus,ES 350,Regular,Midsize Cars,2012,Gray
+Dodge,Shadow,Regular,Compact Cars,1987,Green
+Mercedes-Benz,E63 AMG (wagon),Premium,Midsize Station Wagons,2012,Black
+Ford,Explorer FWD,Regular,Standard Sport Utility Vehicle 2WD,2013,Black
+Hyundai,Elantra,Regular,Midsize Cars,2013,White
+Ford,Focus FWD FFV,Gasoline or E85,Compact Cars,2012,Red
+Subaru,BRZ,Premium,Minicompact Cars,2013,Black
+Infiniti,JX35 FWD,Premium,Small Sport Utility Vehicle 2WD,2013,Red
+GMC,Sierra K15 4WD,Gasoline or E85,Standard Pickup Trucks 4WD,2013,Black
+Kia,Sportage 2WD,Regular,Small Sport Utility Vehicle 2WD,2013,White
+Mercury,Topaz,Regular,Compact Cars,1987,White
+Subaru,Forester AWD,Regular,Small Sport Utility Vehicle 4WD,2013,Red
+Chevrolet,Suburban 2500 4WD,Regular,Standard Sport Utility Vehicle 4WD,2013,Green
+Chevrolet,Cruze,Regular,Midsize Cars,2013,White
+Audi,RS 5,Premium,Subcompact Cars,2013,White
+BMW,640i Gran Coupe,Premium,Compact Cars,2013,White
+Volkswagen,Tiguan,Premium,Small Sport Utility Vehicle 2WD,2013,Green
+Volkswagen,Tiguan 4motion,Premium,Small Sport Utility Vehicle 4WD,2013,White
+Oldsmobile,Firenza,Regular,Compact Cars,1987,White
+Volkswagen,Jetta SportWagen,Diesel,Small Station Wagons,2013,Blue
+Rolls-Royce,Phantom,Premium,Large Cars,2013,Red
+Mercury,Topaz,Regular,Compact Cars,1985,Blue
+Ram,C/V,Gasoline or E85,Minivan - 2WD,2013,White
+MINI,Cooper Convertible,Premium,Minicompact Cars,2013,Green
+Volkswagen,Beetle Convertible,Premium,Subcompact Cars,2013,White
+MINI,Cooper Countryman,Premium,Compact Cars,2013,Blue
+Pontiac,Sunbird,Premium,Compact Cars,1987,Black
+Chrysler,200,Gasoline or E85,Midsize Cars,2013,Green
+Dodge,Challenger SRT8,Premium,Midsize Cars,2013,Gray
+Dodge,Charger,Midgrade,Large Cars,2013,Gray
+Renault,Alliance,Regular,Compact Cars,1987,Black
+Audi,A5 Cabriolet quattro,Premium or E85,Subcompact Cars,2013,Blue
+Cadillac,ATS AWD,Regular,Compact Cars,2013,White
+Ferrari,FF,Premium,Midsize Cars,2013,Gray
+Lincoln,MKZ FWD,Regular,Midsize Cars,2013,Red
+Toyota,Prius c,Regular,Compact Cars,2013,Blue
+Ram,1500 2WD,Regular,Standard Pickup Trucks 2WD,2013,Black
+Aston Martin,V8 Vantage,Premium,Two Seaters,2013,White
+Volvo,240 DL/240 GL,Regular,Compact Cars,1987,Red
+Kia,Sorento 4WD,Regular,Small Sport Utility Vehicle 4WD,2014,Black
+Kia,Sorento 4WD,Regular,Small Sport Utility Vehicle 4WD,2014,Blue
+Jeep,Patriot FWD,Regular,Small Sport Utility Vehicle 2WD,2014,Green
+Lincoln,MKT AWD,Regular,Small Sport Utility Vehicle 4WD,2014,Green
+Porsche,911 Carrera 4 Cabriolet,Premium,Minicompact Cars,2014,Green
+Mercedes-Benz,E63 AMG,Premium,Midsize Cars,2014,White
+Ford,Taurus FWD FFV,Gasoline or E85,Large Cars,2014,Green
+Ford,Escape FWD,Regular,Small Sport Utility Vehicle 2WD,2014,Gray
+Lamborghini,Aventador Coupe,Premium,Two Seaters,2014,Blue
+Audi,A5 quattro,Premium,Subcompact Cars,2014,Gray
+Volkswagen,Jetta,Diesel,Compact Cars,2014,Green
+Cadillac,CTS Sedan AWD,Regular,Midsize Cars,2014,Green
+Cadillac,CTS Wagon,Regular,Small Station Wagons,2014,Black
+GMC,Terrain AWD,Regular,Small Sport Utility Vehicle 4WD,2014,Red
+Mercedes-Benz,300SD,Diesel,Compact Cars,1985,Green
+Subaru,Impreza Wagon AWD,Premium,Small Station Wagons,2014,Green
+Dodge,Lancer,Regular,Midsize Cars,1987,Blue
+Nissan,370Z,Premium,Two Seaters,2014,Red
+Ford,Focus FWD,Regular,Compact Cars,2014,Black
+MINI,Cooper Clubvan,Premium,Two Seaters,2014,Black
+BMW,550i xDrive Gran Turismo,Premium,Large Cars,2014,White
+Jaguar,XJL AWD,Premium,Large Cars,2014,Black
+Plymouth,Caravelle,Regular,Midsize Cars,1987,Red
+Mercedes-Benz,C300 4matic,Premium,Compact Cars,2014,Green
+Dodge,Challenger SRT8,Premium,Midsize Cars,2014,Red
+Chevrolet,SS,Regular,Large Cars,2014,White
+Jaguar,XF FFV,Premium or E85,Midsize Cars,2014,Gray
+Ford,E350 Wagon FFV,Gasoline or E85,"Vans, Passenger Type",2014,Blue
+Pontiac,6000,Regular,Midsize Cars,1987,White
+Nissan,Titan 2WD,Gasoline or E85,Standard Pickup Trucks 2WD,2014,Gray
+Nissan,Titan 4WD,Gasoline or E85,Standard Pickup Trucks 4WD,2014,Gray
+BMW,ActiveHybrid 5,Premium,Midsize Cars,2014,Black
+Kia,Sportage 2WD,Regular,Small Sport Utility Vehicle 2WD,2014,White
+Nissan,Frontier 2WD,Regular,Small Pickup Trucks 2WD,2014,Green
+Buick,LeSabre,Regular,Large Cars,1987,Red
+Hyundai,Veloster,Regular,Compact Cars,2014,Red
+Kia,Forte Koup,Regular,Compact Cars,2014,Red
+Cadillac,Fleetwood/DeVille,Regular,Large Cars,1987,White
+Hyundai,Elantra,Regular,Midsize Cars,2014,Blue
+Nissan,Rogue FWD,Regular,Small Sport Utility Vehicle 2WD,2014,White
+Kia,K900,Regular,Large Cars,2015,White
+Mazda,CX-5 2WD,Regular,Small Sport Utility Vehicle 2WD,2015,Green
+Audi,TT Roadster quattro,Premium,Two Seaters,2015,Gray
+Acura,TSX,Premium,Compact Cars,2011,Blue
+Kia,Sportage 2WD,Regular,Sport Utility Vehicle - 2WD,2011,White
+Nissan,Murano CrossCabriolet,Premium,Sport Utility Vehicle - 4WD,2011,Black
+Tesla,Model S (60 kW-hr battery pack),Electricity,Large Cars,2014,Red
+BMW,Z4 sDrive28i,Premium,Two Seaters,2015,Black
+MINI,John Cooper Works Convertible,Premium,Minicompact Cars,2015,Blue
+Bentley,Continental GT Convertible,Premium,Subcompact Cars,2015,Green
+MINI,Cooper Paceman,Premium,Compact Cars,2015,Red
+MINI,JCW Countryman All4,Premium,Compact Cars,2015,Red
+MINI,JCW Paceman All4,Premium,Compact Cars,2015,Gray
+Volvo,XC60 FWD,Premium,Small Sport Utility Vehicle 2WD,2015,White
+BMW,640i xDrive Coupe,Premium,Subcompact Cars,2015,Red
+Mitsubishi,i-MiEV,Electricity,Subcompact Cars,2014,White
+Ford,Taurus FWD FFV,Gasoline or E85,Large Cars,2015,Black
+Kia,Forte,Regular,Midsize Cars,2015,Gray
+Kia,Forte 5,Regular,Large Cars,2015,Red
+Audi,A3 Cabriolet quattro,Premium,Subcompact Cars,2015,Gray
+Cadillac,XTS AWD,Regular,Large Cars,2015,Red
+Cadillac,XTS Hearse,Regular,Special Purpose Vehicle 2WD,2015,Black
+GMC,Terrain AWD,Regular,Small Sport Utility Vehicle 4WD,2015,White
+Chevrolet,Spark EV,Electricity,Subcompact Cars,2015,Gray
+Cadillac,CTS Sedan,Premium,Midsize Cars,2015,Black
+Porsche,Panamera 4S,Premium,Large Cars,2015,White
+Hyundai,Tucson 2WD,Regular,Small Sport Utility Vehicle 2WD,2015,Red
+Mercedes-Benz,GLK350,Premium,Small Sport Utility Vehicle 2WD,2015,White
+Oldsmobile,Firenza Cruiser,Regular,Small Station Wagons,1987,Blue
+Acura,ILX,Premium,Compact Cars,2015,Blue
+BMW,M235i,Premium,Subcompact Cars,2015,Red
+BMW,328i xDrive,Premium,Compact Cars,2015,Gray
+Jeep,Cherokee FWD,Regular,Small Sport Utility Vehicle 2WD,2015,Blue
+Jeep,Cherokee 4WD Active Drive II,Regular,Small Sport Utility Vehicle 4WD,2015,Green
+Chevrolet,SS,Premium,Large Cars,2015,Red
+Ferrari,458 Spider,Premium,Two Seaters,2015,Red
+Toyota,RAV4 AWD,Regular,Small Sport Utility Vehicle 4WD,2015,Green
+Peugeot,505,Diesel,Compact Cars,1985,Blue
+Volkswagen,Beetle,Diesel,Compact Cars,2015,Black
+Dodge,Viper SRT,Premium,Two Seaters,2015,Black
+GMC,Canyon 2WD,Regular,Small Pickup Trucks 2WD,2015,White
+Ford,Expedition 4WD,Regular,Standard Sport Utility Vehicle 4WD,2015,Gray
+Dodge,Challenger SRT8,Premium,Midsize Cars,2015,Green
+Ram,1500 4WD,Midgrade,Standard Pickup Trucks 4WD,2015,White
+Infiniti,Q50 Hybrid,Premium,Compact Cars,2015,Gray
+Infiniti,Q50S Hybrid,Premium,Compact Cars,2015,Red
+Mercedes-Benz,S550 4matic Coupe,Premium,Compact Cars,2015,Green
+Infiniti,Q50a AWD,Premium,Midsize Cars,2015,Black
+Volvo,240 DL/240 GL Wagon,Regular,Midsize-Large Station Wagons,1987,White
+Dodge,Durango AWD,Midgrade,Standard Sport Utility Vehicle 4WD,2015,Gray
+Mercedes-Benz,E400 Hybrid,Premium,Midsize Cars,2015,White
+Toyota,Avalon,Regular,Midsize Cars,2015,Red
+Lincoln,MKS FWD,Regular,Large Cars,2015,Red
+Ram,Promaster City,Regular,Special Purpose Vehicle 2WD,2015,Blue
+Nissan,Juke,Premium,Small Station Wagons,2015,Gray
+Nissan,Juke Nismo RS AWD,Premium,Small Station Wagons,2015,Red
+Ford,Flex AWD,Regular,Standard Sport Utility Vehicle 4WD,2015,Blue
+Chevrolet,S10 Pickup 2WD,Regular,Small Pickup Trucks,1987,White
+Honda,HR-V 2WD,Regular,Small Sport Utility Vehicle 2WD,2016,Red
+Jeep,Renegade 2WD,Gasoline or E85,Small Sport Utility Vehicle 2WD,2015,Green
+Kia,Sedona,Regular,Minivan - 2WD,2016,Red
+Porsche,Cayenne,Premium,Standard Sport Utility Vehicle 4WD,2016,Green
+BMW,640i Coupe,Premium,Subcompact Cars,2016,Blue
+BMW,M6 Gran Coupe,Premium,Compact Cars,2016,Blue
+Volvo,S60 FWD,Premium,Compact Cars,2016,White
+Jaguar,XJ AWD,Premium,Large Cars,2016,Red
+Volvo,XC60 AWD,Regular,Small Sport Utility Vehicle 4WD,2016,Red
+Porsche,Cayman GTS,Premium,Two Seaters,2016,Red
+Porsche,Panamera Turbo S Executive,Premium,Large Cars,2016,Black
+Audi,allroad quattro,Premium or E85,Small Station Wagons,2016,Gray
+Ford,Escape AWD,Regular,Small Sport Utility Vehicle 4WD,2016,Blue
+Jeep,Cherokee 4WD Active Drive II,Regular,Small Sport Utility Vehicle 4WD,2016,Red
+MINI,Cooper Paceman,Premium,Compact Cars,2016,Blue
+Volkswagen,Golf,Regular,Compact Cars,2016,Gray
+Chrysler,200,Gasoline or E85,Midsize Cars,2016,Blue
+Ram,1500 2WD,Diesel,Standard Pickup Trucks 2WD,2016,Red
+Ram,1500 4WD,Gasoline or E85,Standard Pickup Trucks 4WD,2016,Blue
+GMC,Yukon C1500 XL 2WD,Gasoline or E85,Standard Sport Utility Vehicle 2WD,2016,Black
+MINI,Cooper S Countryman All4,Premium,Compact Cars,2016,Red
+BMW,528i xDrive,Premium,Midsize Cars,2016,Blue
+Chevrolet,R10 Pickup 2WD,Diesel,Standard Pickup Trucks,1987,Blue
+BMW,435i xDrive Coupe,Premium,Compact Cars,2016,Gray
+Mercedes-Benz,AMG GLE63,Premium,Standard Sport Utility Vehicle 4WD,2016,Blue
+BMW,M4 Convertible,Premium,Subcompact Cars,2016,Red
+Toyota,Sequoia 4WD FFV,Gasoline or E85,Standard Sport Utility Vehicle 4WD,2016,Gray
+Subaru,Impreza Wagon AWD,Regular,Small Station Wagons,2016,Green
+Roush Performance,Stage 3 Mustang,Premium,Midsize Cars,2015,Blue
+Chevrolet,R20 (C20) Pickup 2WD,Diesel,Standard Pickup Trucks,1987,Green
+Aston Martin,V8 Vantage S,Premium,Two Seaters,2016,Blue
+Rolls-Royce,Phantom EWB,Premium,Large Cars,2016,Gray
+smart,fortwo coupe,Premium,Two Seaters,2016,Blue
+Dodge,Challenger,Premium,Midsize Cars,2016,Blue
+Dodge,Challenger SRT8,Premium,Midsize Cars,2016,White
+Dodge,D100/D150 Pickup 2WD,Regular,Standard Pickup Trucks,1987,Black
+Ford,Focus ST FWD,Regular,Midsize Cars,2016,Blue
+Mercedes-Benz,AMG CLA45 4matic,Premium,Compact Cars,2016,Green
+MINI,Cooper S Clubman,Premium,Midsize Cars,2016,Green
+Toyota,Avalon,Regular,Midsize Cars,2016,Gray
+Infiniti,Q70 Hybrid,Premium,Midsize Cars,2016,Blue
+Nissan,Pathfinder 4WD,Regular,Small Sport Utility Vehicle 4WD,2016,Black
+BMW,i8,Premium and Electricity,Subcompact Cars,2016,Gray
+Tesla,Model S AWD - 90D,Electricity,Large Cars,2016,Black
+Tesla,Model S AWD - P90D,Electricity,Large Cars,2016,White
+Cadillac,CT6 AWD,Regular,Large Cars,2016,Gray
+Subaru,Legacy AWD Turbo,Premium,Compact Cars,1993,Red
+Toyota,Corolla,Regular,Compact Cars,1993,White
+Toyota,Camry,Regular,Midsize Cars,1993,Black
+Ford,E150 Club Wagon,Regular,Vans,1985,Green
+Ford,E150 Club Wagon,Regular,Vans,1985,Red
+Mercedes-Benz,500SEL,Premium,Large Cars,1993,Red
+Buick,Century Wagon,Regular,Midsize-Large Station Wagons,1993,Green
+Oldsmobile,Cutlass Cruiser,Regular,Midsize-Large Station Wagons,1993,Black
+Volkswagen,Passat Wagon,Regular,Midsize-Large Station Wagons,1993,Gray
+Mitsubishi,Truck 2WD,Regular,Small Pickup Trucks,1993,Green
+Ford,F150 Pickup 2WD,Regular,Standard Pickup Trucks,1993,Blue
+GMC,Sierra 2500 2WD,Regular,Standard Pickup Trucks,1993,Blue
+Nissan,Truck 4WD,Regular,Standard Pickup Trucks,1993,Black
+Dodge,W100/W150 Pickup 4WD,Regular,Standard Pickup Trucks,1993,Black
+Ford,Ranger Pickup 4WD,Regular,Standard Pickup Trucks,1993,Green
+GMC,Sierra 1500 4WD,Regular,Standard Pickup Trucks,1993,Gray
+Ford,Aerostar Van,Regular,Vans,1993,Blue
+GMC,Safari 2WD (passenger),Premium,Vans,1993,White
+Nissan,Pathfinder 4WD,Regular,Special Purpose Vehicles,1993,Blue
+Jeep,Cherokee 4WD,Regular,Special Purpose Vehicles,1993,Black
+GMC,C15 Suburban 2WD,Regular,Special Purpose Vehicle 2WD,1985,Green
+BMW,318i/318is,Premium,Subcompact Cars,1994,White
+Dodge,Colt,Regular,Subcompact Cars,1994,Gray
+Eagle,Summit,Regular,Subcompact Cars,1994,Blue
+Honda,Civic,Regular,Subcompact Cars,1994,Black
+Hyundai,Scoupe,Regular,Subcompact Cars,1994,Gray
+Infiniti,J30,Premium,Subcompact Cars,1994,Red
+Dodge,Shadow,Regular,Compact Cars,1994,Blue
+Geo,Prizm,Regular,Compact Cars,1994,White
+Mercury,Tracer,Regular,Compact Cars,1994,Blue
+Pontiac,Grand Am,Regular,Compact Cars,1994,Blue
+BMW,740il,Premium,Midsize Cars,1994,Black
+Nissan,Maxima,Premium,Midsize Cars,1994,White
+Ford,Thunderbird,Regular,Midsize Cars,1994,Gray
+Hyundai,Sonata,Regular,Midsize Cars,1994,Black
+Dodge,Intrepid,Regular,Large Cars,1994,White
+Mercury,Grand Marquis,Regular,Large Cars,1994,Blue
+Saab,9000,Regular,Large Cars,1994,White
+Audi,100 quattro Wagon,Regular,Small Station Wagons,1994,Black
+Honda,Accord Wagon,Regular,Small Station Wagons,1994,Green
+Mercury,Sable Wagon,Regular,Midsize-Large Station Wagons,1994,Black
+Mercedes-Benz,E320 Wagon,Premium,Midsize-Large Station Wagons,1994,Green
+Mitsubishi,Expo,Regular,Midsize-Large Station Wagons,1994,Black
+Mitsubishi,Expo.LRV,Regular,Midsize-Large Station Wagons,1994,Gray
+Plymouth,Colt Vista,Regular,Midsize-Large Station Wagons,1994,Blue
+Chevrolet,S10 Pickup 2WD,Regular,Small Pickup Trucks,1994,White
+Chevrolet,S10 Pickup 2WD,Regular,Small Pickup Trucks,1994,Red
+Chevrolet,C1500 Pickup 2WD,Regular,Standard Pickup Trucks,1994,Blue
+Chevrolet,C1500 Pickup 2WD,Diesel,Standard Pickup Trucks,1994,Blue
+Dodge,Ram 1500 Pickup 2WD,Regular,Standard Pickup Trucks,1994,Red
+Ford,Ranger Pickup 2WD,Regular,Standard Pickup Trucks,1994,Black
+GMC,Sierra 1500 2WD,Diesel,Standard Pickup Trucks,1994,Red
+Toyota,T100 2WD,Regular,Standard Pickup Trucks,1994,White
+GMC,Sierra 1500 4WD,Regular,Standard Pickup Trucks,1994,White
+GMC,Sierra 1500 4WD,Regular,Standard Pickup Trucks,1994,Red
+GMC,Sierra 2500 4WD,Regular,Standard Pickup Trucks,1994,Black
+Mazda,B2300/B3000/B4000 Pickup 4WD,Regular,Standard Pickup Trucks,1994,Red
+Mazda,B2300/B3000/B4000 Pickup 4WD,Regular,Standard Pickup Trucks,1994,Blue
+Toyota,Truck 4WD,Regular,Standard Pickup Trucks,1994,Blue
+Chevrolet,Astro 2WD (cargo),Premium,Vans,1994,White
+Chevrolet,G10/20 Van 2WD,Regular,Vans,1994,Blue
+Plymouth,Colt Vista 4WD,Regular,Special Purpose Vehicles,1985,Black
+Dodge,B350 Wagon 2WD,Regular,Vans,1994,Black
+GMC,Rally G15/25 2WD,Diesel,Vans,1994,Gray
+Chevrolet,Lumina Minivan 2WD,Regular,Special Purpose Vehicles,1994,Black
+Jeep,Cherokee 2WD,Regular,Special Purpose Vehicles,1994,Green
+Isuzu,Rodeo 2WD,Regular,Special Purpose Vehicles,1994,Black
+Jeep,Grand Cherokee 4WD,Regular,Special Purpose Vehicles,1994,White
+GMC,Jimmy 4WD,Premium,Special Purpose Vehicles,1994,Blue
+Honda,Passport 4WD,Regular,Special Purpose Vehicles,1994,Green
+Chevrolet,Corvette,Premium,Two Seaters,1995,Red
+Nissan,300ZX,Premium,Two Seaters,1995,White
+Audi,Cabriolet,Premium,Minicompact Cars,1995,White
+Porsche,968,Premium,Minicompact Cars,1995,Gray
+BMW,318i/318is,Premium,Subcompact Cars,1995,Green
+BMW,325i/325is,Premium,Subcompact Cars,1995,Gray
+Chevrolet,Camaro,Regular,Subcompact Cars,1995,Red
+Ford,Mustang,Regular,Subcompact Cars,1995,Green
+Jaguar,XJS V12 Convertible,Premium,Subcompact Cars,1995,Gray
+Mazda,MX-6,Regular,Subcompact Cars,1995,Blue
+Mazda,MX-6,Regular,Subcompact Cars,1995,Blue
+Saab,900 Convertible,Regular,Subcompact Cars,1995,Green
+Saab,900 Convertible,Regular,Subcompact Cars,1995,Blue
+Acura,Legend,Premium,Compact Cars,1995,Black
+Nissan,Altima / Stanza,Regular,Compact Cars,1995,White
+Mercury,Tracer,Regular,Compact Cars,1995,Blue
+Mazda,Millenia,Premium,Compact Cars,1995,Black
+Volkswagen,Jetta III GLX,Regular,Compact Cars,1995,Blue
+Volkswagen,Passat,Regular,Midsize Cars,1995,Blue
+Dabryan Coach Builders Inc,WB,Regular,Large Cars,1995,Blue
+Dodge,Intrepid,Regular,Large Cars,1995,Gray
+Federal Coach,Lincoln 24E,Regular,Large Cars,1995,Green
+Ford,Crown Victoria Police,Regular,Large Cars,1995,Red
+Pontiac,Bonneville,Premium,Large Cars,1995,Blue
+GMC,Sonoma 2WD,Premium,Small Pickup Trucks,1995,Blue
+Dodge,Colt,Regular,Subcompact Cars,1985,Black
+Dodge,Ram 2500 Pickup 2WD,Regular,Standard Pickup Trucks,1995,Red
+Ford,F250 Pickup 2WD,Regular,Standard Pickup Trucks,1995,Red
+Dodge,600 Convertible,Regular,Subcompact Cars,1985,Red
+Ford,Ranger Pickup 2WD,Regular,Standard Pickup Trucks,1995,Gray
+GMC,Sierra 2500 2WD,Regular,Standard Pickup Trucks,1995,White
+Dodge,Dakota Pickup 4WD,Regular,Standard Pickup Trucks,1995,Red
+Mazda,B2300/B3000/B4000 Pickup 4WD,Regular,Standard Pickup Trucks,1995,Blue
+Mazda,B2300/B3000/B4000 Pickup 4WD,Regular,Standard Pickup Trucks,1995,White
+Toyota,Truck 4WD,Regular,Standard Pickup Trucks,1995,Gray
+Honda,Prelude,Regular,Subcompact Cars,1985,Gray
+Ford,Aerostar Wagon AWD,Regular,Vans,1995,Red
+Ford,Laser,Regular,Subcompact Cars,1985,Red
+Mazda,GLC,Regular,Subcompact Cars,1985,Gray
+Dodge,Caravan/Grand Caravan 4WD,Regular,Special Purpose Vehicles,1995,Black
+Land Rover,Discovery,Premium,Special Purpose Vehicles,1995,Green
+BMW,328i Convertible,Premium,Minicompact Cars,1996,Gray
+BMW,318i/318is,Premium,Subcompact Cars,1996,Red
+Nissan,300ZX 2x2,Premium,Subcompact Cars,1996,Blue
+Eagle,Talon,Premium,Subcompact Cars,1996,Black
+Infiniti,J30,Premium,Subcompact Cars,1996,Black
+Toyota,Celica,Regular,Subcompact Cars,1996,Green
+Toyota,Celica,Regular,Subcompact Cars,1996,Black
+Chevrolet,Cavalier,Regular,Compact Cars,1996,Blue
+Chevrolet,Cavalier,Regular,Compact Cars,1996,White
+Kia,Sephia,Regular,Compact Cars,1996,Green
+Hyundai,Elantra,Regular,Compact Cars,1996,Red
+Mazda,Protege,Regular,Compact Cars,1996,Red
+Oldsmobile,Achieva,Regular,Compact Cars,1996,Blue
+Volkswagen,Jetta,Regular,Compact Cars,1996,Blue
+Dodge,Stratus,Regular,Midsize Cars,1996,White
+Ford,Taurus,Regular,Midsize Cars,1996,Green
+Ford,Thunderbird,Regular,Midsize Cars,1996,Blue
+Hyundai,Sonata,Regular,Midsize Cars,1996,Blue
+Oldsmobile,Ciera SL,Regular,Midsize Cars,1996,Black
+Dodge,Omni,Regular,Compact Cars,1985,Red
+Subaru,Impreza Wagon AWD,Regular,Small Station Wagons,1996,Green
+Eagle,Summit Wagon,Regular,Midsize-Large Station Wagons,1996,Black
+GMC,Sonoma 2WD,Regular,Small Pickup Trucks,1996,Blue
+Ford,F150 Pickup 2WD,Regular,Standard Pickup Trucks,1996,Gray
+GMC,Sierra 1500 2WD,Regular,Standard Pickup Trucks,1996,Gray
+GMC,Sierra 2500 2WD,Diesel,Standard Pickup Trucks,1996,Green
+Dodge,Dakota Pickup 4WD,Regular,Standard Pickup Trucks,1996,Gray
+Ford,F150 Pickup 4WD,Regular,Standard Pickup Trucks,1996,Green
+GMC,Savana 1500/2500 2WD (cargo),Regular,Vans,1996,Red
+Ford,E150 Club Wagon,Regular,Vans,1996,Blue
+Dodge,Caravan/Grand Caravan 2WD,Regular,Special Purpose Vehicles,1996,Red
+Jeep,Cherokee 2WD,Regular,Special Purpose Vehicles,1996,Green
+Ford,Explorer 2WD,Regular,Special Purpose Vehicles,1996,Gray
+Mitsubishi,Montero,Regular,Special Purpose Vehicles,1996,Red
+Subaru,Sedan,Regular,Compact Cars,1985,Green
+Suzuki,Sidekick Sport 4WD,Regular,Special Purpose Vehicles,1996,Gray
+Toyota,RAV4 4WD,Regular,Special Purpose Vehicles,1996,Red
+Honda,Del Sol,Regular,Two Seaters,1997,Gray
+Porsche,911 Carrera 4/2,Premium,Minicompact Cars,1997,Red
+Eagle,Talon,Premium,Subcompact Cars,1997,Gray
+Pontiac,Firebird/Formula,Premium,Subcompact Cars,1997,Red
+Saturn,SC,Regular,Subcompact Cars,1997,Gray
+Suzuki,Swift,Regular,Subcompact Cars,1997,Green
+Toyota,Celica,Regular,Subcompact Cars,1997,Blue
+Buick,Skylark,Regular,Compact Cars,1997,Green
+Chrysler,Sebring Convertible,Regular,Compact Cars,1997,Red
+Dodge,Avenger,Regular,Compact Cars,1997,Gray
+Mazda,Protege,Regular,Compact Cars,1997,Gray
+Volkswagen,Golf/GTI,Diesel,Compact Cars,1997,Red
+Ford,Thunderbird,Regular,Midsize Cars,1997,Black
+Dodge,Lancer,Regular,Midsize Cars,1985,Black
+Dodge,600,Premium,Midsize Cars,1985,Green
+Mercury,Tracer Wagon,Regular,Small Station Wagons,1997,Gray
+Chevrolet,S10 Pickup 2WD,Regular,Small Pickup Trucks,1997,Green
+Ford,F250 Pickup 2WD,Regular,Standard Pickup Trucks,1997,Black
+GMC,Sierra 2500 2WD,Regular,Standard Pickup Trucks,1997,Red
+Oldsmobile,Cutlass Supreme,Regular,Midsize Cars,1985,White
+Chevrolet,Astro AWD (cargo),Regular,Vans,1997,Gray
+Chevrolet,Astro 2WD (cargo),Regular,Vans,1997,Blue
+Ford,Explorer 2WD,Regular,Special Purpose Vehicles,1997,Gray
+Mercury,Villager FWD Wagon,Regular,Special Purpose Vehicles,1997,White
+Acura,SLX,Regular,Special Purpose Vehicles,1997,Blue
+Pontiac,6000,Regular,Midsize Cars,1985,Green
+Dodge,Caravan/Grand Caravan 4WD,Regular,Special Purpose Vehicles,1997,White
+Toyota,RAV4 4WD,Regular,Special Purpose Vehicles,1997,Blue
+Buick,LeSabre,Regular,Large Cars,1985,White
+Toyota,4Runner 4WD,Regular,Special Purpose Vehicles,1997,Red
+Ferrari,Ferrari F355/355 F1,Premium,Two Seaters,1998,White
+Honda,Civic HX,Regular,Subcompact Cars,1998,Gray
+Mitsubishi,Eclipse,Premium,Subcompact Cars,1998,Gray
+Pontiac,Firebird/Formula,Premium,Subcompact Cars,1998,White
+Volkswagen,Cabrio,Regular,Subcompact Cars,1998,Gray
+Volkswagen,New Beetle,Regular,Subcompact Cars,1998,Green
+Volkswagen,New Beetle,Regular,Subcompact Cars,1998,White
+Chrysler,Sebring,Regular,Compact Cars,1998,Gray
+Daewoo,Lanos,Regular,Compact Cars,1998,Black
+Daewoo,Nubira,Regular,Compact Cars,1998,White
+Honda,Prelude,Regular,Subcompact Cars,1985,Black
+Dodge,Neon,Regular,Compact Cars,1998,Black
+Plymouth,Neon,Regular,Compact Cars,1998,Black
+Chevrolet,Malibu,Regular,Midsize Cars,1998,White
+Daewoo,Leganza,Regular,Midsize Cars,1998,Black
+Honda,Accord,Regular,Midsize Cars,1998,Red
+Volkswagen,Passat,Diesel,Midsize Cars,1998,Blue
+Bentley,Brooklands R Limo,Premium,Large Cars,1998,Black
+Dodge,Intrepid,Regular,Large Cars,1998,Red
+Mercedes-Benz,S320,Premium,Large Cars,1998,Red
+Subaru,Impreza Wagon AWD,Regular,Small Station Wagons,1998,Black
+Subaru,Impreza Wagon AWD,Regular,Small Station Wagons,1998,Blue
+Chevrolet,S10 Pickup 2WD,Regular,Small Pickup Trucks 2WD,1998,Gray
+GMC,Sonoma 2WD,Regular,Small Pickup Trucks 2WD,1998,Black
+Dodge,Ram 1500 Pickup 2WD,Regular,Standard Pickup Trucks 2WD,1998,Black
+Isuzu,Impulse,Regular,Subcompact Cars,1985,Gray
+Chevrolet,K1500 Pickup 4WD,Diesel,Standard Pickup Trucks 4WD,1998,Blue
+GMC,Sierra 1500 4WD,Diesel,Standard Pickup Trucks 4WD,1998,Gray
+Chevrolet,Astro AWD (cargo),Regular,"Vans, Cargo Type",1998,Green
+Isuzu,Impulse,Regular,Subcompact Cars,1985,Blue
+Plymouth,Reliant Wagon,Regular,Midsize-Large Station Wagons,1985,Blue
+GMC,Jimmy 2WD,Regular,Special Purpose Vehicle 2WD,1998,Green
+Pontiac,Trans Sport 2WD,Regular,Special Purpose Vehicle 2WD,1998,Blue
+GMC,Jimmy 4WD,Regular,Special Purpose Vehicle 4WD,1998,White
+Mitsubishi,Montero Sport 4WD,Regular,Special Purpose Vehicle 4WD,1998,Green
+Suzuki,Sidekick Sport 4WD,Regular,Special Purpose Vehicle 4WD,1998,Red
+Ford,Ranger Pickup 2WD,Regular,Small Pickup Trucks,1985,Black
+Mitsubishi,3000 GT,Regular,Subcompact Cars,1999,Black
+Pontiac,Firebird/Trans Am,Regular,Subcompact Cars,1999,Red
+Pontiac,Sunfire,Regular,Subcompact Cars,1999,White
+Isuzu,Pickup 2WD,Regular,Small Pickup Trucks,1985,White
+Mercury,Mystique,Regular,Compact Cars,1999,Green
+Volkswagen,GTI,Regular,Compact Cars,1999,Green
+Volkswagen,Jetta,Regular,Compact Cars,1999,Red
+Cadillac,Eldorado,Premium,Midsize Cars,1999,Green
+Chevrolet,Malibu,Regular,Midsize Cars,1999,Green
+Toyota,Camry,Regular,Midsize Cars,1999,Green
+Volvo,S70,Premium,Midsize Cars,1999,White
+Volvo,S70,Premium,Midsize Cars,1999,Red
+Volvo,S70 AWD,Premium,Midsize Cars,1999,Gray
+Chevrolet,El Camino Pickup 2WD,Regular,Standard Pickup Trucks,1985,Gray
+Volvo,V70 AWD,Premium,Midsize Station Wagons,1999,Gray
+Chevrolet,Silverado 1500 2WD,Regular,Standard Pickup Trucks 2WD,1999,Red
+Chevrolet,Silverado 2500 2WD,Regular,Standard Pickup Trucks 2WD,1999,White
+Ford,Ranger Pickup 2WD,Regular,Standard Pickup Trucks 2WD,1999,Red
+Ford,F150 Pickup 4WD,Regular,Standard Pickup Trucks 4WD,1999,Black
+Ford,Ranger Pickup 4WD,Regular,Standard Pickup Trucks 4WD,1999,Black
+GMC,Sierra 1500 4WD,Regular,Standard Pickup Trucks 4WD,1999,Blue
+Ford,E150 Econoline 2WD,Regular,"Vans, Cargo Type",1999,Black
+Chevrolet,Astro AWD (passenger),Regular,"Vans, Passenger Type",1999,Blue
+Chrysler,Town and Country 2WD,Regular,Minivan - 2WD,1999,Green
+Ford,Windstar FWD Van,Regular,Minivan - 2WD,1999,Green
+Chevrolet,Tracker 2WD Hardtop,Regular,Sport Utility Vehicle - 2WD,1999,Black
+Mitsubishi,Nativa 2WD,Regular,Sport Utility Vehicle - 2WD,1999,Black
+Suzuki,Grand Vitara 4Door 2WD,Regular,Sport Utility Vehicle - 2WD,1999,Green
+BMW,Z3 Roadster,Premium,Two Seaters,2000,White
+Chevrolet,Cavalier,Regular,Subcompact Cars,2000,White
+Ford,Mustang,Regular,Subcompact Cars,2000,Green
+Chevrolet,G10/20 Van 2WD,Regular,Vans,1985,Gray
+Mazda,Millenia,Premium,Compact Cars,2000,Black
+Mazda,Protege,Regular,Compact Cars,2000,White
+Saturn,SL,Regular,Compact Cars,2000,Red
+Saturn,SL,Regular,Compact Cars,2000,Green
+Ford,E250 Econoline 2WD,Regular,Vans,1985,Black
+Volkswagen,Jetta,Regular,Compact Cars,2000,Blue
+Volvo,C70 Coupe,Premium,Compact Cars,2000,Gray
+Cadillac,Seville,Premium,Midsize Cars,2000,Black
+Jaguar,S-type (X200) V8,Premium,Midsize Cars,2000,Green
+Pontiac,Grand Prix,Premium,Midsize Cars,2000,Gray
+Chevrolet,G10/20 Sport Van 2WD,Regular,Vans,1985,Red
+Chevrolet,S10 Pickup 2WD,Regular,Small Pickup Trucks 2WD,2000,Black
+Isuzu,Hombre Pickup 2WD,Regular,Small Pickup Trucks 2WD,2000,Green
+GMC,Sierra 2500 2WD,Regular,Standard Pickup Trucks 2WD,2000,Black
+Dodge,Dakota Pickup 4WD,Regular,Standard Pickup Trucks 4WD,2000,White
+Ford,Ranger Pickup 4WD,Regular,Standard Pickup Trucks 4WD,2000,Black
+GMC,Safari 2WD (passenger),Regular,Vans,1985,Black
+Chevrolet,Van 1500/2500 2WD,Regular,"Vans, Cargo Type",2000,Gray
+GMC,Savana 1500/2500 2WD (cargo),Regular,"Vans, Cargo Type",2000,Green
+GMC,Safari AWD (cargo),Regular,"Vans, Cargo Type",2000,Blue
+Ford,Windstar FWD Wagon,Regular,Minivan - 2WD,2000,Blue
+Dodge,AD100/AD150 Ramcharger 2WD,Regular,Special Purpose Vehicle 2WD,1985,Red
+Isuzu,Rodeo 4WD,Regular,Sport Utility Vehicle - 4WD,2000,Green
+BMW,M Coupe,Premium,Two Seaters,2001,White
+Mercedes-Benz,SLK320,Premium,Two Seaters,2001,Green
+Porsche,Boxster S,Premium,Two Seaters,2001,Red
+Toyota,MR2,Regular,Two Seaters,2001,Gray
+Porsche,911 Carrera 2/4,Premium,Minicompact Cars,2001,Red
+Ford,Mustang,Regular,Subcompact Cars,2001,Red
+Ford,Mustang,Premium,Subcompact Cars,2001,Black
+Roush Performance,Stage 3 Mustang,Premium,Subcompact Cars,2001,Black
+Volkswagen,New Beetle,Diesel,Subcompact Cars,2001,Green
+Mazda,Millenia,Premium,Compact Cars,2001,Red
+Mazda,Protege/Protege MPS,Regular,Compact Cars,2001,Red
+Nissan,Altima,Regular,Compact Cars,2001,Blue
+Toyota,Corolla,Regular,Compact Cars,2001,Blue
+Volkswagen,Jetta,Premium,Compact Cars,2001,Black
+Volkswagen,Jetta,Regular,Compact Cars,2001,Red
+Subaru,Brat 4WD,Regular,Special Purpose Vehicles,1985,Gray
+BMW,740i,Premium,Midsize Cars,2001,White
+Chevrolet,Malibu,Regular,Midsize Cars,2001,White
+Saab,3-Sep,Regular,Midsize Cars,2001,Blue
+Subaru,Wagon 4WD,Regular,Special Purpose Vehicles,1985,Gray
+Volvo,S80/S80 Executive,Premium,Midsize Cars,2001,Blue
+Chevrolet,S10 Cab Chassis 2WD,Regular,Special Purpose Vehicle 2WD,1985,Black
+Chevrolet,Impala,Regular,Large Cars,2001,Gray
+Mercedes-Benz,S430,Premium,Large Cars,2001,Red
+Alfa Romeo,Spider,Regular,Two Seaters,1986,Black
+Chevrolet,S10 Pickup 2WD,Regular,Small Pickup Trucks 2WD,2001,Black
+Dodge,Ram 1500 Pickup 2WD,Regular,Standard Pickup Trucks 2WD,2001,Gray
+Ford,Ranger Pickup 2WD,Regular,Standard Pickup Trucks 2WD,2001,Blue
+Ford,F150 Pickup 4WD,Regular,Standard Pickup Trucks 4WD,2001,Red
+Chevrolet,Express 1500/2500 2WD,Regular,"Vans, Passenger Type",2001,Gray
+Jeep,Cherokee 2WD,Regular,Sport Utility Vehicle - 2WD,2001,Green
+Kia,Sportage 2WD,Regular,Sport Utility Vehicle - 2WD,2001,Red
+Suzuki,Vitara 4Door,Regular,Sport Utility Vehicle - 2WD,2001,Red
+Chevrolet,Tracker ZR2 4WD Convertible,Regular,Sport Utility Vehicle - 4WD,2001,Red
+Nissan,Pathfinder 4WD,Regular,Sport Utility Vehicle - 4WD,2001,Gray
+Mercury,Sable Wagon (FFV),Gasoline or E85,Midsize Station Wagons,2001,Gray
+Ford,Explorer Sport 2WD FFV,Gasoline or E85,Sport Utility Vehicle - 2WD,2001,Black
+Ford,Mustang,Regular,Subcompact Cars,2002,White
+Suzuki,Esteem,Regular,Subcompact Cars,2002,Gray
+BMW,3 Series,Regular,Subcompact Cars,1986,Red
+Chevrolet,Prizm,Regular,Compact Cars,2002,Blue
+Chrysler,Sebring Convertible,Regular,Compact Cars,2002,Red
+Dodge,Stratus,Regular,Compact Cars,2002,Green
+Jaguar,X-Type,Premium,Compact Cars,2002,White
+Mitsubishi,Mirage,Premium,Subcompact Cars,1985,Black
+Volkswagen,Jetta,Regular,Compact Cars,2002,Gray
+Audi,A8 quattro,Premium,Midsize Cars,2002,Black
+Chevrolet,Monte Carlo,Regular,Midsize Cars,2002,Red
+Daewoo,Leganza,Regular,Midsize Cars,2002,Blue
+Kia,Optima,Regular,Midsize Cars,2002,Black
+Kia,Optima,Regular,Midsize Cars,2002,Blue
+Nissan,Altima,Regular,Midsize Cars,2002,Green
+Chrysler,Laser/Daytona,Regular,Subcompact Cars,1986,Green
+Nissan,Maxima,Regular,Midsize Cars,2002,Blue
+BMW,745i,Premium,Large Cars,2002,Green
+Chrysler,Concorde,Regular,Large Cars,2002,Black
+Mercedes-Benz,S500,Premium,Large Cars,2002,Black
+GMC,Savana 1500/2500 2WD (cargo),Regular,"Vans, Cargo Type",2002,Green
+Mitsubishi,Starion,Premium,Subcompact Cars,1985,White
+Dodge,Colt,Premium,Subcompact Cars,1986,Black
+Mazda,MPV,Regular,Minivan - 2WD,2002,Black
+Isuzu,Rodeo Sport 2WD,Regular,Sport Utility Vehicle - 2WD,2002,Green
+Kia,Sportage 2WD,Regular,Sport Utility Vehicle - 2WD,2002,Black
+Toyota,Sequoia 2WD,Regular,Sport Utility Vehicle - 2WD,2002,White
+BMW,X5 4.6is,Premium,Sport Utility Vehicle - 4WD,2002,White
+Ford,Expedition 4WD,Regular,Sport Utility Vehicle - 4WD,2002,Black
+Honda,Passport 4WD,Regular,Sport Utility Vehicle - 4WD,2002,Gray
+Nissan,Pathfinder 4WD,Regular,Sport Utility Vehicle - 4WD,2002,Black
+Honda,Accord,Regular,Subcompact Cars,1986,Gray
+Mercury,Mountaineer 2WD FFV,Gasoline or E85,Sport Utility Vehicle - 2WD,2002,White
+BMW Alpina,Roadster V8,Premium,Two Seaters,2003,Gray
+Honda,Civic,Regular,Subcompact Cars,1986,Gray
+Dodge,Viper Convertible,Premium,Two Seaters,2003,Blue
+Ferrari,360 Modena/Spider,Premium,Two Seaters,2003,Black
+Jaguar,XKR Convertible,Premium,Minicompact Cars,2003,Green
+Acura,RSX,Regular,Subcompact Cars,2003,Blue
+Maserati,Coupe Cambiocorsa/Coupe GT,Premium,Subcompact Cars,2003,Blue
+Isuzu,I-Mark,Regular,Subcompact Cars,1986,Green
+BMW,325xi,Premium,Compact Cars,2003,Gray
+Chevrolet,Cavalier,Regular,Compact Cars,2003,Blue
+Isuzu,Impulse,Regular,Subcompact Cars,1986,Black
+Dodge,Stratus,Regular,Compact Cars,2003,Gray
+Hyundai,Accent/Brio,Regular,Compact Cars,2003,Red
+Mercury,Capri,Regular,Subcompact Cars,1986,Blue
+Pontiac,Sunfire,Regular,Compact Cars,2003,Gray
+Saab,9-3 Sport Sedan,Regular,Compact Cars,2003,White
+Subaru,Legacy/Outback AWD,Regular,Compact Cars,2003,Black
+Volkswagen,Golf,Regular,Compact Cars,2003,Green
+Volvo,S60 FWD,Premium,Compact Cars,2003,Red
+Buick,Century,Regular,Midsize Cars,2003,Black
+Buick,Regal,Premium,Midsize Cars,2003,Red
+Kia,Optima,Regular,Midsize Cars,2003,Green
+Saturn,L300,Regular,Midsize Cars,2003,Green
+Dodge,Intrepid,Regular,Large Cars,2003,Black
+Dodge,Intrepid,Regular,Large Cars,2003,White
+Ford,Taurus,Regular,Large Cars,2003,Red
+Mercedes-Benz,E320 4Matic (Wagon),Premium,Midsize Station Wagons,2003,Green
+Saturn,LW300,Regular,Midsize Station Wagons,2003,Red
+Chevrolet,Silverado 1500 2WD,Regular,Standard Pickup Trucks 2WD,2003,Green
+Plymouth,Turismo,Premium,Subcompact Cars,1986,Black
+Pontiac,Firebird,Regular,Subcompact Cars,1986,Black
+Ford,F150 Pickup 4WD,Regular,Standard Pickup Trucks 4WD,2003,Blue
+GMC,Sierra 1500 4WD,Regular,Standard Pickup Trucks 4WD,2003,White
+Mazda,B3000 4WD,Regular,Standard Pickup Trucks 4WD,2003,Black
+Nissan,Frontier V6 4WD,Premium,Standard Pickup Trucks 4WD,2003,White
+Toyota,Tacoma 4WD,Regular,Standard Pickup Trucks 4WD,2003,White
+Chevrolet,Astro 2WD (passenger),Regular,"Vans, Passenger Type",2003,Gray
+Chevrolet,Express 1500/2500 2WD,Regular,"Vans, Passenger Type",2003,Red
+Chevrolet,Trax,Regular,Small Station Wagons,2024,Blue
+BMW,M4 Competition M xDrive Coupe,Premium,Subcompact Cars,2024,Blue
+BMW,840i xDrive Convertible,Premium,Subcompact Cars,2024,Gray
+MINI,John Cooper Works Clubman All4,Premium,Midsize Cars,2024,Black
+GMC,Canyon 4WD,Regular,Small Pickup Trucks 4WD,2023,White
+Buick,Skyhawk Wagon,Regular,Small Station Wagons,1988,White
+MINI,Cooper S Countryman All4,Premium,Midsize Cars,2024,Blue
+Kia,K5 AWD,Regular,Large Cars,2024,Red
+Mercedes-Benz,AMG GLE53 4matic Plus Coupe,Premium,Standard Sport Utility Vehicle 4WD,2024,Blue
+Maserati,Quattroporte Modena AWD,Premium,Large Cars,2024,White
+Jeep,Wrangler 2dr 4WD,Regular,Small Sport Utility Vehicle 4WD,2024,Green
+Toyota,Grand Highlander LE/XLE,Regular,Standard Sport Utility Vehicle 2WD,2024,Blue
+Maserati,Levante Modena V8,Premium,Standard Sport Utility Vehicle 4WD,2024,Gray
+BMW,M240i xDrive Coupe,Premium,Subcompact Cars,2024,Red
+Rolls-Royce,Phantom,Premium,Large Cars,2024,Green
+Chevrolet,Silverado 4WD,Diesel,Standard Pickup Trucks 4WD,2024,Blue
+GMC,Sierra 4WD,Regular,Standard Pickup Trucks 4WD,2024,Gray
+Ford,Edge AWD,Regular,Small Sport Utility Vehicle 4WD,2024,Gray
+Audi,RS e-tron GT,Electricity,Midsize Cars,2024,Black
+BMW,iX xDrive50 (22 inch wheels),Electricity,Standard Sport Utility Vehicle 4WD,2024,Blue
+Chevrolet,Silverado EV,Electricity,Standard Pickup Trucks 4WD,2024,Gray
+Genesis,Electrified GV70,Electricity,Small Sport Utility Vehicle 4WD,2024,White
+Genesis,GV60 PERFORMANCE,Electricity,Small Sport Utility Vehicle 4WD,2024,Red
+Ford,Mustang Mach-E RWD LFP,Electricity,Small Sport Utility Vehicle 2WD,2023,Blue
+Dodge,Diplomat,Premium,Midsize Cars,1985,Green
+Rivian,R1T 22 inch Performance Dual Large,Electricity,Standard Pickup Trucks 4WD,2023,Gray
+Porsche,718 Boxster S,Premium,Two Seaters,2024,Black
+Toyota,Tundra 4WD PRO,Regular,Standard Pickup Trucks 4WD,2024,Green
+Mitsubishi,Outlander Sport 4WD,Regular,Small Sport Utility Vehicle 4WD,2024,Black
+Audi,Q7 quattro,Premium,Standard Sport Utility Vehicle 4WD,2024,Blue
+Dodge,Lancer,Premium,Midsize Cars,1985,Gray
+Toyota,Prius Prime SE,Regular Gas and Electricity,Midsize Cars,2023,White
+Toyota,GR Corolla,Premium,Subcompact Cars,2024,White
+Toyota,Sienna AWD,Regular,Minivan - 4WD,2024,Black
+Lexus,TX 350,Premium,Standard Sport Utility Vehicle 2WD,2024,Green
+Aston Martin,DB12 V8,Premium,Minicompact Cars,2024,Green
+Jeep,Wrangler 2dr 4WD,Regular,Small Sport Utility Vehicle 4WD,2024,Gray
+Dodge,Durango AWD,Midgrade,Standard Sport Utility Vehicle 4WD,2024,Blue
+GMC,Yukon XL 4WD,Diesel,Standard Sport Utility Vehicle 4WD,2024,Green
+Oldsmobile,Cutlass Cruiser,Regular,Midsize-Large Station Wagons,1988,Gray
+Mercedes-Benz,EQS 580 4matic,Electricity,Large Cars,2024,Black
+Porsche,Taycan 4S Performance Battery Plus,Electricity,Compact Cars,2024,Red
+Volvo,XC60 T8 AWD Recharge,Premium and Electricity,Small Sport Utility Vehicle 4WD,2024,Green
+Pagani,Huayra,Premium,Two Seaters,2023,Green
+Toyota,Mirai,Hydrogen,Subcompact Cars,2016,White
+Ford,Mustang,Regular,Subcompact Cars,2024,Green
+Hyundai,Sonata Hybrid,Regular,Large Cars,2024,White
+Toyota,Tacoma SR5/Sport/PreRunner 2WD,Regular,Small Pickup Trucks 2WD,2024,Gray
+Toyota,Tacoma SR5/Sport/Off-Road/Limited 4WD,Regular,Small Pickup Trucks 4WD,2024,White
+Ford,Escape FWD HEV,Regular,Small Sport Utility Vehicle 2WD,2024,Gray
+Ford,Bronco Sasquatch 4WD,Regular,Small Sport Utility Vehicle 4WD,2024,Green
+Ford,Explorer RWD,Regular,Standard Sport Utility Vehicle 2WD,2024,Red
+Ram,1500 HFE 2WD,Regular,Standard Pickup Trucks 2WD,2025,Black
+Chevrolet,S10 Pickup 2WD,Regular,Small Pickup Trucks,1988,Blue
+BMW,M440i Convertible,Premium,Subcompact Cars,2025,Black
+Chevrolet,Trailblazer FWD,Gasoline or E85,Small Sport Utility Vehicle 2WD,2025,Red
+Dodge,Ram 50 Pickup 2WD,Regular,Small Pickup Trucks,1988,Red
+Chevrolet,Equinox EV AWD,Electricity,Small Sport Utility Vehicle 4WD,2024,Red
+Ford,Mustang Mach-E AWD,Electricity,Small Sport Utility Vehicle 4WD,2024,Blue
+Lucid,Air Touring AWD with 21inch wheels,Electricity,Large Cars,2024,Black
+Nissan,ARIYA ENGAGE FWD 63kWh,Electricity,Small Station Wagons,2024,Blue
+Ford,Ranger Pickup 2WD,Regular,Small Pickup Trucks,1988,Gray
+Rivian,R1S Quad Large (21in),Electricity,Standard Sport Utility Vehicle 4WD,2024,Blue
+Mercedes-Benz,AMG GLA35 4matic,Premium,Small Station Wagons,2025,Gray
+Honda,CR-V FWD,Regular,Small Sport Utility Vehicle 2WD,2025,White
+Mazda,B2200/B2600,Regular,Small Pickup Trucks,1988,Green
+GMC,C25 Pickup 2WD,Diesel,Standard Pickup Trucks,1988,White
+Chevrolet,K20 Pickup 4WD,Regular,Standard Pickup Trucks,1988,Black
+Chevrolet,T10 (S10) Pickup 4WD,Regular,Standard Pickup Trucks,1988,Green
+Dodge,W250 Pickup 4WD,Regular,Standard Pickup Trucks,1988,Black
+GMC,K15 Pickup 4WD,Regular,Standard Pickup Trucks,1988,White
+GMC,K15 Pickup 4WD,Diesel,Standard Pickup Trucks,1988,Green
+Mitsubishi,Truck 4WD,Regular,Standard Pickup Trucks,1988,Red
+Mitsubishi,Van,Regular,Vans,1988,White
+Toyota,Van 4WD (cargo),Regular,Vans,1988,Green
+Ford,E150 Club Wagon,Regular,Vans,1988,Gray
+Toyota,Van 4WD (passenger),Regular,Vans,1988,Green
+Jeep,Cherokee 2WD,Regular,Special Purpose Vehicle 2WD,1988,Black
+Jeep,Cherokee 2WD,Regular,Special Purpose Vehicle 2WD,1988,Black
+Ford,Bronco 4WD,Regular,Special Purpose Vehicles,1988,Black
+GMC,V15 Jimmy 4WD,Regular,Special Purpose Vehicles,1988,Black
+Jeep,Wrangler 4WD,Regular,Special Purpose Vehicles,1988,Gray
+Subaru,Sedan/3 Door 4WD,Regular,Special Purpose Vehicles,1988,Red
+Chevrolet,S10 Cab Chassis 2WD,Regular,Special Purpose Vehicle 2WD,1988,Red
+Nissan,Truck Cab Chassis 2WD,Regular,Special Purpose Vehicle 2WD,1988,White
+Dodge,Dakota Cab Chassis 2WD,Regular,Special Purpose Vehicle 2WD,1988,White
+Porsche,928 S4,Premium,Minicompact Cars,1989,Red
+BMW,325ix,Regular,Subcompact Cars,1989,Blue
+Nissan,Pulsar NX,Regular,Subcompact Cars,1989,Gray
+Ford,Festiva,Regular,Subcompact Cars,1989,Green
+Plymouth,Sundance Convertible,Regular,Subcompact Cars,1989,Gray
+Pontiac,Sunbird Convertible,Regular,Subcompact Cars,1989,Black
+Saab,900 Convertible,Regular,Subcompact Cars,1989,Black
+Toyota,Celica,Premium,Subcompact Cars,1989,Black
+Chevrolet,Impala/Caprice,Diesel,Large Cars,1985,Gray
+Ford,LTD Crown Victoria,Regular,Large Cars,1985,Red
+Chrysler,LeBaron,Premium,Compact Cars,1989,Red
+Chrysler,LeBaron,Regular,Compact Cars,1989,Red
+Eagle,Summit,Regular,Compact Cars,1989,Gray
+Honda,Accord,Regular,Compact Cars,1989,Blue
+Mercury,Topaz,Regular,Compact Cars,1989,Black
+Mazda,323,Premium,Compact Cars,1989,Green
+Mazda,323,Regular,Compact Cars,1989,Blue
+Mitsubishi,Galant,Regular,Compact Cars,1989,Blue
+Volvo,780,Regular,Compact Cars,1989,Black
+Audi,100 quattro,Regular,Midsize Cars,1989,Black
+Chrysler,New Yorker,Regular,Midsize Cars,1989,Black
+Lincoln,Mark VII,Regular,Midsize Cars,1989,White
+Merkur,Scorpio,Regular,Midsize Cars,1989,Gray
+Mazda,626/MX-6,Regular,Midsize Cars,1989,Green
+Volvo,740,Regular,Midsize Cars,1989,Green
+Eagle,Premier,Regular,Large Cars,1989,White
+Pontiac,Bonneville,Regular,Large Cars,1989,Black
+Mazda,323 Wagon,Regular,Small Station Wagons,1989,Black
+Mitsubishi,Space Wagon,Regular,Small Station Wagons,1989,Green
+Subaru,Wagon,Regular,Small Station Wagons,1989,Gray
+Buick,Century Wagon,Regular,Midsize-Large Station Wagons,1989,Green
+Chevrolet,S10 Pickup 2WD,Regular,Small Pickup Trucks,1989,Green
+Ford,Courier,Regular,Small Pickup Trucks,1989,Green
+Ford,Ranger Pickup 2WD,Regular,Small Pickup Trucks,1989,Green
+Chevrolet,C2500 Pickup 2WD,Regular,Standard Pickup Trucks,1989,Green
+Dodge,Dakota Pickup 2WD,Regular,Standard Pickup Trucks,1989,Gray
+Chevrolet,K1500 Pickup 4WD,Regular,Standard Pickup Trucks,1989,Gray
+Chevrolet,K2500 Pickup 4WD,Regular,Standard Pickup Trucks,1989,Blue
+Nissan,Truck 4WD,Regular,Standard Pickup Trucks,1989,Blue
+Dodge,Dakota Pickup 4WD,Regular,Standard Pickup Trucks,1989,White
+BMW,6 Series,Regular,Subcompact Cars,1985,Green
+Isuzu,Pickup 4WD,Regular,Standard Pickup Trucks,1989,Green
+Chevrolet,G10/20 Van 2WD,Regular,Vans,1989,White
+Pontiac,Sunbird Wagon,Regular,Small Station Wagons,1985,Green
+Subaru,Wagon,Regular,Small Station Wagons,1985,Blue
+Chevrolet,G10/20 Sport Van 2WD,Regular,Vans,1989,Red
+Dodge,Raider,Regular,Special Purpose Vehicles,1989,White
+Jeep,Cherokee/Wagoneer 4WD,Regular,Special Purpose Vehicles,1989,Black
+Jeep,Cherokee/Wagoneer 4WD,Regular,Special Purpose Vehicles,1989,Green
+Jeep,Wagoneer Limited 4WD,Regular,Special Purpose Vehicles,1989,Red
+Laforza Automobile Inc,Laforza,Regular,Special Purpose Vehicles,1989,Gray
+Chevrolet,Camaro,Regular,Subcompact Cars,1985,White
+Honda,Civic CRX HF,Regular,Two Seaters,1990,Green
+Maserati,Karif,Premium,Two Seaters,1990,White
+Maserati,Spyder,Premium,Two Seaters,1990,Black
+Mazda,RX-7,Regular,Two Seaters,1990,Black
+Chevrolet,Camaro,Premium,Subcompact Cars,1990,Black
+Chrysler,LeBaron Convertible,Premium,Subcompact Cars,1990,Green
+Nissan,Pulsar NX,Regular,Subcompact Cars,1990,Green
+Dodge,Aries Wagon,Regular,Midsize-Large Station Wagons,1985,Blue
+Geo,Storm,Regular,Subcompact Cars,1990,Red
+Mitsubishi,Eclipse,Regular,Subcompact Cars,1990,Blue
+Mitsubishi,Eclipse,Regular,Subcompact Cars,1990,Red
+Subaru,XT 4WD,Regular,Subcompact Cars,1990,Green
+Toyota,Celica,Premium,Subcompact Cars,1990,Gray
+Toyota,Corolla,Regular,Subcompact Cars,1990,White
+Volkswagen,Fox,Regular,Subcompact Cars,1990,Black
+Chrysler,LeBaron,Regular,Compact Cars,1990,White
+Pontiac,6000 Wagon,Regular,Midsize-Large Station Wagons,1985,Green
+Subaru,Legacy 4WD,Regular,Compact Cars,1990,Green
+Subaru,Loyale,Regular,Compact Cars,1990,Gray
+Pontiac,Grand Prix Ste Turbo,Premium,Midsize Cars,1990,Red
+Chevrolet,Corsica,Regular,Midsize Cars,1990,Red
+Mercedes-Benz,420SEL,Premium,Midsize Cars,1990,White
+Honda,Civic Wagon 4WD,Regular,Small Station Wagons,1990,Blue
+Volkswagen,Passat Wagon,Regular,Midsize-Large Station Wagons,1990,Green
+Chevrolet,C1500 Pickup 2WD,Regular,Standard Pickup Trucks,1990,Black
+Chevrolet,C2500 Pickup 2WD,Regular,Standard Pickup Trucks,1990,Red
+Dodge,D100/D150 Pickup 2WD,Regular,Standard Pickup Trucks,1990,Gray
+Jeep,Comanche Pickup 2WD,Regular,Standard Pickup Trucks,1990,Blue
+Dodge,Ram 50 Pickup 2WD,Regular,Small Pickup Trucks,1985,Green
+Ford,F250 Pickup 4WD,Regular,Standard Pickup Trucks,1990,Red
+Ford,F250 Pickup 4WD,Regular,Standard Pickup Trucks,1990,Blue
+GMC,Sierra 1500 4WD,Regular,Standard Pickup Trucks,1990,White
+GMC,K2500 Sierra 4WD,Regular,Standard Pickup Trucks,1990,Blue
+GMC,K2500 Sierra 4WD,Regular,Standard Pickup Trucks,1990,Blue
+Toyota,Truck 4WD,Regular,Standard Pickup Trucks,1990,Red
+Chevrolet,G10/20 Van 2WD,Regular,Vans,1990,Gray
+Dodge,B150/B250 Van 2WD,Regular,Vans,1990,Blue
+Ford,E250 Econoline 2WD,Regular,Vans,1990,White
+Dodge,AD100/AD150 Ramcharger 2WD,Regular,Special Purpose Vehicle 2WD,1990,Gray
+Mazda,MPV,Regular,Special Purpose Vehicle 2WD,1990,Black
+Toyota,Truck 2WD,Regular,Small Pickup Trucks,1985,White
+Plymouth,Colt Vista 4WD,Regular,Special Purpose Vehicles,1990,White
+Dodge,D250 Cab Chassis 2WD,Regular,Special Purpose Vehicle 2WD,1990,Red
+Chevrolet,Corvette,Premium,Two Seaters,1991,Green
+Chrysler,TC by Maserati,Premium,Two Seaters,1991,Green
+Nissan,240SX,Premium,Minicompact Cars,1991,Black
+BMW,318is,Premium,Subcompact Cars,1991,Blue
+Honda,Civic,Regular,Subcompact Cars,1991,Green
+Plymouth,Laser,Regular,Subcompact Cars,1991,Green
+Subaru,XT 4WD,Regular,Subcompact Cars,1991,Green
+Suzuki,Swift,Regular,Subcompact Cars,1991,Blue
+Toyota,Celica,Regular,Subcompact Cars,1991,Red
+Dodge,Shadow,Premium,Compact Cars,1991,Green
+Ford,Tempo AWD,Regular,Compact Cars,1991,Green
+BMW,325i,Premium,Compact Cars,1991,Gray
+Mercury,Topaz,Regular,Compact Cars,1991,Red
+Mercedes-Benz,300SEL,Premium,Midsize Cars,1991,White
+Oldsmobile,Cutlass Ciera,Regular,Midsize Cars,1991,Black
+Rolls-Royce,Eight/Mulsanne S,Premium,Midsize Cars,1991,White
+Ford,F150 Pickup 2WD,Regular,Standard Pickup Trucks,1985,Gray
+Ford,F150 Pickup 2WD,Regular,Standard Pickup Trucks,1991,Blue
+Ford,F250 Pickup 2WD,Regular,Standard Pickup Trucks,1985,Black
+GMC,C2500 Sierra 2WD,Regular,Standard Pickup Trucks,1991,Blue
+GMC,C2500 Sierra 2WD,Regular,Standard Pickup Trucks,1991,Black
+Toyota,1-Ton Truck 2WD,Regular,Standard Pickup Trucks,1991,Red
+Chevrolet,K1500 Pickup 4WD,Regular,Standard Pickup Trucks,1991,Blue
+Chevrolet,K2500 Pickup 4WD,Regular,Standard Pickup Trucks,1991,Gray
+Ford,F250 Pickup 4WD,Regular,Standard Pickup Trucks,1991,Green
+GMC,C15 Pickup 2WD,Regular,Standard Pickup Trucks,1985,White
+Dodge,B150/B250 Van 2WD,Regular,Vans,1991,Blue
+Ford,Aerostar Van,Regular,Vans,1991,Blue
+Ford,E150 Econoline 2WD,Regular,Vans,1991,Black
+Dodge,B350 Wagon 2WD,Regular,Vans,1991,White
+Ford,Bronco 4WD,Regular,Special Purpose Vehicles,1991,Gray
+Ford,Bronco 4WD,Regular,Special Purpose Vehicles,1991,Red
+Mitsubishi,Montero,Regular,Special Purpose Vehicles,1991,White
+Toyota,Cab/Chassis 2WD,Regular,Special Purpose Vehicles,1991,Red
+Alfa Romeo,Spider,Premium,Two Seaters,1992,Black
+Jaguar,XJS Convertible,Premium,Two Seaters,1992,Black
+Lamborghini,DB132/Diablo,Premium,Two Seaters,1992,Red
+Lotus,Elan,Premium,Two Seaters,1992,Blue
+Mazda,MX-5 Miata,Regular,Two Seaters,1992,Gray
+Porsche,968,Premium,Two Seaters,1992,Gray
+Honda,Civic HB VX,Regular,Subcompact Cars,1992,Gray
+Honda,Prelude,Regular,Subcompact Cars,1992,Blue
+Dodge,W100/W150 Pickup 4WD,Regular,Standard Pickup Trucks,1985,Black
+Dodge,W100/W150 Pickup 4WD,Regular,Standard Pickup Trucks,1985,Green
+Mitsubishi,Mirage,Regular,Subcompact Cars,1992,White
+Dodge,W250 Pickup 4WD,Regular,Standard Pickup Trucks,1985,Gray
+Rolls-Royce,Corniche IV,Premium,Subcompact Cars,1992,Red
+Toyota,Celica,Regular,Subcompact Cars,1992,Blue
+Toyota,Corolla,Regular,Subcompact Cars,1992,Red
+Alfa Romeo,164,Premium,Compact Cars,1992,Green
+Ford,Tempo,Regular,Compact Cars,1992,Black
+Mercedes-Benz,400E,Premium,Compact Cars,1992,White
+Volkswagen,Jetta,Regular,Compact Cars,1992,Gray
+Volvo,240,Regular,Compact Cars,1992,White
+Buick,Regal,Regular,Midsize Cars,1992,Gray
+Chevrolet,Lumina,Regular,Midsize Cars,1992,Red
+CX Automotive,XM v6,Premium,Midsize Cars,1992,White
+Dodge,Dynasty,Regular,Midsize Cars,1992,Blue
+Ford,Taurus SHO,Premium,Midsize Cars,1992,Gray
+Mercedes-Benz,560SE,Premium,Midsize Cars,1992,Red
+Oldsmobile,Cutlass Supreme,Regular,Midsize Cars,1992,White
+Ford,LTD Crown Victoria,Regular,Large Cars,1992,White
+Mercedes-Benz,400SE,Premium,Large Cars,1992,Blue
+Chevrolet,Cavalier Wagon,Regular,Small Station Wagons,1992,Gray
+Mitsubishi,Expo,Regular,Midsize-Large Station Wagons,1992,Red
+Volkswagen,Passat Wagon,Regular,Midsize-Large Station Wagons,1992,Blue
+Volvo,740 Wagon,Regular,Midsize-Large Station Wagons,1992,Green
+Ford,Ranger Pickup 2WD,Regular,Small Pickup Trucks,1992,White
+Ford,Ranger Pickup 4WD,Regular,Small Pickup Trucks,1992,Green
+Ford,F150 Pickup 2WD,Regular,Standard Pickup Trucks,1992,Red
+Ford,F250 Pickup 2WD,Regular,Standard Pickup Trucks,1992,Blue
+Chevrolet,S10 Pickup 4WD,Regular,Standard Pickup Trucks,1992,White
+Jeep,Comanche Pickup 4WD,Regular,Standard Pickup Trucks,1992,Gray
+GMC,Sierra 1500 4WD,Regular,Standard Pickup Trucks,1992,Green
+Mitsubishi,Truck 4WD,Regular,Standard Pickup Trucks,1992,Gray
+Dodge,B150/B250 Van 2WD,Regular,Vans,1985,Red

@@ -10,117 +10,92 @@
     <button id="searchButton">Search</button>
     <h1>Car Lister</h1>
     <table id="carList">
-        <thead>
-            <tr>
-                <th>Name</th>
-                <th>MPG</th>
-                <th>Cylinders</th>
-                <th>Displacement</th>
-                <th>Horsepower</th>
-                <th>Weight</th>
-                <th>Acceleration</th>
-                <th>Year</th>
-                <th>Origin</th>
-                <th>Color</th>
-                <th>Brand</th>
-                <th>Condition</th>
-            </tr>
-        </thead>
-        <tbody id="CarListBody"></tbody>
+      <thead>
+        <tr>
+          <th>Brand</th>
+          <th>Model</th>
+          <th>Year</th>
+          <th>Color</th>
+          <th>Size</th>
+          <th>Fuel</th>
+        </tr>
+      </thead>
+      <tbody id="CarListBody"></tbody>
     </table>
     <h1>Searchin History</h1>
     <ul id="recentSearches"></ul>
     <h1>Recommendation</h1>
     <table id="recommendation">
       <thead>
-          <tr>
-              <th>Name</th>
-              <th>MPG</th>
-              <th>Cylinders</th>
-              <th>Displacement</th>
-              <th>Horsepower</th>
-              <th>Weight</th>
-              <th>Acceleration</th>
-              <th>Year</th>
-              <th>Origin</th>
-              <th>Color</th>
-              <th>Brand</th>
-              <th>Condition</th>
-          </tr>
+        <tr>
+          <th>Brand</th>
+          <th>Model</th>
+          <th>Year</th>
+          <th>Color</th>
+          <th>Size</th>
+          <th>Fuel</th>
+        </tr>
       </thead>
       <tbody></tbody>
-  </table>
+    </table>
     <style>
-        td{ 
-            padding: 1rem;
-            background-color: pink;
-            border: 1px solid black;
-        }
+      td {
+        padding: 1rem;
+        background-color: pink;
+        border: 1px solid black;
+      }
     </style>
     <script>
       var recentSearches = JSON.parse(localStorage.getItem("recentSearches")) || [];
-      // var recommendations = JSON.parse(localStorage.getItem("recommendStorage")) || [];
+        var recommendations = JSON.parse(localStorage.getItem("recommendStorage")) || [];
 
       function updateTable(data, tableId) {
-        var tableBody = document.querySelector(tableId + ' tbody');
-        tableBody.innerHTML = '';
-        console.log(data)
-        data.forEach(function(car) {
-          console.log("randoom")
-          var row = document.createElement('tr');
+        var tableBody = document.querySelector(tableId + " tbody");
+        tableBody.innerHTML = "";
+        console.log(data);
+        data.forEach(function (car) {
+          console.log("randoom");
+          var row = document.createElement("tr");
           row.innerHTML = `
-            <td>${car[Object.keys(car)[0]].name}</td>
-            <td>${car[Object.keys(car)[0]].mpg}</td>
-            <td>${car[Object.keys(car)[0]].cylinders}</td>
-            <td>${car[Object.keys(car)[0]].displacement}</td>
-            <td>${car[Object.keys(car)[0]].horsepower}</td>
-            <td>${car[Object.keys(car)[0]].weight}</td>
-            <td>${car[Object.keys(car)[0]].acceleration}</td>
-            <td>${car[Object.keys(car)[0]].year}</td>
-            <td>${car[Object.keys(car)[0]].origin}</td>
-            <td>${car[Object.keys(car)[0]].color}</td>
             <td>${car[Object.keys(car)[0]].brand}</td>
             <td>${car[Object.keys(car)[0]].model}</td>
+            <td>${car[Object.keys(car)[0]].year}</td>
+            <td>${car[Object.keys(car)[0]].color}</td>
+            <td>${car[Object.keys(car)[0]].size}</td>
+            <td>${car[Object.keys(car)[0]].fuel}</td>
           `;
           tableBody.appendChild(row);
         });
       }
-    
+
       async function fetchCarData(query) {
-              try {
+        try {
+          const response = await fetch(
+            `/search?query=${encodeURIComponent(query)}`
+          );
+          const carList = await response.json();
+          console.log(carList)
 
-                  const response = await fetch(`/search?query=${encodeURIComponent(query)}`);
-                  const carList = await response.json();
-                  
+          const table = document.getElementById("carList");
+          tableBody = document.getElementById("CarListBody");
+          tableBody.innerHTML = "";
 
-                  const table = document.getElementById('carList')     
-                  tableBody = document.getElementById('CarListBody')
-                  tableBody.innerHTML = ""
-                  
-                  carList.forEach(x=>{
-                    
-                    
-                    var row = document.createElement('tr');
-                    row.innerHTML = `
-                      <td>${x.name}</td>
-                      <td>${x.mpg}</td>
-                      <td>${x.cylinders}</td>
-                      <td>${x.displacement}</td>
-                      <td>${x.horsepower}</td>
-                      <td>${x.weight}</td>
-                      <td>${x.acceleration}</td>
-                      <td>${x.year}</td>
-                      <td>${x.origin}</td>
-                      <td>${x.color}</td>
-                      <td>${x.brand}</td>
-                      <td>${x.model}</td>
-                    `;
-                    tableBody.appendChild(row);
-                  })
-              } catch (error) {
-                  console.error('Error fetching car data:', error);
-              }
-          }
+          carList.forEach((x) => {
+            var row = document.createElement("tr");
+            row.innerHTML = `
+              <td>${x.brand}</td>
+              <td>${x.model}</td>
+              <td>${x.year}</td>
+              <td>${x.color}</td>
+              <td>${x.size}</td>
+              <td>${x.fuel}</td>
+            `;
+            tableBody.appendChild(row);
+          });
+        } catch (error) {
+          console.error("Error fetching car data:", error);
+        }
+      }
 
       function updateSearch(searchhis) {
         document.getElementById("recentSearches").innerHTML = "";
@@ -131,7 +106,7 @@
         });
       }
 
-      // updateTable(recommendations, "#recommendation")
+      updateTable(recommendations, "#recommendation")
       updateSearch(recentSearches);
 
       document
@@ -148,21 +123,19 @@
             JSON.stringify(recentSearches)
           );
 
-          fetchCarData(searchQuery)
+          fetchCarData(searchQuery);
 
           axios
             .get("/recommend?items=" + recentSearches)
             .then(function (response) {
-                var recommendList = response.data
-                
-                updateTable(recommendList, '#recommendation');
+              var recommendList = response.data;
 
-                localStorage.setItem(
-                    "recommendStorage",
-                    JSON.stringify(response.data)
-                );
-                
-              
+              updateTable(recommendList, "#recommendation");
+
+              localStorage.setItem(
+                "recommendStorage",
+                JSON.stringify(recommendList)
+              );
             })
             .catch(function (error) {
               console.error("Error fetching car models:", error);

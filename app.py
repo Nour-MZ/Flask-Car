@@ -12,21 +12,21 @@ app = Flask(__name__)
 
 
 cars = []
-with open('car_models.csv', 'r') as file:
+with open('Car_Data.csv', 'r') as file:
     reader = csv.DictReader(file)
     for row in reader:
         cars.append(row)
 
 def create_combined_string(car):
-    return f"{car['name']} {car['year']} {car['model']} {car['color']} {car['brand']}"
+    return f"{car['year']} {car['model']} {car['color']} {car['brand']}"
 
 combined_strings = [create_combined_string(car) for car in cars]
 
 tfidf_vectorizer = TfidfVectorizer()
 tfidf_matrix = tfidf_vectorizer.fit_transform(combined_strings)
 
-car_data = pd.read_csv('car_models.csv')
-car_data['combined'] = car_data['name'] + ' ' + car_data['model'] + ' ' + car_data['year'].astype(str) + ' ' + car_data['color'] + ' ' + car_data['brand']
+car_data = pd.read_csv('Car_Data.csv')
+car_data['combined'] = car_data['year'].astype(str) + ' ' + car_data['model'] + ' ' + car_data['color'] + ' ' + car_data['brand']
 
 @app.route('/', methods=['GET'])
 def index():
@@ -43,8 +43,10 @@ def search_cars():
     matches = []
      
     for car in cars:      
-        if all(query.lower() in create_combined_string(car) for query in querio): 
+        if all(query.lower() in create_combined_string(car).lower() for query in querio): 
             matches.append(car)
+        if(len(matches)>25):
+            break
     return jsonify(matches)
 
 
@@ -95,4 +97,4 @@ def recommend_cars():
     return jsonify(results) 
 
 if __name__ == '__main__':
-    app.run(app.run(host='0.0.0.0', port=4000))
+    app.run(host='0.0.0.0', port=4000)
