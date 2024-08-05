@@ -76,10 +76,10 @@ def recommend_cars():
         for idx in top_results:
             car_info = car_data.iloc[idx].to_dict()
             
-            # Use an OrderedDict to ensure dictionary ordering
+            
             ordered_car_info = OrderedDict(car_info)
             
-            # Sanitize the car info
+            
             sanitized_car_info = OrderedDict((key, (value if not pd.isna(value) else None)) for key, value in ordered_car_info.items())
             
             # Convert NumPy ints to regular Python ints
@@ -95,4 +95,4 @@ def recommend_cars():
     return jsonify(results) 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(app.run(host='0.0.0.0', port=4000))
