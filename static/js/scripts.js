@@ -6,6 +6,7 @@ const searchForm = document.getElementById("searchForm")
 const autocompleteSuggestions = document.getElementById("autocompletesuggestion")
 
 
+
 async function getAutocompleteSuggestions() {
     const query = searchinput.value.trim();
     if (query.length > 0) {
@@ -122,6 +123,6 @@ searchForm.addEventListener("submit", (e) => {
             .catch(function (error) {
                 console.error("Error fetching car models:", error);
             });
-            searchQuery.value = "";   
-
+            searchinput.value = "";   
+            autocompleteSuggestions.innerHTML = "";
     });
