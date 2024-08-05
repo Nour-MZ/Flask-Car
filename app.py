@@ -22,7 +22,7 @@ def create_combined_string(car):
 
 combined_strings = [create_combined_string(car) for car in cars]
 
-tfidf_vectorizer = TfidfVectorizer()
+tfidf_vectorizer = TfidfVectorizer(max_df=0.2)
 tfidf_matrix = tfidf_vectorizer.fit_transform(combined_strings)
 
 car_data = pd.read_csv('Car_Data.csv')
@@ -63,38 +63,55 @@ def recommend_cars():
             query_vector = tfidf_vectorizer.transform([word]).toarray()[0]
             similarity = cosine_similarity(tfidf_matrix.toarray(), [query_vector])
             similarities.append(similarity.flatten())
-        
 
-        # Combine the similarities with more weight for repeated words
         combined_similarities = np.sum(similarities, axis=0)
+        top_results = np.argsort(combined_similarities)[::-1]
 
-        # Normalize the combined similarities
-        combined_similarities = combined_similarities / len(query)
-      
-
-        top_results = np.argsort(combined_similarities)[::-1][:20]
-        
-
+        # Group results by query term
+        query_terms = {}
         for idx in top_results:
             car_info = car_data.iloc[idx].to_dict()
-            
-            
-            ordered_car_info = OrderedDict(car_info)
-            
-            
-            sanitized_car_info = OrderedDict((key, (value if not pd.isna(value) else None)) for key, value in ordered_car_info.items())
-            
-            # Convert NumPy ints to regular Python ints
-            for key, value in sanitized_car_info.items():
-                if isinstance(value, np.int64):
-                    sanitized_car_info[key] = int(value)
-                    
-            results.append({'car': dict(sanitized_car_info), 'score': float(combined_similarities[idx])})
+            query_term = [word for word in query if word in car_info['combined'].lower()]
+            if query_term:
+                query_term = query_term[0]
+                if query_term not in query_terms:
+                    query_terms[query_term] = []
+                query_terms[query_term].append(car_info)
 
-        results = sorted(results, key=lambda x: x['score'], reverse=True)
-        results = results[:20]
+        # Apply query-specific limit and fill remaining slots
+        results = []
+    if query:
+        similarities = []
+        for word in query:
+            query_vector = tfidf_vectorizer.transform([word]).toarray()[0]
+            similarity = cosine_similarity(tfidf_matrix.toarray(), [query_vector])
+            similarities.append(similarity.flatten())
+
+        combined_similarities = np.sum(similarities, axis=0)
+        top_results = np.argsort(combined_similarities)[::-1]
+
+        # Group results by query term
+        for idx in top_results:
+            car_info = car_data.iloc[idx].to_dict()
+            query_term = [word for word in query if word in car_info['combined'].lower()]
+            if query_term:
+                query_term = query_term[0]
+                if query_term not in query_terms:
+                    query_terms[query_term] = []
+                query_terms[query_term].append(car_info)
+
+        # Apply query-specific limit and fill remaining slots
+        limited_results = []
+        for query_term, cars in query_terms.items():
+            limited_results.extend(cars[:2])  # Limit to 2 cars per query term
+            if len(limited_results) >= 10:
+                break
+
+        results = [{'car': car, 'score': float(combined_similarities[idx])} for idx, car in enumerate(limited_results)]
+
+        return jsonify(results)
+
         
-    return jsonify(results) 
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=4000)
