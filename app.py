@@ -5,8 +5,8 @@ import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from collections import OrderedDict
-
-
+import random
+from itertools import islice
 
 app = Flask(__name__)
 
@@ -18,7 +18,7 @@ with open('Car_Data.csv', 'r') as file:
         cars.append(row)
 
 def create_combined_string(car):
-    return f"{car['year']} {car['model']} {car['color']} {car['brand']}"
+    return f"{car['brand']} {car['model']} {car['year']} {car['color']} "
 
 combined_strings = [create_combined_string(car) for car in cars]
 
@@ -26,11 +26,13 @@ tfidf_vectorizer = TfidfVectorizer(max_df=0.2)
 tfidf_matrix = tfidf_vectorizer.fit_transform(combined_strings)
 
 car_data = pd.read_csv('Car_Data.csv')
-car_data['combined'] = car_data['year'].astype(str) + ' ' + car_data['model'] + ' ' + car_data['color'] + ' ' + car_data['brand']
+car_data['combined'] = car_data['brand'] + ' ' + car_data['model'] + ' ' + car_data['year'].astype(str) + ' ' + car_data['color']  
 
 @app.route('/', methods=['GET'])
 def index():
     return render_template('index.html')
+
+
 
 @app.route('/search', methods=['GET'])
 def search_cars():
@@ -48,6 +50,20 @@ def search_cars():
         if(len(matches)>25):
             break
     return jsonify(matches)
+
+
+@app.route('/autocomplete', methods=['GET'])
+def autocomplete():
+    query = request.args.get('query')
+    query = query.lower()
+    
+    
+    if len(query) < 2:
+        return jsonify([])
+    
+    filtered_words = [word for word in combined_strings if query in word.lower()][:10]
+    print(filtered_words)
+    return jsonify(filtered_words)
 
 
 @app.route('/recommend', methods=['GET'])
@@ -78,35 +94,16 @@ def recommend_cars():
                     query_terms[query_term] = []
                 query_terms[query_term].append(car_info)
 
-        # Apply query-specific limit and fill remaining slots
+        
         results = []
-    if query:
-        similarities = []
-        for word in query:
-            query_vector = tfidf_vectorizer.transform([word]).toarray()[0]
-            similarity = cosine_similarity(tfidf_matrix.toarray(), [query_vector])
-            similarities.append(similarity.flatten())
-
-        combined_similarities = np.sum(similarities, axis=0)
-        top_results = np.argsort(combined_similarities)[::-1]
-
-        # Group results by query term
-        for idx in top_results:
-            car_info = car_data.iloc[idx].to_dict()
-            query_term = [word for word in query if word in car_info['combined'].lower()]
-            if query_term:
-                query_term = query_term[0]
-                if query_term not in query_terms:
-                    query_terms[query_term] = []
-                query_terms[query_term].append(car_info)
-
-        # Apply query-specific limit and fill remaining slots
         limited_results = []
-        p=4
+        p=3
         for query_term, cars in query_terms.items():
-            
+            random.shuffle(cars)
             limited_results.extend(cars[:p]) 
-            p = p-1 # Limit to 2 cars per query term
+            if p > 2:
+                p = p-1
+             # Limit to 2 cars per query term
             if len(limited_results) >= 10:
                 break
 
