@@ -5,10 +5,13 @@ const searchinput = document.getElementById("searchInput")
 const searchForm = document.getElementById("searchForm")
 const autocompleteSuggestions = document.getElementById("autocompletesuggestion")
 
-
+let pendingRequest = null;
 
 async function getAutocompleteSuggestions() {
     const query = searchinput.value.trim();
+    if (pendingRequest) {
+        pendingRequest.abort();
+      }
     if (query.length > 0) {
       try {
         const response = await fetch(`/autocomplete?query=${query}`);
@@ -21,7 +24,11 @@ async function getAutocompleteSuggestions() {
           autocompleteSuggestions.appendChild(suggestion);
         });
       } catch (error) {
-        console.error(error);
+        if (error.name === 'AbortError') {
+            console.log('Request was cancelled');
+          } else {
+            console.error('Error fetching suggestions:', error);
+          }
       }
     } else {
       autocompleteSuggestions.innerHTML = '';
