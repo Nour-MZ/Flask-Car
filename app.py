@@ -102,8 +102,11 @@ def recommend_cars():
 
         # Apply query-specific limit and fill remaining slots
         limited_results = []
+        p=4
         for query_term, cars in query_terms.items():
-            limited_results.extend(cars[:2])  # Limit to 2 cars per query term
+            
+            limited_results.extend(cars[:p]) 
+            p = p-1 # Limit to 2 cars per query term
             if len(limited_results) >= 10:
                 break
 
