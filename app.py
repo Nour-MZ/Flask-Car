@@ -4,6 +4,8 @@ import numpy as np
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+from collections import OrderedDict
+
 
 
 app = Flask(__name__)
@@ -51,17 +53,15 @@ def recommend_cars():
     query = request.args.get('items')
       
     query = query.lower().split(",")
-    print(query)
 
     results = []
     if query:
-    
         similarities = []
         for word in query:
             query_vector = tfidf_vectorizer.transform([word]).toarray()[0]
             similarity = cosine_similarity(tfidf_matrix.toarray(), [query_vector])
             similarities.append(similarity.flatten())
-        print(similarities)
+        
 
         # Combine the similarities with more weight for repeated words
         combined_similarities = np.sum(similarities, axis=0)
@@ -75,14 +75,24 @@ def recommend_cars():
 
         for idx in top_results:
             car_info = car_data.iloc[idx].to_dict()
-            # This function when csv file has
-            # sanitized_car_info = {key: (value if not pd.isna(value) else None) for key, value in car_info.items()}
-            results.append({'car': car_info, 'score': float(combined_similarities[idx])})
+            
+            # Use an OrderedDict to ensure dictionary ordering
+            ordered_car_info = OrderedDict(car_info)
+            
+            # Sanitize the car info
+            sanitized_car_info = OrderedDict((key, (value if not pd.isna(value) else None)) for key, value in ordered_car_info.items())
+            
+            # Convert NumPy ints to regular Python ints
+            for key, value in sanitized_car_info.items():
+                if isinstance(value, np.int64):
+                    sanitized_car_info[key] = int(value)
+                    
+            results.append({'car': dict(sanitized_car_info), 'score': float(combined_similarities[idx])})
 
         results = sorted(results, key=lambda x: x['score'], reverse=True)
         results = results[:20]
-
-    return jsonify(results)
+        
+    return jsonify(results) 
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=4000)
+    app.run(debug=True)
