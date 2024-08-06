@@ -1,3 +1,4 @@
+import google.generativeai as genai
 from flask import Flask, jsonify, request, render_template
 import csv
 import numpy as np
@@ -6,7 +7,16 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from collections import OrderedDict
 import random
-from itertools import islice
+
+import difflib
+
+genai.configure(api_key="AIzaSyBLFXyxwRNYR8EcJZi7jbpXRJfdDw68Tc0")
+
+
+
+model = genai.GenerativeModel('gemini-1.5-flash')
+
+
 
 app = Flask(__name__)
 
@@ -27,6 +37,8 @@ tfidf_matrix = tfidf_vectorizer.fit_transform(combined_strings)
 
 car_data = pd.read_csv('Car_Data.csv')
 car_data['combined'] = car_data['brand'] + ' ' + car_data['model'] + ' ' + car_data['year'].astype(str) + ' ' + car_data['color']  
+
+colors = ['red','white','green','black','gray', 'blue']
 
 @app.route('/', methods=['GET'])
 def index():
@@ -52,6 +64,7 @@ def search_cars():
     return jsonify(matches)
 
 
+
 @app.route('/autocomplete', methods=['GET'])
 def autocomplete():
     query = request.args.get('query')
@@ -62,7 +75,7 @@ def autocomplete():
         return jsonify([])
     
     filtered_words = [word for word in combined_strings if query in word.lower()][:10]
-    print(filtered_words)
+    
     return jsonify(filtered_words)
 
 
@@ -72,43 +85,34 @@ def recommend_cars():
       
     query = query.lower().split(",")
 
+    print("query", query)
+
     results = []
     if query:
-        similarities = []
-        for word in query:
-            query_vector = tfidf_vectorizer.transform([word]).toarray()[0]
-            similarity = cosine_similarity(tfidf_matrix.toarray(), [query_vector])
-            similarities.append(similarity.flatten())
-
-        combined_similarities = np.sum(similarities, axis=0)
-        top_results = np.argsort(combined_similarities)[::-1]
-
-        # Group results by query term
-        query_terms = {}
-        for idx in top_results:
-            car_info = car_data.iloc[idx].to_dict()
-            query_term = [word for word in query if word in car_info['combined'].lower()]
-            if query_term:
-                query_term = query_term[0]
-                if query_term not in query_terms:
-                    query_terms[query_term] = []
-                query_terms[query_term].append(car_info)
-
+        response = model.generate_content(f"in 1 list seperate using commas only: give 15 similar cars to {query}")
+        newquer = response.text
         
-        results = []
-        limited_results = []
-        p=3
-        for query_term, cars in query_terms.items():
-            random.shuffle(cars)
-            limited_results.extend(cars[:p]) 
-            if p > 2:
-                p = p-1
-             # Limit to 2 cars per query term
-            if len(limited_results) >= 10:
-                break
+        
 
-        results = [{'car': car, 'score': float(combined_similarities[idx])} for idx, car in enumerate(limited_results)]
 
+        input_vehicles = newquer.split(",")
+       
+
+        for vehicle in input_vehicles:
+            close_matches = car_data['combined'].apply(lambda x: difflib.SequenceMatcher(None, vehicle, x).ratio()).nlargest(1)
+            for idx, ratio in close_matches.items():
+                match = car_data.loc[idx].to_dict()
+                results.append({
+                    'vehicle': vehicle,
+                    'brand': match['brand'],
+                    'model': match['model'],
+                    'year': match['year'],
+                    'color': match['color'],
+                    'size': match['size'],
+                    'fuel': match['fuel'],
+                    'score': ratio
+                })
+          
         return jsonify(results)
 
         

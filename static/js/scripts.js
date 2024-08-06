@@ -16,7 +16,7 @@ async function getAutocompleteSuggestions() {
       try {
         const response = await fetch(`/autocomplete?query=${query}`);
         const words = await response.json();
-        console.log("wrods", words)
+        
         autocompleteSuggestions.innerHTML = '';
         words.forEach(word => {
           const suggestion = document.createElement('div');
@@ -41,15 +41,15 @@ function updateTable(data, tableId) {
     tableBody.innerHTML = "";
     console.log(data);
     data.forEach(function (car) {
-        console.log("randoom");
+        
         var row = document.createElement("tr");
         row.innerHTML = `
-    <td>${car[Object.keys(car)[0]].brand}</td>
-    <td>${car[Object.keys(car)[0]].model}</td>
-    <td>${car[Object.keys(car)[0]].year}</td>
-    <td>${car[Object.keys(car)[0]].color}</td>
-    <td>${car[Object.keys(car)[0]].size}</td>
-    <td>${car[Object.keys(car)[0]].fuel}</td>
+     <td>${car.brand}</td>
+    <td>${car.model}</td>
+    <td>${car.year}</td>
+    <td>${car.color}</td>
+    <td>${car.size}</td>
+    <td>${car.fuel}</td>
   `;
         tableBody.appendChild(row);
     });
@@ -61,7 +61,7 @@ async function fetchCarData(query) {
             `/search?query=${encodeURIComponent(query)}`
         );
         const carList = await response.json();
-        console.log(carList)
+        
 
         const table = document.getElementById("carList");
         tableBody = document.getElementById("CarListBody");
